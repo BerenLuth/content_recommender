@@ -25,40 +25,22 @@ def file_reader(filename):
         content.append(x.lower().split())
     return [link, title, author, content]
 
-def read_stopwords():
-    f = io.open("stopwords.txt", 'r')
-    return f.read().splitlines()
-
-def remove_stopwords(my_dictionary):
-    stopwords = read_stopwords()
-    for word in stopwords:
-        try:
-            del my_dictionary[word]
-        except KeyError:
-            pass
+# TODO rimuovere punteggiatura e caratteri particolari
+def text_cleaner(article):
+    pass
 
 def start():
+    print "\n### item_reader.py ###\n"
+
     texts = []
     files = listfiles(ARTICLE_FOLDER.format(''))
 
-    #result.append(file_reader(files[0]))
     for x in files:
         texts.append(file_reader(x))
-    ''' A questo punto texts contiene tutti gli articoli, titoli, e autori '''
+    # A questo punto texts contiene tutti gli articoli, titoli, e autori
 
-    c = 1
-    from collections import defaultdict
-    frequency = defaultdict(int)
-    for text in texts:
-        for token in text[1]:
-            frequency[token] += 1
-        for x in text[3]:
-            for token in x:
-                frequency[token] += 1
-        c += 1
 
-    remove_stopwords(frequency)
+    for article in texts:
+        text_cleaner(article)   #NON ANCORA IMPLEMENTATA
 
-    dict_ordered = sorted(frequency, key=frequency.get)
-    for x in dict_ordered[::-1][:500]:
-        print x, frequency[x]
+    return texts

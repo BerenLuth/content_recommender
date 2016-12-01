@@ -77,6 +77,8 @@ def file_exist(fname):
 	return os.path.isfile(fname)
 
 def start():
+	print "\n### theverge_downloader.py ###\n"
+
 	# Verifico se esiste la cartella dove salvare gli articoli scaricati, se non esiste la creo
 	if not os.path.isdir("articoli"):
 		print("Creo la cartella articoli...")
