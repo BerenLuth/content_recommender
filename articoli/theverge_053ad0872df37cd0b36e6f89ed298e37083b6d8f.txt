@@ -1,0 +1,7 @@
+http://www.theverge.com/circuitbreaker/2016/11/29/13778420/slack-commodore-64-software-how-to-jeff-harris
+Slack looks great running on a Commodore 64 - The Verge
+Ashley Carman
+Old technology was reincarnated this year. There was the NES Classic Edition and Kodak’s revamped Super 8 camera. And now, a software engineer named Jeff Harris is twisting the formula by bringing modern technology to the past. He wrote software that runs the popular corporate messaging service Slack on his Commodore 64.
+As you might recall or can probably assume, the C64 doesn’t include a USB-C or even a USB port. Instead, it has something called a UserPort. So to run his custom software, Harris created a cable with a UserPort connector on one end and a USB TTL-RS-232 converter on the other, which he then used to connect the C64 to a Raspberry Pi. The Raspberry Pi serves as the Commodore’s connection to the internet.
+With the physical setup in place, Harris wrote an application for the Commodore that allows it to communicate with the Raspberry Pi and update its screen accordingly. He then wrote a app for the Raspberry Pi that communicates with Slack’s API to fetch data. With those ready to go, the Raspberry Pi can then provide the Commodore 64 with Slack channel information and the ability to send and receive messages. The video above has a full demo, but let’s take a moment to appreciate that keyboard.
+You can view and try out Harris’s software on Github. Instructions for the custom cable are online, too.

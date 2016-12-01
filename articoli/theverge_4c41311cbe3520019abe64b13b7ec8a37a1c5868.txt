@@ -1,0 +1,6 @@
+http://www.theverge.com/2016/4/26/11511712/oculus-rift-vr-ready-falcon-northwest
+Falcon Northwest's custom gaming PCs are now 'Oculus Ready' - The Verge
+Ross Miller
+Custom PC manufacturer, Falcon Northwest, has joined the Oculus Ready PC program. Falcon Northwest is only the fourth (arguably third) company to join the certification program after Asus, Dell, and Dell subsidiary Alienware.
+"Oculus Ready" PCs are machines that have the specifications to play VR games smoothly out of the box. (They won't help you get a Rift headset any faster.) Falcon Northwest has two models in the program, the 4-inch wide Tiki tower (with an NVIDIA GeForce GTX 980) and the larger Talon (with a GeForce GTX 980 Ti 6GB). Both have liquid-cooled Intel Core i7 processors.
+The catch is price: Falcon Northwest makes beautiful machines and that comes at a premium. The Tiki starts at $2,699, while the Talon starts at $3,099 — both customizable, at cost. It's no small price to pay, but if you put a price on style, it's not a bad choice.

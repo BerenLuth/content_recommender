@@ -1,0 +1,8 @@
+http://www.theverge.com/2016/10/27/13439498/apple-macbook-pro-secure-enclave-t1-chip
+Apple's new MacBook Pros will keep your fingerprint secure like the iPhone - The Verge
+Russell Brandom
+Apple has included a surprising new chip in its new MacBook Pro. Onstage at the company’s Fall event, Apple’s Phil Schiller revealed a new T1 chip, manufactured by Apple, that will bring the Secure Enclave on the new generation of laptops. iPhones and iPads have included Secure Enclave hardware for years, but this is the first instance of those protections on an Apple laptop.
+The T1 isn’t the main processor, and most functions will still rely on Intel’s Core i5 or i7chips, but including an Apple-made chip enables a number of important security features. Apple’s A7 chip — included in iPhones and iPads — is encoded with an inextractible private key at the factory, as part of the A7’s Secure Enclave. That private key is then used for a number of security functions, including decrypting iMessages. Previous MacBooks have typically stored private keys in software-accessible memory, a less secure alternative made necessary by reliance on third-party chips.
+Those features are particularly important for TouchID, which is built into the new MacBook Pro’s Touch Bar. That TouchID sensor, included on a MacBook for the first time, enables a single machine to switch between user accounts immediately after recognizing a registered print.
+The Secure Enclave’s protections are central to TouchID, ensuring that attackers can’t extract fingerprint information from the device, an attack that has been demonstrated on some Android phones.
+See all of the Apple news right here!

@@ -1,0 +1,14 @@
+http://www.theverge.com/2016/6/11/11908500/facebook-moments-auto-sync-notice-deletion
+Facebook threatens to delete synced photos if users don't download its new photo app - The Verge
+Jacob Kastrenakes
+Facebook has decided on quite the way to convince people to download Moments: by threatening to delete thousands of photos if they don't.
+The notice has to do with a photo syncing feature that was recently removed from Facebook's main mobile app. Starting in 2012, the core Facebook app was able to automatically upload photos from a phone's local camera roll to a private album on Facebook. They were kept there for storage, but also to make it easier to later share them publicly on Facebook.
+That syncing tool has now been moved out of the core Facebook app and into the photo app Moments. Facebook made it clear that this would happen — and in fact it happened months back, seemingly without much pushback. What Facebook was less clear about was what would happen to photos that had previously been synced
+At the time, Facebook mentioned that people would be given the chance to download their pictures in a zip file if they didn't want to move over to Moments. Now it's clear that offering is because Facebook intends to completely delete synced photos if people don't download this new app. (This only applies to auto-synced photos; not photos a person has personally uploaded.)
+TechCrunch spotted this email that someone received, warning them of the deletion:
+dang i didnt even know facebook privately synced TWELVE THOUSAND of my photos now they tryna delete them wow pic.twitter.com/Ii1fupbHQ7
+While Facebook is giving people plenty of time to make the jump over to Moments, it's being pretty shameless here about what's going on.
+Now you can perhaps argue that anyone actively using Facebook's auto sync will have already downloaded Moments. Like the person in the tweet above, it's entirely possible that Facebook will be removing photos that people forgot or didn't realize were synced.
+But it's still, to say the least, not the kindest of tactics to delete photos when Facebook certainly has the resources to go on storing them. It's a blatantly aggressive push to get people to download Moments, which Facebook seems to be hoping will be its next big app.
+This isn't the first time Facebook has been aggressive about moving people to another of its apps. Two years ago, it removed Messenger from the core Facebook app, requiring people to download Messenger's own app to keep using it on mobile. That was an annoying shift for some, but maybe not on quite the same level as what it's doing for Moments — it's not like Facebook would delete your chat account.
+Anyone who's used Facebook's auto sync feature in the past has until July 7th to download Moments or a zip file of their synced photos. Otherwise, they're going to disappear.

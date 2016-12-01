@@ -1,0 +1,9 @@
+http://www.theverge.com/2016/9/20/12994194/dark-sky-website-launches
+Dark Sky launches new website for its to-the-minute weather forecasts - The Verge
+Jacob Kastrenakes
+Dark Sky has long been one of the few indispensable mobile apps — and now The Dark Sky Company is trying to make it on the web, too.
+All of Dark Sky's key features (and more) launched online at darksky.net today. As with any weather site, it of course displays the current temperature and a weekly forecast. But more important here is Dark Sky's surprisingly accurate to-the-minute rain forecasts for your location. The site also displays a weather map, which Wired reports is "situationally aware" and designed to change depending on what type of info is most relevant. If it's raining, for instance, you might see a precipitation radar.
+"It has become clear that we shouldn’t have two distinct weather products."
+Dark Sky fans may recall many of the app's features being available on the site forecast.io since 2013. The core features were there, but the site wasn't updated to keep pace with the app. "As time has gone on, it has become clear that we shouldn’t have two distinct weather products," company co-founder Adam Grossman writes in a blog post.
+Forecast.io is now going away in favor of the newly launched darksky.net. (Similarly, The Dark Sky Company will be renaming the Forecast.io extension for developers — which let others use Dark Sky's weather data in their apps — after Dark Sky.)
+There are no ads or pro features on the website, and Wired, which spoke with Grossman, makes it sound like there aren't any plans for that in the future. Instead, the site is basically just a way to introduce Dark Sky to people who don't already know the app, which has been available on iOS since 2012 and launched earlier this year on Android. You'll probably want to bookmark the site for later.

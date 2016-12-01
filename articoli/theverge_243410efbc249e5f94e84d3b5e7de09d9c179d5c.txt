@@ -1,0 +1,23 @@
+http://www.theverge.com/2016/3/26/11311000/htc-vive-accessories-included-diagram
+You might need a manual just to unpack the HTC Vive - The Verge
+Dante D'Orazio
+The HTC Vive is an impressive piece of kit, but it's far from simple. A diagram reportedly included in an email to early adopters this week made that fact very clear by detailing the no fewer than twenty separate items included with the consumer edition. Much of this is the same as the development kits we've already tested (in fact, early models had even more wires), but it's still something else to see a consumer product other than a Lego set shipping with so many pieces.
+Much of the complexity is due to the kind of virtual reality experience offered by the Vive. Unlike the PlayStation VR or Oculus Rift, it offers a room-scale virtual reality setup, thanks to the laser tracking system powered by its lighthouse boxes. Those boxes need to be set up and plugged into the wall, and a large tether connects the headset your PC. The Vive also has two custom controllers. All of that means lots of power cables, USB cables, mounts, and more.
+If you already pre-ordered a Vive, you have until at least April 5th to study up. Hey, no one said being an early adopter would be cheap — or easy.
+A – Base station x 2
+B – Sync cable
+C – Base station power adapter x2
+D – Mounting kit
+E – Link box
+F – Link box mounting pad
+G – Link box power adapter
+H – HDMI cable
+I – USB cable
+J – Earbuds
+K – Alternate face cushion (narrow)
+L – Cleaning cloth
+M – Documentation
+N – Headset with 3-in-1 cable and audio cable
+O – Controller (with lanyard) x 2
+P – Micro USB charger x 2
+Correction: An earlier version of this article implied that the lightboxes must be connected to the PC. They merely need a power source.

@@ -1,0 +1,23 @@
+http://www.theverge.com/2016/11/1/13486512/alcatel-idol-4s-windows-10-mobile-features-release-date
+The first Windows 10 VR phone arrives at T-Mobile for $470 - The Verge
+Tom Warren
+T-Mobile gave us an early glimpse at Alcatel's Idol 4S Windows 10 phone last week, but now it's officially launching today on the US carrier. Alcatel's Idol 4S might sound familiar, as the company launched an Android version earlier this year, but this Windows 10-powered device has a few upgrades inside. Alcatel has moved to the Snapdragon 820 processor, a 5.5-inch 1080p display, 64GB internal storage with microSD slot, 4GB of RAM, and a 21-megapixel camera.
+The highlight of the device, at least for Windows 10 Mobile fans, is that this is the first Microsoft-powered phone that will support a VR experience. Alcatel's Idol 4S will be sold bundled with a low-cost VR headset similar to the Samsung Gear VR. Microsoft doesn't offer up any plans for Windows Holographic support, so it sounds like the experience will be limited to some 3D games and 360-degree videos.
+Alongside the VR support, Alcatel is also support Windows Hello and Continuum. A fingerprint reader at the rear of the device will unlock the device with Windows Hello, and you'll be able to connect a monitor, keyboard, and mouse to enable Continuum and use the phone like a PC. Until today, HP's Elite x3 was probably the most capable Windows 10 phone, but Alcatel's adds the extra VR support. The Idol 4S will be available at T-Mobile in the US for $469.99, starting November 10th.
+Grid View
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alcatel Idol 4S press photos

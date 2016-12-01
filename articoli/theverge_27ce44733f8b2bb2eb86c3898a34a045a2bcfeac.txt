@@ -1,0 +1,9 @@
+http://www.theverge.com/2016/10/10/13224968/apple-watch-banned-uk-australia-hacking
+Apple Watch banned from UK cabinet meetings over Russian hacking fears - The Verge
+James Vincent
+Politicians in the UK have reportedly been banned from wearing the Apple Watch to cabinet meetings over fears the device could be hacked. According to a report from The Telegraph, the government is worried that the Apple Watch's microphone could be used to listen in on high-level policy discussions, especially by Russian spies.
+It's a justified paranoia, especially after the announcement last week from the US government that it is officially blaming Russia for the hack on the Democratic National Committee. A source in the UK told The Telegraph: "The Russians are trying to hack everything."
+"The Russians are trying to hack everything."
+The ban on the Apple Watch is by no means unusual. Mobile phones are already prohibited in cabinet meetings in the UK, and extending the injunction to smartwatches is logical. They contain the same basic electronics and thus the same vulnerabilities.
+It was also reported today that the Apple Watch has been banned from Australian cabinet meetings as well. An advisor for Australian prime minister Malcolm Turnbull told Fairfax Media that more attention needed to be paid to communications security as an increasing number of devices — from glasses to running shoes — offered internet connectivity.
+The advisor said: "In a world in which it is necessary for government to have conversations that truly have no electronics in the room, there are going to be more and more items that will have to be locked away in cabinets."

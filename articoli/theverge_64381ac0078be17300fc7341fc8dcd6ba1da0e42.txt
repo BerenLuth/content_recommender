@@ -1,0 +1,7 @@
+http://www.theverge.com/2016/10/11/13240098/galaxy-note-7-gear-vr-support-disabled
+Oculus disables Gear VR on Galaxy Note 7 over safety fears - The Verge
+Sam Byford
+Oculus has issued an update to its mobile app that breaks Gear VR compatibility with the disastrous Galaxy Note 7, as noted by reports on Reddit and confirmed by Android Central. Oculus' website says that the Note 7 won't work with Gear VR headsets "until further notice."
+The phone's battery has been deemed a fire hazard even in replacement units that were thought to be safe, forcing Samsung to pull the plug on sales for now. With that in mind, strapping it to your face inside a virtual reality headset is probably not the best idea.
+Gear VR is a collaboration between Samsung and Oculus; it's fallen on the Facebook-owned virtual reality company to disable Galaxy Note 7 functionality itself. The following message is displayed when attempting to use a Gear VR paired to a Note 7:
+Customer safety is Oculus' top priority. Oculus is removing support for all Note 7 devices on the Oculus platform. Until further notice, Note7 devices will not be compatible with the Gear VR. For more information regarding the Note7, please contact Samsung directly.

@@ -1,0 +1,29 @@
+http://www.theverge.com/2016/5/12/11658976/gopro-google-professional-vr-camera-rig-shipping
+GoPro is finally shipping its massive professional VR rig - The Verge
+Sean O'Kane
+After months of delays, the 16-camera virtual reality rig that GoPro built with Google has finally shipped. GoPro tells The Verge that Odyssey, as it's called, has made it out to the first few companies that were vetted as part of a "limited access" pilot program.
+GoPro declined to comment on the exact number of customers who have received or even applied to buy Odyssey, but did name VR production companies WEVR, VRSE, Specular Theory, Surreal, and Two Bit Circus as some of the first to receive the rig.
+Odyssey is not your everyday virtual reality capture device. The big, spaceship-like rig costs $15,000 and uses 16 cameras to shoot three-dimensional 360-degree video. The price tag includes 16 of the company's flagship Hero 4 Black cameras, a microphone, the rig structure itself, all the necessary cables, and a Pelican case, as well as a warranty, support, and access to Google's servers.
+A powerful option for companies with a budget
+That makes it an attractive option for all types of filmmakers and companies with a bit of a budget. For comparison, Nokia's all-in-one Hollywood-ready VR camera offers similar capabilities and costs $60,000. GoPro, meanwhile, also sells a six-camera rig (much more like the commonly used homebrew solutions) for $5,000, and other companies sell rigs for even less — albeit with little to no software support. Other high-end solutions, like the Jaunt One, have no publicly stated price.
+The camera rig was announced about a year ago at the Google I/O developer conference. It was part of Google's announcement of Jump, an entire ecosystem for virtual reality filmmaking. Until recently, filmmakers looking to shoot stereoscopic 360-degree video have had to hire outside companies or cobble together their own end-to-end solutions. Jump provides filmmakers with some autonomy; they not only gain access to Google's servers, which automatically processes and stitches the VR footage, but the program also provides schematics for camera rigs.
+Grid View
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GoPro Odyssey camera rig in photos
+Odyssey was the first camera rig that was purposely built to be used with Jump. (To date, it still appears to be the only one.) GoPro started accepting applications back in September, but missed the originally promised ship date of November, and Recode reported last month that GoPro's talks with potential suitors "abruptly stalled" in January.
+GoPro tells The Verge that the delay happened because Odyssey just wasn't ready in time. "Odyssey is the industry’s only commercially available automatic sync and stitch, stereo, 360-degree video capture solution," a representative for the company says. "We will always take the time needed to give our customers the best products we can create."
+The company says it is still accepting applications on a rolling basis, but that the Odyssey rigs are shipping in waves as they are built. The unit shown above, photographed at GoPro's headquarters in San Mateo, California, is what's known as a "design validation test" unit, essentially the final version made before the company ramps up production.

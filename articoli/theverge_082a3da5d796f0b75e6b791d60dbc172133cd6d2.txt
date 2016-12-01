@@ -1,0 +1,29 @@
+http://www.theverge.com/2016/11/2/13497992/microsoft-teams-slack-competitor-features
+Microsoft Teams launches to take on Slack in the workplace - The Verge
+Tom Warren
+At an event in New York City today, Microsoft officially launched its Microsoft Teams competitor to Slack. The announcement, by Microsoft CEO Satya Nadella, comes just minutes after Slack published a warning letter to the software giant about competing with it. Microsoft is launching its Teams software as a service that ties into its existing Office 365 subscriptions. In a video demonstrating Microsoft Teams, the software maker describes the service as a chat-based workspace that's focused on real-time collaboration.
+"Microsoft teams will bring together chat, meeting, notes, Office, Planner, PowerBI, and a host of extensions and applications to help teams get work done," explains Microsoft CEO Satya Nadella. It looks a lot like Slack, and functions in similar ways with threaded persistent chats that can be open or private 1:1 sessions. It also includes a familiar-looking sidebar with meetings, files, chat, and activity notifications. The conversation view includes the ability to drop meetings straight into chat, alongside files, notes, and project boards.
+Grid View
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Teams photos
+Microsoft Teams is deeply integrated into Skype and Office
+Microsoft is, of course, integrating Teams deeply into Office and Skype. Word, Excel, PowerPoint, and OneNote are all built-into Microsoft Teams, alongside meetings with Skype for Business. For businesses truly living in a Microsoft world, there's also integration with SharePoint, Power BI, and Planner. Just like Slack, you can search across people, files, and chats, and Microsoft is using its Exchange integration to provide notifications.
+The real key is how Microsoft will extend Teams beyond just Microsoft services. Slack has done a great job of integrating a range of third-party services, and it looks like Microsoft has similar plans. You can create tabs that integrate with other cloud services, alongside tailored channels and even custom memes throughout chats. Microsoft is also making Teams extensible with open APIs and its own bot framework.
+Microsoft demonstrated Twitter integrations at its event, where you can push messages from particular Twitter accounts into chat rooms, alongside the ability to create quick polls, or share custom meme images. One of the more interesting features is Microsoft's Skype integration, and the ability for chat room members to drop in and out of persistent video calls to gather for projects or a quick chat.
+Microsoft Teams preview today, full launch early next year
+Microsoft is allowing Office 365 customers preview the Microsoft Teams service today, in 181 countries and 18 languages. Microsoft plans to include Microsoft Teams in all Office 365 Business and Enterprise suites, with general availability slated for early 2017. Microsoft is also opening its developer preview program today, with 150 integrations expected at launch early next year, alongside 70 connectors and 85 bots.
+It's no surprise that Slack is worried about Microsoft Teams. The software maker has 85 million active Office 365 commercial customers, and Microsoft is providing its chat software as part of that existing subscription. Slack has seen impressive growth with 4 million daily active users, but it hasn't managed to break into all of the big companies that are dominated by Microsoft's productivity tools. Slack is used by 28 out of Fortune 100 companies, and some key customers include IBM, eBay, EA, Pinterest, TIME, and LinkedIn. Microsoft's Team software will serve those who live in a Microsoft world, but Slack will still have the benefit of reaching emerging startups, small businesses, and other businesses that don't rely on Windows or Office. Microsoft didn't discuss how it plans to address that part of the market, but it's a key section that has allowed Slack to grow and thrive.

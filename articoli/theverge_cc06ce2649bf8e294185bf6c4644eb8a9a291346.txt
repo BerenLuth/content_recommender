@@ -1,0 +1,15 @@
+http://www.theverge.com/2016/5/5/11602428/steamvr-virtual-reality-custom-vive-controller-base-station-skins
+SteamVR can give your Vive controllers a Portal-themed makeover - The Verge
+Adi Robertson
+There's something wonderful about tiny custom items in video games. They're the virtual equivalent of jewelry: you don't have to coordinate an entire outfit, just add a few little accents that make you feel special. And if you own a Vive VR headset, you now can apply new looks to your controllers and base stations.
+One of the unique things about the Vive is that you're actually able to see your motion controllers inside virtual reality, along with the laser towers that help track your body. Until now, the models looked pretty much like their real-life equivalents. But if you opt into the beta version of Valve's SteamVR software, the company has added an option to swap out these generic skins for custom designs. Like the various SteamVR backgrounds that you could already get on the Vive, you'll find these fan-made items in the Steam Workshop.
+This feature has been around for about a week, although it's gotten a little higher-profile since Road to VR picked it up yesterday. And so far, there's not a huge variety of liveries from which to pick. But this also means you get some insight into what kind of designs people flock to first.
+Like everything that's even vaguely related to the Vive, this means stuff from Portal. You'll see three different colors for the Aperture Science-themed controllers above, plus security cameras and turrets to stand in for the base stations. From there, the options branch out into more general game-themed items, like this rather classy Titanfall controller:
+(Tural / Steam Workshop)
+Some are a little more whimsical, like an entire series of My Little Pony skins:
+(Phobos / Steam Workshop)
+If you'd rather get a '70s rec room vibe, you can check out some faux wood controllers with matching base stations:
+(Senescent / Steam Workshop)
+And if... well, to be perfectly honest, I'm not sure what's going on with this one, which Valve itself put up as a reference design. But if you want a controller that's been given more than a simple recoloring, here you go.
+(Valve Artists / Steam Workshop)
+All these models are free in the Workshop, and Vive owners can add them to their virtual setup by using the in-VR customization menu. Everyone else can browse the rest of the designs here.

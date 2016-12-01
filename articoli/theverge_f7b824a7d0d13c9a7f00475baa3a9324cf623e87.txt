@@ -1,0 +1,8 @@
+http://www.theverge.com/2016/9/19/12973812/twitter-expanded-tweets-usernames-media-replies
+Twitter's new, longer tweets have arrived - The Verge
+Casey Newton
+Tweets are holding steady at 140 characters, but a variety of additions to your tweets will no longer count against that limit. As The Verge reported last week, Twitter said today it was rolling out expanded tweets around the world. Media attachments including images, GIFs, videos, and polls will no longer count against the 140-character limit. Neither will quote tweets, though if include a link to another tweet in your own that will count as normal.
+Say more about what's happening! Rolling out now: photos, videos, GIFs, polls, and Quote Tweets no longer count toward your 140 characters. pic.twitter.com/I9pUC0NdZC
+The company is also testing out new replies that will omit usernames of the people you are replying to from the character limit. If you reply to multiple people at once, Twitter omits all of them from your tweet, according to a GIF the company shared.
+These are welcome changes from Twitter, which has dragged its feet in rolling out expanded tweets after developing them for more than a year. The company designed tweets that could contain up to 10,000 characters but abandoned the design amid concerns that it ran counter to Twitter's identity as a place for brief updates. The plan was later scaled back to the changes that are rolling out today.
+Correction, 1:50 p.m.: This article has been updated to reflect that when you reply to multiple usernames, none of the usernames will count against the 140-character limit.

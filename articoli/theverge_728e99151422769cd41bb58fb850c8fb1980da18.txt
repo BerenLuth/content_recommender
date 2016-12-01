@@ -1,0 +1,8 @@
+http://www.theverge.com/2016/9/15/12933546/imessage-nazi-gifs-ios-10
+There are also Nazi GIFs in iMessage - The Verge
+Jacob Kastrenakes
+It's not really a secret at this point that Apple has been finding some unexpected results in iMessage's GIF search. Most of those have been pornographic — first there was an explicit My Little Pony GIF, then there was hardcore porn, and then there was a bunch of other nudity that Gizmodo found.
+It turns out there's also a Nazi meme and various GIFs of Hitler.
+If you search for the word "power" in iMessage right now, the first result will be a meme'd image of the Power Rangers giving a salute, with a swastika in the background and the words "Heil Hitler" flashing over them. It's a blatantly offensive GIF, and the fact that — like some of the porn results that popped up — it came from searching a completely unrelated term makes the problem that much bigger.
+iMessage's GIF search will also pull up various GIFs of Hitler if you search for "Nazi" and "Hitler." Meanwhile, a search for "Jew" results in a South Park GIF of Cartman saying "You stupid Jew." The GIF search then turns into a straight image search if you look for terms like "Holocaust." There's an argument to be made that a built-in image search is helpful, but it doesn't look good when it's sold as a fun feature for sending silly images to friends.
+Apple has yet to comment on the issue, but it seems to be removing inappropriate search terms and results as they come up.

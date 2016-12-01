@@ -1,0 +1,8 @@
+http://www.theverge.com/circuitbreaker/2016/10/27/13440830/macbook-pro-iphone-lightning-usb-c-adapter-dongle
+You need an adapter (or a new cable) to plug your iPhone into the new MacBook Pros - The Verge
+Sean O'Kane
+Apple just announced a lineup of three new MacBook Pro laptops, each of which is decked out with four (four!) USB Type-C ports. And as is the case with all things Apple these days, you know what that means — you’re going to need more dongles.
+More specifically, you now need purchase either a USB 2.0 (old USB) to USB Type-C dongle or a Lightning-to-USB-C cable to connect your shiny new iPhone 7 — or any old iPhone, to be clear — to use any of these new MacBook Pros. (There’s also currently no dongle that will let you use the new Lightning EarPods on the new MacBook Pros. You’d need to daisy-chain a few together.)
+Now, do you need to plug your phone into your computer? Not necessarily. You’ll get a faster charge from a wall outlet, for one thing. But — and I can’t believe I’m saying this — if iTunes is good for anything these days, it’s managing apps, music, and sometimes even iOS updates on your iPhone. Doing any of those things just got one step harder.
+A future where phones, laptops, and other products all use USB Type-C could be a great one. Certain USB-C ports can handle data and power at the same time, and a reversible universal connector that works on both ends of the cable — and across products that run iOS, macOS, Android, and Windows — sounds like a good future!
+But that future is still out on the horizon, and to get there we have to paddle through a sea of dongles. At least the new MacBook Pro has a headphone jack.

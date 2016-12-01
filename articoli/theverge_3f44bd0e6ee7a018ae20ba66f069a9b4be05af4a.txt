@@ -1,0 +1,7 @@
+http://www.theverge.com/2016/10/14/13283200/google-news-fact-check-election
+Google News launches fact check feature ahead of Election Day - The Verge
+Amar Toor
+Google News this week launched a fact check feature that will be displayed in searches for news stories. The feature, announced on Thursday, launches amid a US presidential election that has been marred by misinformation and outright lies, most glaringly from Republican candidate Donald Trump.
+The "fact check" label will now appear in expanded story boxes on the Google News website and mobile apps, alongside other labels such as "opinion" and "highly cited." It is currently available for users in the US and UK. Google uses its Claim Review process to algorithmically determine whether a fact check is relevant to a given story, and highlights sources that "follow the commonly accepted criteria for fact checks." It is not clear how many fact check sites have been included in Google's system, though the company invited sites to apply in a blog post published yesterday.
+"We’re excited to see the growth of the Fact Check community and to shine a light on its efforts to divine fact from fiction, wisdom from spin," Richard Gingras, Google's head of news, wrote in the blog post.
+As The Guardian notes, Facebook has yet to deploy any fact-checking systems, despite being an increasingly important source of news. The social network has come under criticism in recent months for continually promoting fake news stories through its "Trending Topics" algorithm.

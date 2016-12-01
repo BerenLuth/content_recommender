@@ -1,0 +1,16 @@
+http://recode.net/2016/03/31/stubhub-will-use-virtual-reality-to-let-you-preview-your-seat/
+StubHub Will Use Virtual Reality to Let You Preview Your Seat - Recode
+Ina Fried
+Like many companies, eBay is convinced virtual reality is the next big thing. But also like a lot of companies, eBay is trying to figure out just what that means for its business.
+On Thursday, the company is announcing its first small foray into the VR arena, as subsidiary StubHub offers Final Four ticket buyers the option to get an immersive, 3-D view of available seats. A similar option will also appear for those looking to purchase baseball tickets for AT&T Park, home of the San Francisco Giants.
+The experience will work from within the existing StubHub apps for iOS and Android. Customers will have the option of either using a smartphone or tablet and rotating it around to see different views, or popping their phone into a VR headset like Google Cardboard or Gear VR for a more immersive view.
+“We didn’t want to do something just for fun or [as] a marketing gimmick,” said Marcus Shelksohn, StubHub’s head of product for mobile apps. Being able to see what the view is like solves a real problem for customers, he said. “Are those seats that are closer to the court really worth the extra $50?”
+StubHub isn’t alone, with other online ticket sellers, teams and venues also working to offer interactive seat maps using virtual reality.
+Rival Rukkus, for example, is working on offering would-be seat buyers a chance to view potential seats using immersive panoramic photography. StubHub, meanwhile, has opted for 3-D renderings over actual photography.
+StubHub executives said the renderings offer a cleaner, smoother and potentially less costly to produce method to give ticket buyers a preview of their seats.
+Devin Wenig, eBay’s CEO, says VR has been overhyped for a long time, but he has grown convinced that it is more than just a passing fad.
+“It is not a feature; it is a platform,” he said.
+However, figuring out just what it means for an online marketplace is less clear. Wenig said the largest opportunity for eBay is probably in high-priced categories like cars, antiques, paintings and fashion, where getting a close-up view matters more than on commodity purchases.
+“The plan is to start to attack some of those more emotionally driven categories where the trust gap is hard to bridge,” he said.
+The StubHub experiment — and Wenig said it is just that — won’t be eBay’s last, with other endeavors planned for the core brand. The initial VR effort, which offers maps of Houston’s NRG Stadium and AT&T Park, was put together in a few weeks by fewer than a dozen people.
+Additional reporting by Jason Del Rey.

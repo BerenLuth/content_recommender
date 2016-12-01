@@ -1,0 +1,7 @@
+http://www.theverge.com/2016/9/9/12860838/google-photos-update-live-photos-editing-feature
+Google Photos for iOS now lets you turn your Live Photos into GIFs - The Verge
+Kwame Opam
+Google is making the already-great Google Photos app for iOS even better. Version 2.0, released this week, now gives users the ability to edit Live Photos and turn them into shareable GIFs and video clips, making the images more accessible to those not using iPhones.
+The feature debuted with the excellent Motion Stills app
+Google Research first introduced the ability to edit Live Photos earlier this summer with the excellent Motion Stills app. That app searched your Camera Roll for Live Photos and edited them down into GIFs or movies with minimal shake. It was fun and the value was obvious. After all, what’s the sense in having great little clips attached to your images if you can’t share them to, say, Instagram? That feature has been rolled right into Google Photos 2.0.
+In addition, 2.0 also lets you share video clips on YouTube. For more granular edits, you’ll still need to download Motion Still, but all this represents a welcome update to what’s already a highly competitive photo service on iOS.

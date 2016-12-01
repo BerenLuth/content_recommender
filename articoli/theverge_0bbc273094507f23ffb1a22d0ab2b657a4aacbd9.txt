@@ -1,0 +1,7 @@
+http://www.theverge.com/2016/4/26/11509462/htc-vive-ifixit-teardown-photodiodes-spinny-lasers
+HTC Vive guts reveal photodiodes and spinning lasers - The Verge
+Paul Miller
+iFixit has done its customary teardown work on the HTC Vive, and there's a lot of tech to be seen in there! Most prominent are the oodles of photodiodes placed strategically all over the headset and the Vive controller. iFixit has also done the work to identify and label every chip inside the headset, which are all over the place (the circuit board doesn't look as condensed or consolidated as the Oculus Rift's board.)
+They even delve into one of the Vive's "Lighthouse" laser base stations, that include motors that literally spin the lasers in order to help the headset's sensors track their position. So that's cool. iFixit rates the Vive at an eight out of ten "repairability," compared to the Rift's score of seven. As these headsets get smaller, lighter, and better — like smartphones before them — odds are that number will go way down.
+iFixit
+iFixit

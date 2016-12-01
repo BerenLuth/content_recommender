@@ -1,0 +1,7 @@
+http://www.theverge.com/2016/10/26/13428460/google-cast-app-home-new-name-chromecast
+The Google Cast app is now called 'Google Home' - The Verge
+Chaim Gartenberg
+Google is gearing up for the release of Google Home in early November by updating the Google Cast app with a new design and a new name: "Google Home."
+This marks, somewhat confusingly, the third name for Google’s companion application for controlling Google-branded connected devices, following the original "Chromecast" and "Google Cast" names. And while the consolidated branding is sure to be helpful going forward, as the Google Home app now serves as a one-stop shop to manage all your Google Home and Chromecast devices, it’s easy to see that it could be a bit confusing for customers who are familiar with the old product names.
+Along with the new moniker, Google has updated the app with "Watch" and "Discover" tabs, making it easier to find new suggested content to watch on your Chromecast, along with a library of applications that support the device.
+The updated Google Home app should roll out to Android and iOS devices sometime this week.

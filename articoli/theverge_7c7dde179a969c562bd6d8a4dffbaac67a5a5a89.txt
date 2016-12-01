@@ -1,0 +1,10 @@
+http://www.theverge.com/2016/10/20/13343682/fake-apple-chargers-amazon-lawsuit
+Apple lawsuit says 90 percent of 'official' chargers sold on Amazon are fake - The Verge
+James Vincent
+Ever had to buy a new Apple charger from Amazon? Well beware even those labeled as the genuine article — according to a recent lawsuit filed by Apple, 90 percent of them are fake.
+The iPhone maker is currently suing a company named Mobile Star LLC for trademark infringement, alleging that the firm has been passing off counterfeit Apple chargers as the real thing. PatentlyApple has posted the text of the lawsuit, in which Apple reports buying a number of Mobile Star's chargers from Amazon.
+As the screenshot below shows, these chargers were listed as genuine Apple products being shipped and sold by Amazon. But Apple's engineers said that when the products arrived, they were found to be "poorly constructed, with inferior or missing components, flawed design, and inadequate electrical insulation." And they weren't just fakes; they were dangerous fakes — with the potential to catch fire or electrocute users.
+Apple writes:
+"Consumers, relying on Amazon.com's reputation, have no reason to suspect the power products they purchased from Amazon.com are anything but genuine. This is particularly true where, as here, the products are sold directly 'by Amazon.com' as genuine Apple products using Apple's own product marketing images."
+As supporting evidence, Apple also describes buying more than 100 "iPhone devices, Apple power products, and Lightning cables sold as genuine" by other sellers on Amazon. Amazingly, the company found that 90 percent of these products were actually fakes.
+The lawsuit says that when Apple alerted Amazon to the problematic chargers supplied to it by Mobile Star, the online retailer turned over its entire inventory purchased from the company. In a statement sent to MacRumors, Amazon said it has "zero tolerance for the sale of counterfeits," and that it works "closely with manufacturers and brands, and [pursues] wrongdoers aggressively."

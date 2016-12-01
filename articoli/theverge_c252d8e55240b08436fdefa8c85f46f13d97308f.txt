@@ -1,0 +1,4 @@
+http://www.theverge.com/2016/10/26/13416334/microsoft-paint-3d-minecraft-3d-printing
+Microsoft's new Paint 3D app will let you 3D print your Minecraft creations - The Verge
+Andrew Webster
+At an event in New York City today, Microsoft unveiled a radically updated version of its ubiquitous Paint app for Windows 10, one that lets users build three-dimensional creations. And it turns out that the new tool will be especially useful for Minecraft players. According to Microsoft, players will not only be able to export their in-game creations to the new Paint 3D tool, but then 3D print them from the app, so you can have a real live version of your previously digital creation. There are already a few third-party options that offer similar services, of course, but given the tight integration between Minecraft and Paint 3D, this should be the most streamlined way yet.

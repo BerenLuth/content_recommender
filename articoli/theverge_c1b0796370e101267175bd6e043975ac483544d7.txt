@@ -1,0 +1,33 @@
+http://www.theverge.com/2016/10/27/13436750/apple-macbook-pro-announced-laptop-price-release-date-specs
+Apple announces new MacBook Pro with Touch Bar, Touch ID, and USB-C - The Verge
+Vlad Savov
+The main attraction of Apple’s "Hello Again" event today has just been made official with the new 2016 MacBook Pro. It’s been a very long time since Apple meaningfully redesigned its flagship laptop, which has felt somewhat neglected with only the addition of a Force Touch trackpad as a major change in the past two years. But today Apple is rectifying all that in a big way with a fundamentally redesigned MacBook Pro.
+Follow along here as we enumerate everything that's changed with the brand new MBP.
+- Metal on all sides in the new design, "incredibly extreme," according to Phil Schiller.
+- The OLED touch strip at the top that had been rumored is present, as expected. Apple calls it Touch Bar and it does actually have an Esc key, it's just in software rather than a dedicated button. It's claimed to be a Retina display in its own right, and it responds to both taps and gestures. To the right of the Touch Bar is a Touch ID fingerprint authentication module. It's the second-generation Touch ID and it's protected by a sapphire glass cover.
+- Thinnest and lightest MacBook Pro ever. Comes in silver and space gray color options. The 13-inch MBP weighs 3 pounds and measures in at 14.9mm of thickness, down from 18mm currently.
+- Much larger Force Touch trackpad, twice the size on the 15-inch model (46 percent larger on the 13), in fact, and the butterfly mechanism keyboard — second generation of the technology — of the thin MacBook.
+Grid View
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MacBook Pro announcement photos
+- The new display is 67 percent brighter, has a 67 percent better contrast ratio, and displays 25 percent more colors. Apple says that despite these developments, it consumes 30 percent less energy than before.
+- For processor, the new 15-inch MacBook Pro has a quad-core sixth-generation (NOT seventh-generation) Intel Core i7 chip and 2,133mHz memory. It has an ATI Radeon Pro graphics card with up to 4GB of RAM. You can get up a 2TB SDD that's up to 50 percent faster and the 15-inch model comes with 16GB of RAM. Apple claims the 15-inch's speakers are louder and have twice as much dynamic range.
+- The 13-inch model has either sixth-gen Core i5 or i7 processors and Intel Iris Pro graphics. It has the same faster memory as the larger model, but only has 8GB of it.
+- Both machines have four Thunderbolt 3 USB Type-C ports, any one of which can be used for charging. They also have a 3.5mm headphone jack, but no SD card slots or other types of ports. Apple says the USB-C ports replace power, Thunderbolt, USB, DisplayPort, HDMI, and VGA ports. Unfortunately, this means that the new MacBook Pro doesn't have a MagSafe power cord anymore, much like the 12-inch MacBook.
+-Battery life is said to be "up to 10 hours" for both versions, which is slightly longer than the previous models.
+-In addition to the 13-inch and 15-inch models with the Touch Bar, Apple is also introducing a 13-inch model without the touch strip, which is designed to take the place of the MacBook Air. Compared to the old MacBook Air, the new MacBook Pro is over 2mm thinner (at the thickest point) and has 13 percent less volume. It has two Thunderbolt 3 USB-C ports instead of the four of the other Pro models and a lower spec Core i5 processor.
+-The entry-level MacBook Pro starts at $1,499, while the 13-inch model with the Touch Bar runs $1,799. Apple is also keeping around a $1,299 MacBook with the previous design, aimed particularly at enterprise customers. The new 15-inch MacBook Pro starts at $2,399. All three models can be ordered starting today, but only the low-end version is shipping immediately. The Touch Bar models will ship in two to three weeks.

@@ -1,0 +1,5 @@
+http://www.theverge.com/2016/11/22/13717566/xbox-one-oculus-rift-game-streaming
+Oculus Rift gets Xbox One game streaming on December 12th - The Verge
+Tom Warren
+Microsoft originally announced its plans to stream Xbox One games to the Oculus Rift back in June, 2015. While it's taken nearly 18 months to arrive, the software giant is planning to allow Oculus Rift owners to play Xbox One games on December 12th. Rift owners will be able to download a free Xbox One streaming app from the Oculus Store, and any console output will be streamed directly to the Rift headset.
+Microsoft is also supporting the Rift natively in Windows 10, and the company continues to ship its wireless controllers with the Rift as part of its partnership. Microsoft is now pressing ahead with its Project Scorpio console plans, and the company is expected to detail its VR-ready Xbox in the new year. Microsoft's partnership with Oculus has so far been limited to this game streaming and Xbox controller support, but with Microsoft increasingly investing in VR it leaves the door open for more direct support with Scorpio and beyond.

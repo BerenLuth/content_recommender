@@ -1,0 +1,6 @@
+http://www.theverge.com/circuitbreaker/2016/11/21/13695818/zte-axon-7-pressure-sensitive-screen-us-release
+ZTE is bringing an Android phone with Force Touch to the US - The Verge
+Ashley Carman
+ZTE is releasing the higher end version of this year’s Axon 7 phone today, marking the first time an Android phone with a pressure-sensitive screen has been released in the US. ZTE introduced two versions of its Axon 7 earlier this year: one 64GB model with 4GB of RAM and one with 128GB of storage and 6GB of RAM. The former model costs $399.98 and started shipping in July. At the time of the Axon 7’s introduction, ZTE didn’t commit to releasing the higher-end model. But now it’s making the phone available to US customers for $499.98 on its website.
+Here are the other spec details:
+As I noted above, the phone includes pressure sensitivity for the first time in the US. Other Android phone makers, like Huawei, have introduced pressure-sensitive displays, although not in the US. We thought Android N would possibly ship with support for something akin to Apple’s Force and 3D Touch, but the new OS ended up being released without it. It will be up to manufacturers like ZTE to figure out their own methods for designing suitable uses for the extra sensitivity of their displays.

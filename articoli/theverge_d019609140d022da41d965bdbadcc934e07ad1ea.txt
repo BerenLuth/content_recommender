@@ -1,0 +1,26 @@
+http://www.theverge.com/2016/9/19/12961658/gopro-karma-drone-announced-price-specs-release
+GoPro's Karma drone folds up and fits in a backpack - The Verge
+Sean O'Kane
+GoPro has finally taken the wraps off of the long-awaited Karma drone. Initially teased at the 2015 Code Conference and delayed earlier this year, the quadcopter was just shown off for the first time alongside two new action cameras at an event in Northern California. Karma will go on sale on October 23rd. It costs $799 alone, $1,099 with a Hero 5, or $999 with a Hero 5 Session.
+The biggest selling point for Karma is its ease of use. That starts with a foldable design for easy storage and carrying — GoPro is even including a small backpack with the drone. Karma users will control the quadcopter from a very simple clamshell-shaped controller. On one half of the controller is a touchscreen display and on the other are two joysticks with a bare minimum of buttons. You can use the controller to set up a cable cam mode, too.
+Grid View
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GoPro Karma drone and handheld stabilizer
+The Karma drone can fly with the new Hero 5 Black, Hero 5 Session, and Hero 4. At the front of the drone there’s a 3-axis gimbal that stabilizes the cameras for smooth footage, and this gimbal can also be removed from the drone for handheld use — an idea that Chinese electronics company Yuneec included on its Typhoon drone.
+The Karma drone has its camera positioned on the front, not slung underneath. GoPro says this will help eliminate the appearance of rotors, which can crop up in your shot if you're flying a DJI or Yuneec drone forward at full tilt. Like most camera drones these days, it has one button for takeoff, landing, and returning to home. It also has four preprogrammed shots: dronie, cable cam, reveal, and orbit. GoPro is also offering a "passenger app" that allows another person to see the live video feed from the drone and even control the camera position.
+It's not clear what system the Karma uses to track its subject. Some drones follow a dedicated GPS device the user carries on them, while others just follow the GPS of the smartphone paired with the drone. The newest DJI drone can also track users with computer vision technology.
+Yuneec has also offered drone remotes with built-in displays, and DJI is rumored to be releasing a foldable drone next week. In that light, GoPro will have to rely on how those features on Karma combine with all the big-picture stuff — like the new cloud storage subscription service, or GoPro's deep ecosystem of mounts and accessories — to sell the company’s first entry into the drone market.
