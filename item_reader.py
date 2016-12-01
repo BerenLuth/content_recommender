@@ -58,7 +58,11 @@ def start():
         c += 1
 
     remove_stopwords(frequency)
-    test = [x for x in sorted(frequency.values()) if x>1][::-1][:500]
-    print test
+
+    test = []
+    for w in sorted(frequency, key=frequency.get, reverse=True):
+        print w, frequency[w]
+        test.append([w, frequency[w]])
+
     print "parole trovate: " + str(len(frequency))
     print str(read_stopwords)
