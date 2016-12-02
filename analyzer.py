@@ -1,6 +1,8 @@
 from collections import defaultdict
 import io
 
+rank_list_filename = "rank_list.dat"
+
 def read_stopwords():
     f = io.open("stopwords.txt", 'r')
     return f.read().splitlines()
@@ -33,13 +35,13 @@ def dictionary_creator(texts):
     return frequency
 
 def print_graph_coordinates(rank_list, occurrence):
-    f = io.open("rank_list.dat", 'w')
+    f = io.open(rank_list_filename, 'w')
     f.write(u"#\tx\ty\n")
     c = 0
     for element in rank_list[::-1][:500]:
         f.write(u"\t" + str(c) + "\t" + str(occurrence[element]) + "\n")
         c +=1
-    print "Creato file rank_list.dat"
+    print "Creato file ", rank_list_filename
 
 def start(texts):
     print "\n### analyzer.py ###"
