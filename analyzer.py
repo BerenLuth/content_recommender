@@ -39,6 +39,7 @@ def print_graph_coordinates(rank_list, occurrence):
     for element in rank_list[::-1][:500]:
         f.write(u"\t" + str(c) + "\t" + str(occurrence[element]) + "\n")
         c +=1
+    print "Creato file rank_list.dat"
 
 def start(texts):
     print "\n### analyzer.py ###"
@@ -47,7 +48,9 @@ def start(texts):
     remove_single_occurrence(frequency)
 
     dict_ordered = sorted(frequency, key=frequency.get)
+    '''
     for x in dict_ordered[::-1][:500]:
         print x, frequency[x]
+    '''
 
     print_graph_coordinates(dict_ordered, frequency)
