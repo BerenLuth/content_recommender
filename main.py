@@ -18,4 +18,7 @@ if __name__ == '__main__':
     texts = ir.start()
     an.start(texts)
 
+    x11 = dumb
+    ''' if x11 works, uncomment next line '''
+    x11 = ""
     system(gnuplot_command.format(dumb))
