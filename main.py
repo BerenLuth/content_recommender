@@ -20,5 +20,5 @@ if __name__ == '__main__':
 
     x11 = dumb
     ''' if x11 works, uncomment next line '''
-    x11 = ""
-    system(gnuplot_command.format(dumb))
+    #x11 = ""
+    system(gnuplot_command.format(x11))
