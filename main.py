@@ -10,12 +10,12 @@ def windows_gnuplot_command():
     system(gnuplot_command)
 
 def linux_gnuplot_command():
-    x11_command_1 = "set style line 1 lc rgb \'#0060ad\' lt 1 lw 2 pt 7 ps 1.5   # --- blue;"
-    x11_command_2 = "plot \'rank_list.dat\' title \'500 most frequent words occurrences\' with linespoints ls 1"
+    x11_command_1 = u"set style line 1 lc rgb \'#0060ad\' lt 1 lw 2 pt 7 ps 1.5   # --- blue;"
+    x11_command_2 = u"plot \'rank_list.dat\' title \'500 most frequent words occurrences\' with linespoints ls 1"
     f = io.open('tmp_gnuplot.gp', 'w')
-    f.write(x11_command_1 + x11_command_2)
-    system('gnuplot tmp.gp')
-    remove('tmp_gnuplot.gp')
+    f.write((x11_command_1 + " " + x11_command_2))
+    system('gnuplot tmp_gnuplot.gp')
+    #remove('tmp_gnuplot.gp')
 
 
 def X_is_running():
