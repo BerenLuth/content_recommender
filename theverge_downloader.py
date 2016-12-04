@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup as bs
 THEVERGE_URL = "http://www.theverge.com/{}/archives/{}"
 CATEGORIES = ["microsoft","apple","google","apps","photography","vr-virtual-reality","tech"]
 ARTICLE_NAME = "articoli/theverge_{}.txt"
-ITEMS_NUMBER = 900
+ITEMS_NUMBER = 1000
 
 
 #prende i 10 url dalla pagina web
@@ -31,7 +31,7 @@ def get_content_from_article_page(url):
 		name = soup.find('span', {'class':'c-byline__item'}).a.get_text()
 		text = "\n".join([x.get_text().strip() for x in soup.find('div', {'class':'c-entry-content'}).find_all('p') if x.get_text().strip()])
 	except AttributeError as ae:
-		print "errore nella lettura dell'articolo " + url
+		print "\terrore nella lettura dell'articolo " + url
 		return None
 	return [url, title, name, text]
 
@@ -64,10 +64,10 @@ def save_articles(linklist):
 			tmp = downloaded_articles()
 			if tmp < 1000:
 				if (tmp/10) > last_percentage:
-					print str(tmp/10) + "%"
+					print "\t",str(tmp/10) + "%"
 					last_percentage = tmp/10
 			else:
-				print "100% \n Download completato"
+				print "\t","100% \n Download completato"
 				return
 
 def downloaded_articles():
@@ -81,17 +81,17 @@ def start():
 
 	# Verifico se esiste la cartella dove salvare gli articoli scaricati, se non esiste la creo
 	if not os.path.isdir("articoli"):
-		print("Creo la cartella articoli...")
+		print("\tCreo la cartella articoli...")
 		os.makedirs("articoli")
 
-	print "Articoli presenti: " + str(downloaded_articles())
+	print "\tArticoli presenti: " + str(downloaded_articles())
 	# se non sono presenti almeno 1000 articoli lancio il download
 	if downloaded_articles() < ITEMS_NUMBER:
-		print "Sono necessari almeno 1000 articoli: avvio il download..."
+		print "\tSono necessari almeno 1000 articoli: avvio il download..."
 		linklist = list()
 		# per ogni categoria recuper i link dall'archivio
 		for category in CATEGORIES:
-			print "Recupero i link della categoria " + category + "..."
+			print "\tRecupero i link della categoria " + category + "..."
 			c = 1
 			# valore ideale: 12 cicli +- 1000 articoli
 			while c<13:
@@ -107,4 +107,4 @@ def start():
 		# che si occupa di scaricare gli articoli e salvarli
 		save_articles(linklist)
 	else:
-		print "Il numero di articoli e' sufficiente"
+		print "\tIl numero di articoli e' sufficiente"

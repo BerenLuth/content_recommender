@@ -1,34 +1,19 @@
 import theverge_downloader as tvd
 import item_reader as ir
 import analyzer as an
-from os import system, remove
+import gnuplot as plot
 import io
-
-gnuplot_command = "gnuplot -e \"set term dumb; plot \'rank_list.dat\' title \'500 most frequent words occurrences\'\""
-
-def windows_gnuplot_command():
-    system(gnuplot_command)
-
-def linux_gnuplot_command():
-    x11_command_1 = u"set style line 1 lc rgb \'#0060ad\' lt 1 lw 2 pt 7 ps 1.5   # --- blue;"
-    x11_command_2 = u"plot \'rank_list.dat\' title \'500 most frequent words occurrences\' with linespoints ls 1"
-    f = io.open('tmp_gnuplot.gp', 'w')
-    f.write((x11_command_1 + " " + x11_command_2))
-    system('gnuplot tmp_gnuplot.gp')
-    #remove('tmp_gnuplot.gp')
-
-
-def X_is_running():
-    from subprocess import Popen, PIPE
-    p = Popen(["xset", "-q"], stdout=PIPE, stderr=PIPE)
-    p.communicate()
-    return p.returncode == 0
 
 if __name__ == '__main__':
     print "\n### main.py ###\n"
     tvd.start()
     texts = ir.start()
-    an.start(texts)
 
-    windows_gnuplot_command()
-    linux_gnuplot_command()
+    # B.1 - stampa dei dati cosi' come sono stati letti
+    an.start_dirty(texts)
+
+    # B.2 - stampa dei dati dopo la rimozione delle stopwords e di lemmatize
+    clean_text = an.start_clean(texts)
+
+    # B.3 - suggerimento articoli
+    an.content_recommender(texts, clean_text)

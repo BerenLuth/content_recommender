@@ -1,1 +1,0 @@
-set style line 1 lc rgb '#0060ad' lt 1 lw 2 pt 7 ps 1.5   # --- blue; plot 'rank_list.dat' title '500 most frequent words occurrences' with linespoints ls 1
