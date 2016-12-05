@@ -1,0 +1,6 @@
+http://www.theverge.com/2016/6/22/11999014/about-a-third-of-valve-is-now-working-on-vr
+'About a third' of Valve is now working on VR - The Verge
+Sam Byford
+Valve is the dominant player in PC gaming, and its Vive VR system — co-developed by HTC — is still a very niche affair, so you might not expect the company to have devoted too many resources to it just yet. According to hardware engineer Alan Yates, however, the VR division now represents around a third of Valve and is working on future generations of the product.
+"I was super fortunate to start at Valve right around the time Michael Abrash had begun the AR/VR research team," Yates writes in a thread on the Vive subreddit. "It was a much smaller team then than it is now, it has since grown to encompass about a third of the company, but the key individuals that solved most of the really hard technological problems and facilitated this generation of consumer headsets are still here working on the next generation."
+Of course, what might be even more intriguing is that Valve evidently now thinks of itself as a company that can be thought of in thirds, which would require dividing by three, which can only mean one thing: Half-Life 3 confirmed.

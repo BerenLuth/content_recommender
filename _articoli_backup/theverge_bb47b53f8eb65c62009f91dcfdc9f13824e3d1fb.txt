@@ -1,0 +1,5 @@
+http://www.theverge.com/circuitbreaker/2016/5/16/11682468/raspberry-pi-zero-camera-connector
+Raspberry Pi Zero now comes camera-ready - The Verge
+Sean O'Kane
+The smaller, more affordable version of Raspberry Pi now comes with an onboard camera connector. The founder of Raspberry Pi writes that, with some "dumb luck" and some clever rearranging of the small computer board, the team was able to fit the connector on the side without much difficulty — and without raising the $5 price tag.
+Raspberry Pi is all about making it cheap and easy to tinker with computers, so increasing the base-level functionality means that first-time programmers will be even more well-equipped from the start. What makes the news even better, though, is that the new connector is compatible with the recently upgraded Raspberry Pi camera module, which uses a very capable 8-megapixel Sony IMX219 image sensor.

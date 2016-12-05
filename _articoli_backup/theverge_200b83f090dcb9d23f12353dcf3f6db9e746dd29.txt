@@ -1,0 +1,6 @@
+http://www.theverge.com/2016/11/7/13549848/ifixit-teardown-google-home-same-chromecast
+iFixit teardown confirms Google Home is basically an overgrown Chromecast - The Verge
+Natt Garun
+When Google first announced its Home speaker, sources said that the device’s internal technology would be based off the Chromecast. Now that Home is shipping to customers, iFixit has released an official teardown confirming the hardware is basically ripped from the 2015 Chromecast.
+Notably, the Home’s processor, flash memory, and RAM are the exact same chips found in the second-generation Chromecast, but with an audio amplifier thrown in for obvious reasons. It’s not a huge surprise that Google’s done this. As Dieter Bohn has noted before, at the core, the Chromecast was built to send and receive information from the cloud, so it makes sense that the same hardware components would be used on the Home. All Google had to do was make the Home more conversational than its streaming dongle.
+The Google Home received a positive review from iFixit, scoring an 8 out of 10 for simple, modular pieces that could be easily replaced. If you tried hard enough it looks like you could potentially put a new case on to make it look less like an air freshener, but have a look at the full teardown here and judge for yourself whether it’s worth the effort.

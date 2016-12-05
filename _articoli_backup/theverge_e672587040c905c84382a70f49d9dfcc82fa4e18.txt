@@ -1,0 +1,6 @@
+http://www.theverge.com/2016/10/6/13178960/oculus-midrange-standalone-vr-prototype
+Oculus is working on a cheaper, wireless VR headset - The Verge
+Dan Seifert
+During the keynote presentation at Oculus' annual Connect developer conference, Facebook CEO Mark Zuckerberg showed off a demo of a new virtual reality device that's supposed to sit between mobile and full PC experiences. Zuckerberg said the product is still in its prototype stage, but it will offer a standalone experience, without relying on a phone like Samsung's Gear VR or Google's Daydream, but won't be as expensive as a full Oculus Rift.
+The new product is designed to be portable, so you can take it anywhere, yet remain affordable and accessible. The prototype appears to have a similar design to the Rift, including built-in earpads, but without the wires that tether the Rift to a PC.
+Zuckerberg did not say when the new device would be released or how much it will cost, but we expect to learn more in the near future.

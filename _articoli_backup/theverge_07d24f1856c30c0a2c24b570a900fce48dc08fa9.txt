@@ -1,0 +1,18 @@
+http://www.theverge.com/2016/11/28/13769360/muni-hacker-threat-release-customer-data-san-francisco
+San Francisco transit hacker threatens to release data on customers and employees - The Verge
+Russell Brandom
+Just days after a digital attack brought down payment systems at San Francisco’s MUNI rail system, the hacker responsible for the attack has threatened to release data on MUNI’s employees and customers if his ransom is not paid.
+"I hope company try to fix it correctly and we can advise them," the hacker wrote in a message obtained by The Verge. "But if they don’t, we will publish 30G databases and documents include [sic] contracts, employees data, LLD Plans, customers."
+According to CSO, the hacker is demanding 100 bitcoin, or roughly $73,000. Notably, there have been no significant transfers to the bitcoin address provided by the hacker, which currently holds just under $17.
+Reached by The Verge, MUNI confirmed the ransomware attack, but said that the attack had no impact on train service or customers’ personal information. Faregates, which had been left open for days after the hack, were back to regular operation by Monday. "The incident remains under investigation," a representative said, "so it wouldn't be appropriate to provide any additional details at this point."
+The hacker’s full message is embedded below.
+San Francisco People ride for free two days ! welcome !
+But if ugly hacker’s attack to Operational Railways System’s , whats’ happen to You?
+Anyone See Something like that in Hollywood Movies But it’s Completely Possible in Real World!
+It’s Show to You and Proof of Concept , Company don’t pay Attention to Your Safety !
+They give Your Money and everyday Rich more! But they don’t Pay for IT Security and using very old system’s !
+We Hacked 2000 server/pc in SFMTA including all payment kiosk and internal Automation and Email and …!
+We Gain Access Completely Random and Our Virus Working Automatically ! We Don’t Have Targeted Attack to them ! It’s  wonderful !
+If some Hacker Try to Hack Your Transportation Infrastructure Target-Based , it’s Have More Impact!
+We Don’t live in USA but I hope Company Try to Fix it Correctly and We Can Advise Them But if they Don’t , We Will Publish 30G Databases and Documents include contracts , employees data , LLD Plans , customers and … to Have More Impact to Company To Force Them to do Right Job!
+Andrew Liptak contributed reporting to this article.

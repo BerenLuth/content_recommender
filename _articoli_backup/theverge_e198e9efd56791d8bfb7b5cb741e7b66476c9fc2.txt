@@ -1,0 +1,6 @@
+http://www.theverge.com/2016/5/18/11703418/google-daydream-vr-platform-smartphone-manufacturers
+Samsung, HTC, Huawei, LG will build Android Daydream VR phones - The Verge
+Kwame Opam
+Daydream, Google's new VR platform set to succeed Cardboard, will run with the next generation of Android smartphones running Android N. Google announced at I/O today that the new VR headset and software will work out of the box on new smartphones from a select group of manufacturers: namely, Samsung, HTC, Huawei, LG, ZTE, Asus, Alcatel, and Xiaomi.
+According to Google, Daydream encompasses both hardware and software, and will depend on next-gen specs to work. The company provided a reference design for the headset and remote onstage, which will allow developers to design their own VR products complete with motion sensing. New smartphones with the right complement of sensors and processors will take advantage of the new VR versions of YouTube, Google Play Movies, and other apps Google is promising. Of course, we don't know anything yet on price, but Daydream will officially launch this fall.
+Update 3:56pm ET: A previous version of this article stated that Daydream will work on current-gen phones. That was inaccurate. The platform will only run on next-gen compatible phones.

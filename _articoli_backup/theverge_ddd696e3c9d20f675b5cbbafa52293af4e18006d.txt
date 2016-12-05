@@ -1,0 +1,9 @@
+http://www.theverge.com/2016/10/25/13408862/apple-new-macbook-pro-with-touch-strip-leaks
+Apple leaks new MacBook Pro with touch strip - The Verge
+Jacob Kastrenakes
+Apple is widely expected to unveil a redesigned MacBook Pro at an event on Thursday, but it looks like it may have let a couple images slip out early. MacRumors spotted a pair of images hidden inside yesterday's update to macOS Sierra, both of which show a new MacBook Pro, a touch panel above its keyboard, and a fingerprint reader.
+The images show a narrower MacBook Pro with slimmer bezels around both the keys and screen. The keys all look to be flatter, likely adopting the same slim format used on the MacBook. Otherwise, the design looks more or less like the Pro we know today.
+But the highlight of these images is of course the touch strip at the top of the keyboard, which has been rumored for months. The images give an early idea of what it'll be like in use: completely blank and black when the computer is off, and able to display colors, buttons, and symbols in response to whatever comes up on-screen.
+One of the pictures shows it being used for Apple Pay. An arrow points to the right corner of the touch strip, where a Touch ID fingerprint reader is located. 9to5Mac also found icons inside macOS that seem to refer to the ability to unlock or authenticate something with Touch ID.
+Apple could end up calling the MacBook Pro's touch strip the Magic Toolbar. Brian Conroy at The Trademark Ninja, who's caught a number of other product names early, spotted a trademark filing for the name that he's traced back to Apple. That doesn't make the name a certainty, but it certainly sounds like a name Apple would come up with. After all, it already has a Magic Keyboard, Magic Trackpad, and Magic Mouse.
+Update October 25th, 7:50PM ET: Updated to include icons found by 9to5Mac.

@@ -1,0 +1,6 @@
+http://www.theverge.com/2016/10/13/13267830/ps4-media-player-vr-content-support
+PS4 Media Player will let you upload your own 360-degree photos and videos - The Verge
+James Vincent
+The PlayStation 4 Media Player is getting a free update today, adding support for users' 360-degree photos and videos. PS4 owners can load this content onto a USB stick or their local media server, then activate "VR Mode" in the Media Player's options menu, and hey presto: 360-degree content of your choosing on your PlayStation VR headset.
+The content must be captured in "equirectangular format by a 360-degree omnidirectional camera," and supports the following formats: MKV, AVI, MP4, MPEG2 PS , MPEG2 TS, and AVCHD for videos; JPEG, BMP, and PNG for images.
+The update (version 2.50) also includes improvements for audiophiles, adding support for the high-res FLAC audio format, and upscaling of non-high-res audio files thanks to Sony's DSEE HX technology. "What this means is any MP3s or AACs — files whose space-saving compression strips out some of a song’s subtleties — played through your PlayStation 4 will be automatically upscaled," says Sony.

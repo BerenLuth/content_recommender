@@ -1,0 +1,6 @@
+http://www.theverge.com/circuitbreaker/2016/6/8/11882752/htc-vive-green-screen-jeeboman-vr-demo
+HTC Vive against a green screen shows what VR worlds really look like - The Verge
+Sam Byford
+It's hard to convey what's going on inside a VR headset. Even if you can put a smoothed-out 2D image on a second screen for the benefit of onlookers, they won't get the sense of immersion that comes from having head-tracked screens blasting images into your eyeballs. How can you show off what it feels like to be in another world?
+Well, this might not be the most practical solution, but it's certainly a solution: HTC had a demo at Computex Taipei this year that's intended to produce movie-like results placing players in their VR environments. It relies on green screen technology just like film studios use to shoot actors against CGI backgrounds, but it also syncs up with the Vive headset to overlay in-game objects over the player's body.
+Watch the video above to see how this works in practice, but it's honestly pretty cool, if obviously impractical for any consumer who doesn't want to paint their living room green. You get to see what it would be like to be near me killing a bunch of robot aliens in Jeeboman, if not what it would be like to be me. Which you are probably okay with.

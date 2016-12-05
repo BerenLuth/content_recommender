@@ -1,0 +1,22 @@
+http://www.theverge.com/2016/10/14/13283082/instagram-arrives-on-windows-10-pcs-and-tablets-still-not-on-ipad
+Instagram arrives on Windows 10 PCs and tablets, still not on iPad - The Verge
+Tom Warren
+Facebook is expanding the availability of its Instagram Windows 10 app to both PC and tablets. While Instagram first debuted on Windows 10 Mobile back in April, the app was restricted to Microsoft's mobile phones. Instagram's Windows 10 app is a universal app and it's now making its way to PCs and tablets as a result. Instagram has still not built a tailored app for the iPad, and Apple's tablet users have to use an unoptimized iPhone version.
+As you'd expect, the familiar Instagram features are all supported in Instagram for Windows 10, including access to Instagram Stories, Direct, and Explore. You can also capture, upload, and edit photos, but you'll need a Windows 10 tablet or PC with a touchscreen to be able to actually upload images. It's a bizarre restriction, but devices like Microsoft's Surface Pro and Surface Book work fine for uploading. You can download Instagram for Windows 10 PCs from Microsoft's Windows Store.
+Grid View
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instagram Windows 10 screenshots

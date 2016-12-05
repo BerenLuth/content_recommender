@@ -1,0 +1,7 @@
+http://www.theverge.com/circuitbreaker/2016/10/21/13356678/iphone-one-handed-keyboard-secret
+The iPhone has a secret one-handed keyboard you're not allowed to use - The Verge
+James Vincent
+In recent years, bigger phone screens have made one-handed keyboards less of a gimmick, and more of a straightforwardly useful idea. Microsoft has a one-handed mode for its keyboard app, and Google has one as well. And Apple, too, has seen the benefit of a one-handed keyboard — it's just not letting customers use it.
+Developer Steve Troughton-Smith spotted the code for a one-handed keyboard in Apple's iOS Simulator (a program that lets you test and debug iOS apps on other hardware). He says the feature's been there since iOS 8. It activates by swiping in from either the left or the right of the screen, and shifts the keys to the opposite side, adding large cut, copy, and paste buttons as well. You can see the keyboard in action below:
+Video or it didn't happen: (very hard to engage in the Simulator with a mouse cursor) pic.twitter.com/vw2wpCgiLJ
+It's not clear why Apple has never implemented this feature, especially as the company is usually so good on iPhone accessibility, but Troughton-Smith did create a way to access the one-handed mode if your iPhone is jailbroken. Fingers (on one hand) crossed, we'll see this feature activated in some future iOS update.

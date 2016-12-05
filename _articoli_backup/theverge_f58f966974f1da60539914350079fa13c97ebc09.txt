@@ -1,0 +1,28 @@
+http://www.theverge.com/2016/10/10/13225094/microsoft-paint-windows-10-app-leak-hands-on
+Here's a first look at Microsoft's new Paint app for Windows 10 - The Verge
+Tom Warren
+Details on Microsoft's plans to redesign its famous paint app for Windows 10 started leaking over the weekend, and now an early version of the app has appeared online for anyone to download. Microsoft is completely overhauling its Paint app, and the new version is designed to be a Universal Windows app with pen- and touch-friendly features. While a launch video demonstrates all the new 3D objects support, the leaked app appears to have been distributed in May to Microsoft testers.
+I've had a chance to test out the new Paint app, and I'm surprised by the speed of the application. Most Universal Windows apps, Office excluded, often fail to demonstrate the potential for the platform and rarely include advanced features that are often found in desktop apps. The animations in the app work well, and many of the basic features are a lot easier to use with your fingers than the previous Paint desktop app.
+No layers support just yet
+Unfortunately, the new version of Paint doesn't appear to include layering support, but this could be because this is an old alpha copy that has leaked. Microsoft also hasn't implemented many helpful shortcuts that you might find in apps like Photoshop, or support for multiple files to be opened at the same time. It feels like a basic photo editing / object creation tool, and that's probably exactly what Microsoft is aiming for.
+Grid View
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Paint for Windows 10 screenshots
+All of the basic image editing tools are included
+You can easily crop images, insert text, and use a variety of brushes and pencils to annotate images. Microsoft has also included a number of 2D shapes, 2D freehand features, and basic 3D shapes for Paint users to use freely. There's even a community section that includes free to use 3D objects, but this is currently restricted to Microsoft employees as part of this alpha.
+Microsoft's 3D object support is demonstrated best in the company's launch video for Paint, and most of the objects in this alpha version suffer from some pixilation issues. It's unfair to judge this leaked copy of Paint until Microsoft is ready to unveil it officially, but we're expecting the company to detail it at the Windows 10 and Surface event later this month.
+3D object creation would be ideal for Microsoft's HoloLens hardware, and the software giant is planning to focus on creatives with its new Surface hardware. Microsoft is expected to unveil a new Surface all-in-one PC at its event on October 26th, alongside new apps to position the new hardware as a creative device. The Verge will be live from Microsoft's Windows 10 event later this month.

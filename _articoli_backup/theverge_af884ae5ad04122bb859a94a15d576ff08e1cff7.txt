@@ -1,0 +1,8 @@
+http://www.theverge.com/2016/11/23/13728394/google-cast-home-chromecast-naming-confusing-why
+Google perpetuates cycle of confusion, renames Google Cast back to Chromecast - The Verge
+Chaim Gartenberg
+Google appears to be removing the Google Cast name and switching it back to the original Chromecast moniker. As noted by Android Police, Google has already renamed the @GoogleCast Twitter account back to @Chromecast, and the Google Cast website now describes Google Cast as “Chromecast built-in.”
+The Google Cast name was originally introduced when Google began expanding Chromecasting to other devices; earlier this year, Google renamed the Chromecast app to a matching “Google Cast” name. The name change was a nod to the fact that there were now lots of non-Chromecast products out there that had Casting built in, a decision that seemed to make sense at the time.
+Then, earlier this month, Google renamed the Google Cast app again to be called Google Home, making it a (confusingly named) one stop shop for controlling all Chomecast, Google Cast, and Google Home products (of which there is only one). This also sort of made sense, since Google clearly wants to focus attention on Home as the hub of its connected devices.
+From Google Cast ➡ @Chromecast. New name on Twitter, same device you know, stream from and love. pic.twitter.com/MnWEj39GuG
+So, to recap: Google’s system for streaming media from one device to another is called Casting. Any device that displays that media is a Chromecast. And you control it all through the Google Home app. At least for now, since at this rate it’s possible that Google will decide to change the naming scheme again in a few months.

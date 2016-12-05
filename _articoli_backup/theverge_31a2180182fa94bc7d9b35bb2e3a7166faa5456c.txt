@@ -1,0 +1,30 @@
+http://www.theverge.com/circuitbreaker/2016/9/19/12934094/photokina-nikon-keymission-action-360-degree-gopro-price
+Nikon announces a line of rugged action cameras - The Verge
+Sean O'Kane
+Nikon has just announced a pair of rugged action cameras at Photokina and released new details of the KeyMission 360, the 360-degree camera the company announced at CES. The two new cameras also carry the KeyMission branding, and their names also correspond to their field of view. One is a more traditional GoPro-style 4K action camera that will be called the KeyMission 170, and the other is a life-logging camera called the KeyMission 80. All three will be available in October and are firsts of their kind for Nikon.
+Let’s start with the KeyMission 360, which will cost $499. It debuted at CES, but Nikon didn’t provide a ton of details other than it would use two lenses to capture 360-degree 4K footage. Now we know that each of those lenses have f2.0 apertures tied to 20-megapixel CMOS sensors. In total, that’s a 10-megapixel advantage over the Samsung Gear 360 (which uses two 15-megapixel sensors), and as a result the KeyMission 360 can capture better quality images.
+The KeyMission 360 looks like an immediate contender
+We received a brief demo in New York City two weeks ago, and compared to the Gear 360 the footage looks sharper, the colors are richer, and the stitching lines are less noticeable. The KeyMission 360 also does all the stitching in-camera, instead of leveraging the processing power of a phone like the Samsung Gear 360. And out of the box, the KeyMission 360 is waterproof to 98 feet, shockproof up to 6.6 feet, and can be operated in temperatures as cold as 14 degrees Fahrenheit.
+Grid View
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nikon's KeyMission action cameras in photos
+The $399 KeyMission 170 looks like a ruggedized GoPro Hero 4 Silver. It has a rounded rectangular body, with the f2.8 lens offset to the side. There’s an LCD screen on the back, but it’s not a touchscreen — instead, there are three buttons next to the screen for navigating menus and changing settings. The KeyMission 170 has a 170-degree field of view — the same ultra-wide FOV that GoPro’s cameras offer — and its 8.3-megapixel CMOS sensor is capable of capturing 4K UHD footage. The camera is waterproof to 33 feet, shockproof up to 6.6 feet, and can handle temperatures as cold as 14 degrees Fahrenheit. (Nikon will also sell a waterproof housing for protecting the KeyMission 170 to depths of 131 feet.)
+The last product Nikon announced was the $279 KeyMission 80. It’s a tiny, lighter-sized device that actually features front- and rear-facing cameras. The front camera uses a 12-megapixel CMOS sensor, an f2.0 lens, and an 80-degree FOV, while the rear camera has a 5-megapixel sensor and an f2.2 lens. The KeyMission 80 also has a 1.75-inch touchscreen LCD.
+Nikon sees the KeyMission 80 as something people will clip to a bag strap, keeping it always at the ready and using it over their smartphone’s camera — a big bet in an era when smartphone cameras are really good. The ruggedization could certainly make it attractive for certain workplace use cases, but it’s a curiously niche device — which is saying something considering the limited appeal of the two cameras it was announced alongside.
+Will the other two cameras be good enough for consumers to care?
+All three of Nikon’s cameras will use a new version of the company’s Snapbridge app, which connects to both iPhones and Android phones using Bluetooth Low Energy and Wi-Fi. This will allow for an always-on connection and can be used to transfer photos or videos, or to control the cameras remotely.
+Cameras that can shoot 360-degree footage are such a new thing that Nikon’s option should slot right in at the top of the market — only a few others are capable of shooting 4K, and almost none are ruggedized. The other two cameras are much more curious. GoPro and Sony have a strong grip on the action camera market, and both are in the middle of refreshing their lineups. In that respect, Nikon has a lot of catching up to do.

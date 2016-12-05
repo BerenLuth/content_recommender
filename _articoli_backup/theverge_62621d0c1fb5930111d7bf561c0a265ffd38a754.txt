@@ -1,0 +1,7 @@
+http://www.theverge.com/2016/11/9/13577740/adobe-lightroom-android-raw-file-support-photography
+You can now edit RAW files from any camera with Lightroom for Android - The Verge
+Natt Garun
+Following an update for iOS this past summer, Adobe’s Lightroom for Android now supports all RAW file types, including .orf, .raw, .rw2, .cr2, and .nef. This means you no longer have to use Adobe’s DNG format – which had limited support for most camera models – or shoot images directly from the app.
+Version 2.2 lets you import RAW images directly from your camera using a USB OTG (On-The-Go) cable to access PTP (Picture-Transfer-Protocol) mode. From there, you can use the app to fine-tune the image as normal.
+RAW files allow editors to tweak images at a more detailed level since they have not been compressed, thus giving full access to data like white balance, shadows, highlights, saturation, and exposure. It’s a feature long-anticipated by professional mobile photographers, especially since RAW files take up a lot of space on their phone.
+You can check the full list of supported cameras here. Lightroom for Android is free to download.

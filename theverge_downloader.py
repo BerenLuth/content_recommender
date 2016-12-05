@@ -8,6 +8,7 @@ from bs4 import BeautifulSoup as bs
 THEVERGE_URL = "http://www.theverge.com/{}/archives/{}"
 CATEGORIES = ["microsoft","apple","google","apps","photography","vr-virtual-reality","tech"]
 ARTICLE_NAME = "articoli/theverge_{}.txt"
+LIST_FILE_NAME = "articoli/_link_list.txt"
 ITEMS_NUMBER = 1000
 
 
@@ -20,7 +21,34 @@ def get_links_from_archive_page(url):
 	elements = souped.find('ul', {'class':"p-basic-article-list"}).find_all('li')
 	for element in elements:
 		links.append(element.a['href'])
+
 	return links
+
+def get_links():
+	linklist = []
+	if not os.path.exists(LIST_FILE_NAME):
+		# per ogni categoria recuper i link dall'archivio
+		for category in CATEGORIES:
+			print "\tRecupero i link della categoria " + category + "..."
+			c = 1
+			# valore ideale: 12 cicli +- 1000 articoli
+			while c<14:
+				page_number = THEVERGE_URL.format(category, c)
+				x = get_links_from_archive_page(page_number)
+				#print category, len(x)
+				linklist.extend(x)
+				c += 1
+
+		f = io.open(LIST_FILE_NAME, 'w')
+		for link in linklist:
+			f.write(link+"\n")
+	else:
+		f = io.open(LIST_FILE_NAME, 'r', encoding='utf8')
+		linklist = f.read().splitlines()
+		print linklist
+	return linklist
+
+
 
 #legge il contenuto dell'articolo
 def get_content_from_article_page(url):
@@ -31,7 +59,7 @@ def get_content_from_article_page(url):
 		name = soup.find('span', {'class':'c-byline__item'}).a.get_text()
 		text = "\n".join([x.get_text().strip() for x in soup.find('div', {'class':'c-entry-content'}).find_all('p') if x.get_text().strip()])
 	except AttributeError as ae:
-		print "\terrore nella lettura dell'articolo " + url
+		#print "\terrore nella lettura dell'articolo " + url
 		return None
 	return [url, title, name, text]
 
@@ -88,18 +116,8 @@ def start():
 	# se non sono presenti almeno 1000 articoli lancio il download
 	if downloaded_articles() < ITEMS_NUMBER:
 		print "\tSono necessari almeno 1000 articoli: avvio il download..."
-		linklist = list()
-		# per ogni categoria recuper i link dall'archivio
-		for category in CATEGORIES:
-			print "\tRecupero i link della categoria " + category + "..."
-			c = 1
-			# valore ideale: 12 cicli +- 1000 articoli
-			while c<13:
-				page_number = THEVERGE_URL.format(category, c)
-				x = get_links_from_archive_page(page_number)
-				#print category, len(x)
-				linklist.extend(x)
-				c += 1
+
+		linklist = get_links()
 
 		print len(linklist)
 

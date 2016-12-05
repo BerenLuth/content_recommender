@@ -1,0 +1,30 @@
+http://www.theverge.com/2016/8/2/12343650/samsung-gear-vr-usb-c-touchpad-update-price-announced
+Samsung gives the Gear VR a facelift - The Verge
+Sean O'Kane
+Samsung today announced an updated version of the Gear VR, the company’s mobile virtual reality headset. It features a new touchpad, USB Type-C compatibility, and a slightly wider field of view. The revamped Gear VR will still cost $99, and it goes on sale August 19th, with preorders opening up tomorrow.
+Like with past iterations of the device, there aren’t any major changes to this version of the Gear VR. The new Gear VR is being announced alongside Samsung’s newest phone — the Galaxy Note 7 — which uses the same 518ppi Super AMOLED screen that was found in the Note 5, and the same processor found in the S7 and S7 Edge. That means Gear VR customers will have to wait until the next generation of Samsung phones for a bump in resolution and processing power.
+But the Gear VR is still the best mobile virtual reality solution, and the new version is definitely different, both inside and out. The most important change to the new Gear VR is that it’s USB-C compatible, and that the connection to the phone is modular. Out of the box, the headset will work with the new Note 7, which uses a USB Type-C connection. But Samsung is also including a Micro USB connector with the new Gear VR, making it backward compatible with the Galaxy Note 5 as well as all S7 and S6 phones.
+Grid View
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Samsung's new Gear VR in photos
+This doesn't come in the form of a clumsy adaptor; instead, the connectors themselves can be swapped out. You just flip a switch to "unlock" one from the headset, pull it out, and then snap in the other one. Samsung argued that part of the reason for using Micro USB ports in the the S7 and S7 Edge was to keep them compatible with the Gear VR, so while this is a small move, it shows that the company is now more ready to embrace USB-C.
+A USB-C port has also replaced the Micro USB port found on the bottom of the headset. In the past, this port was used to keep your phone charged during extended usage, but Samsung says the new USB-C port can transfer data as well. This opens up opportunities for things like accessories, gamepads, and maybe even motion controllers, and potentially eliminates the need to rely on tenuous (and sometimes slow) Bluetooth connections. This could make a huge impact on the Gear VR experience, but it's hard exactly how significant the change will be until we find out what developers will use it for.
+The new Gear VR seems better equipped for accessories
+The new Gear VR also ditches the mostly all-white look for a dark blueish-black finish. The inside of the headset is painted like this, too, which Samsung says is in direct response to customers who said the white interior of the old Gear VR reflected light and ruined the immersion. The padding that lines the headset is thicker and softer, which makes it a bit more comfortable to wear and should help block out more light.
+Tightening up the immersion is good, because there is a bit more to see — this time around, the Gear VR has a 101-degree field of view, as opposed to 96 degrees on the previous version. None of these changes felt like they added up to a massive difference in the few minutes I got to spend with the new headset, but they’re all small steps in the right direction.
+There are a few other physical changes. The touch-sensitive directional pad on the side of the headset, which you use to play games and navigate the Gear VR’s menu system, has once again been flattened out. (Samsung had moved to a grooved trackpad in the most recent versions of the Gear VR.) The company also added a dedicated button that brings you right back to the main Gear VR menu — the new button is found right above the touchpad and next to the "back" button.
+Overall, the new Gear VR is a tighter, more polished version of the vision that Samsung laid out with its original headset in 2014. It’s almost a no-brainer purchase at $99, as long as you own a phone that's compatible with the headset. (And if you’re patient enough, Samsung — as well as mobile carriers — loves to run deals on its phones where the headset is packaged for free.) It doesn’t represent a huge leap in what the Gear VR can do, but it’s a nice upgrade that should pay dividends as the company releases newer, faster, and higher-resolution phones in the future.

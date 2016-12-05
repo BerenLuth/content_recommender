@@ -1,0 +1,22 @@
+http://www.theverge.com/2016/10/7/13207382/google-pixel-xl-camera-photography-samples
+Google says the Pixel has the best smartphone camera ever. Here’s its proof - The Verge
+Nick Statt
+Google spent a healthy chunk of time at its Pixel smartphone event on Tuesday touting the new device’s camera, with product VP Brian Rakowski going so far as to call it "the best smartphone camera anyone has ever made," with a DxOMark score of 89. To back up that bold claim, camera lead Isaac Reynolds posted a number of photos taken with either the Pixel or the larger Pixel XL. According to comments on Reynolds’ post from official Google employees, some of the shots were taken by members of Google’s own engineering team.
+Examining EXIF data proves the photos were taken with one of the those two devices. Yet as Phandroid points out, around half of them did receive some type of post-processing with either the Snapseed or VSCO mobile editing apps. Still, it’s an impressive selection of photography that shows off the Pixel’s versatility in a number of different lighting and color situations. Check them out for yourself:
+Grid View
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Pixel and Pixel XL sample photography

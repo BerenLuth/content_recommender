@@ -1,0 +1,8 @@
+http://www.theverge.com/2016/6/8/11881542/google-daydream-vr-social-googly-eyes
+Google imagines a VR future full of googly-eyed avatars - The Verge
+James Vincent
+As Google develops its VR platform, Daydream, the company is sharing clips of its virtual reality concepts and prototypes. The latest tackle the problem of how to represent users in a virtual space, with Google's engineers settling on a simple solution: googly eyes.
+"a surprising degree of emotion [and] intent"
+In a blog post, Google VR software engineer Rob Jagnow explains that virtual reality avatars can be simplified to a cartoonish degree and still "convey a surprising degree of emotion, intent, and a number of social cues." A 3D representation of the user's VR headset with a pair of googly eyes is more than enough, claims Jagnow, especially when combined with spatial audio of users' voices.
+"Eyes give people a location to look to and speak towards, but they also increase face-to-face communication by making even basic avatars feel more human," he writes. "When we combine this with hands and a spatially-located voice, it comes together to create a sense of shared presence."
+Jagnow demonstrates this with a pair of clips showing users interacting; in one they're playing some sort of psychokinetic bowling game, and in the other, a simple jigsaw puzzle. The results are surprisingly effective (as well as reminiscent of cartoons by The Verge's own Dami Lee), which shouldn't be too surprising considering how important eyes are for conveying social information. Now if only Google could start giving its avatars more of those sweet green hats, we'd be all set for the social VR future.

@@ -1,0 +1,8 @@
+http://www.theverge.com/2016/10/23/13371950/ifixit-pixel-teardown-google
+iFixit's Pixel teardown shows us the innards of Google's phone - The Verge
+Andrew Liptak
+Google started shipping its Pixel and Pixel XL phones earlier this week, and the team at iFixit documented their teardown, showing off the insides of the company's new device.
+One of the big takeaways is the repair score: a six out of 10. That’s not quite as good as the iPhone 7 and iPhone 7 Plus (which score a seven), but it’s far better than the Samsung Galaxy S7 (which scored a three), and the Nexus 6P (two out of 10).
+One of the highlights that the team points to is the modular nature of the phone: many of the components can be easily replaced, which makes the phone easier to repair. They also highlighted the HTC battery with a pull tab, which makes it easy to remove and replace, as well as the phone’s front 8-megapixel and back 12.3-megapixel cameras.
+The phone isn't flawless when it comes to fixability: they pointed out that the display comes in a thin frame, which is easy to bend or damage.
+You can check out the entire teardown on iFixit.

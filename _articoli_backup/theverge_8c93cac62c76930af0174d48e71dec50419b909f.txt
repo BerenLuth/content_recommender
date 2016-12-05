@@ -1,0 +1,5 @@
+http://www.theverge.com/2016/9/3/12781480/google-chrome-53-material-design-features
+Chrome for Windows gets Material Design and big battery improvements - The Verge
+Tom Warren
+Microsoft has been hammering Chrome's battery performance in recent months, but Google is starting to hit back with updates to its browser. Chrome 53 has been released to the stable channel this week, and it brings CPU and GPU power consumption enhancements for video playback, alongside "big" performance and power improvements overall. We'll have to test them fully in battery tests, but it's encouraging to finally see Google making some solid efforts to improve its laptop battery consumption.
+Outside of battery improvements, this latest Chrome update also brings HiDPI improvements, alongside Material Design changes to the Chrome look and feel. You'll notice that tabs, iconography, navigation, and the general UI all feels a lot flatter. Google has even enabled a dark mode for incognito mode, and color emoji support for Windows 10 users. If you're not already automatically running Chrome 53, you can check the help > about section of Chrome to force the update.

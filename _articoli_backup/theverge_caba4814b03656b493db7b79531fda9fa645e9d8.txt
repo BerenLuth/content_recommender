@@ -1,0 +1,7 @@
+http://www.theverge.com/2016/10/24/13387262/ios-10-1-released-portrait-camera-mode-iphone-7-plus
+Apple releases iOS 10.1 with Portrait mode for iPhone 7 Plus - The Verge
+Jacob Kastrenakes
+Apple is launching its portrait photo mode for the iPhone 7 Plus today with the release of iOS 10.1. The update, which includes some smaller features and bug fixes for other iOS 10 devices, is headlined by the addition of a photography mode that uses the 7 Plus' dual cameras to take portraits with blurred-out backgrounds, making them look a bit more like they were taken on a high-end camera.
+The feature is technically still in beta — and, for what it's worth, early examples of the portrait mode's results seem pretty hit and miss. The software seems to do a better job at blurring some backgrounds than others, sometimes creating an obviously fake result with rough edges.
+The update also solves some smartwatch problems. It fixes a syncing bug that kept iTunes tracks from being stored on the Apple Watch. Apple also says the update "improves Bluetooth connectivity with third-party accessories," which may be an indication that iOS 10.1 fixes an issue with Android Wear that prevented smartwatches from connecting to an iPhone.
+There's a lot list of other updates and bug fixes. Maps is getting new pubic transit information in Japan, Messages is getting a bunch of fixes, and watchOS 3.1 is being released for the Apple Watch.

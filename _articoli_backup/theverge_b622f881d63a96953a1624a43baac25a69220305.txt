@@ -1,0 +1,7 @@
+http://www.theverge.com/2016/11/29/13773446/sd-card-app-performance-standard-5-1
+SD cards will soon get rated for app performance - The Verge
+Sam Byford
+A new classification system for SD cards is designed to help customers understand how well each product will perform when used to run apps. The first class is called A1, and has been defined as part of the Secure Digital 5.1 spec released by the SD Association; other classes will come later.
+App Performance Class A1 cards require sustained sequential performance of 10 MB a second as well as 1500 random read IOPS (input / output operations per second) and 500 random write IOPS. As Anandtech notes, that sequential performance requirement isn't too demanding; UHS Speed Class 1 and regular Speed Class 10 cards already have to hit 10MB a second.
+It's the additional regulation of IOPS performance that matters, something that's become necessary as SD cards have evolved from a pure file storage format to a form of flash memory that's often used to run applications.
+Some cards may offer solid sequential performance but not have the random read / write capability to be suitable for use as the primary storage in mobile devices, for example — something that became more common with the launch of Android 6.0 Marshmallow. With the new App Performance ratings, it should be easier to have an idea of the performance you'll get.

@@ -1,0 +1,15 @@
+http://www.theverge.com/2016/4/26/11512866/samsung-c-lab-weird-gadgets-360-degree-camera-necklace
+Samsung’s new experiments raise a weird question: am I ready for 360-degree lifelogging? - The Verge
+Ross Miller
+Early this year, Samsung started showing off its weird side. The company unveiled a handful of experimental gadgets at CES, which included VR motion controllers and a "smart belt" that tracks your waistline. And now it's back with five more odd doohickeys and gizmos from its Creative Lab ("C-Lab") program that'll be on display this week at the Samsung Developer Conference in San Francisco.
+There's no guarantee any C-Lab projects will become consumer products — they exist more so to inspire others and get people interested in working with / liking Samsung. Still, let's enjoy each of these one at a time, ranked by the likelihood I'd actually want to use it:
+AMe (short for "Around Me") is a "lifelogging" camera that attaches to a necklace and records 360-degree video in 4K, ostensibly from your point of view, using three individual cameras. The AMe app does the dirty job of stitching the footage together for you.
+Likelihood I'd use it: Very high, at least until I forgot to take it off while in the bathroom and embarrassing myself in front of all my GearVR-owning friends.
+LiCon, an app that uses a smartphone's camera to recognize and take control of IoT devices like air conditioners and robot vacuum cleaners.
+Likelihood I'd use it: Pretty high. I don't own a robot vacuum cleaner, but I'd like to imagine I could use this to screw with other people's smart devices.
+Entrim 4D+ is the upgraded version of a headset that it showed off at SXSW this year. The headphones "tricks" your inner ear into feeling like you're moving while in VR.
+Likelihood I'd use it: I'd wear it once, open the rollercoaster app on a dare, and regret everything.
+Ahead, a colorful, triangular Bluetooth headset that attaches to large helmets with "super-strength magnets." There's a push-to-talk version that lets you communicate directly with other triangle-clad adventurers.
+Likelihood I'd use it: I don't know. Does anyone wanna go play paintball with me?
+ItsyWatch, a "gamified smartwatch app" that uses cartoon characters to not-so-meanly encourage good habits (except, perhaps, the habit of constantly checking your watch mid-conversation).
+Likelihood I'd use it: Pretty much nil. I like my bad habits, and I don't need a cartoon character judging me.

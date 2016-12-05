@@ -1,0 +1,7 @@
+http://www.theverge.com/2016/10/4/13098438/google-chromecast-ultra-4k-youtube-streaming-device-announced-price
+Google announces Chromecast Ultra, a 4K version of its streaming device - The Verge
+Micah Singleton
+During Google’s Pixel event today, Google announced the Chromecast Ultra, a 4K version of its very popular streaming device. The Chromecast Ultra will be able to stream 4K content from YouTube  Netflix, and Vudu at launch, with films from Google Play Movies gaining support in November. HDR content — both HDR10 and Dolby Vision formats — is also supported by the Ultra.
+Google says the Ultra is its fastest Chromecast, regardless if you have a 4K TV or not, loading videos 1.8 times faster than the standard Chromecast, thanks to improved Wi-Fi connectivity. The company is also including an Ethernet port on the power adapter for users whose Wi-Fi connections may not be able to handle 4K streams.
+The design of the Ultra is very similar to the standard Chromecast; a flat hockey puck design with the " G" logo instead of the Chrome badge, and a small attached HDMI cord so the device can easily hide behind your TV. You can still mirror content from your Android phone and laptop, and it will work in concert with Google Home once it’s released.
+The price will be the biggest difference, as the Ultra will cost you double the price of its predecessor, coming in at $69 in the US. The Chromecast Ultra will be released in November in the US, and will be available in 15 countries around the world.

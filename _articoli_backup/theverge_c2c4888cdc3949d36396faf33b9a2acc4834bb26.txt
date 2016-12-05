@@ -1,0 +1,10 @@
+http://www.theverge.com/2016/6/16/11954036/magic-leap-lucasfilm-partnership-lab-san-francisco
+Magic Leap is partnering with Star Wars' Lucasfilm to make 'experiential story moments' - The Verge
+Russell Brandom
+The experimental augmented reality company Magic Leap is getting into the movie business. Today at the Wired Business Conference, Magic Leap CEO Rony Abovitz announced a new San Francisco lab developed in partnership with LucasFilm and ILM. More than a year in development, the lab will provide a place for Magic Leap developers and filmmakers to experiment with mixed reality technology. It's Magic Leap's second major partnership with a film effects house, following a Weta Workshop partnership announced in 2013.
+As part of the announcement, the companies also revealed a new mixed reality video starring real-life Star Wars holograms of R2-D2 and C-3PO, shot through Magic Leap’s technology. As with previous videos, the figures are easily integrated in their environment, but the source of the images is unclear, as is the nature of the filming setup.
+We’re teaming up with #Lucasfilm to bring the force to the real world.https://t.co/ANgvFsVVvI
+"It is coming soon"
+The new announcement will do little to silence previous demands for more details on the company's technology, but offers a clearer picture of how it might be used in the near future. "We’ve been testing these experiential story moments," said Lucasfilm’s Rob Bredow, "trying to make mixed reality not a novelty but something filmmakers can actually use."
+The company also recently opened its technology to developers, inviting 10 different companies to build software for the still-mysterious devices. One of those developers was the messaging company Twilio, which is reportedly working on a way to integrate texting and call notifications into the platform.
+Magic Leap also offered some new details on its production plans. Abovitz said the company plans to begin its first production line this summer, where it will build a series of prototypes that will more or less resemble final production units. Abovitz declined to give a ship date, but said "it is coming soon."

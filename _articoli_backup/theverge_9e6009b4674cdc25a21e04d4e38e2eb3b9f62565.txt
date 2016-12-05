@@ -1,0 +1,8 @@
+http://www.theverge.com/2016/9/21/13007514/tinder-stacks-imessage-app-released
+Tinder's iMessage app involves swiping but not dating - The Verge
+Jacob Kastrenakes
+Tinder is ready to get inside your iMessage conversations, but don't worry — it's not trying to bring dating into the mix.
+Instead, Tinder has launched what's actually a pretty neat little voting tool, called Tinder Stacks. The app lets you choose a bunch of pictures and send them, as if in a stack of photos, to everyone in your iMessage conversation. Recipients will then be able to swipe left and right on the photos to indicate whether they're into them or not. As voting happens, the sender will be able to see how many likes and skips each image received.
+Tinder thinks you'll use it to rate selfies
+There's no one specific use case for Tinder Stacks, but Tinder generally seems to think that it'll involve selfies. It suggests polling your friends on new profile pictures, outfits to wear, or which glasses to buy. Having just gone through a glasses-shopping selfie swap with some friends of mine, I can definitely see a tool like this being useful for polling a group on the best look. Though it's also easy to see how a selfie-voting tool could be used for bullying in the same way.
+Tinder Stacks seems like it could be a handy app, but whether it'll catch on seems as much up to iMessage as it's up to Tinder. We're only a week into iOS 10, and we don't know yet if iMessage apps are a thing that people actually want and will continue to use.

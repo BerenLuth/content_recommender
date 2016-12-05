@@ -1,0 +1,8 @@
+http://www.theverge.com/circuitbreaker/2016/6/9/11895780/pentax-k-70-dslr-announced-ricoh
+Ricoh's Pentax K-70 is a weather-resistant camera with built-in Wi-Fi - The Verge
+Jacob Kastrenakes
+Ricoh has unveiled the K-70 DSLR, the latest in its line of tough cameras. The K-70 is really similar to its predecessor: it has a dustproof and weather-resistant body, is compatible with a line of weather-resistant lenses, relies on phase detection autofocus, and has a 3-inch, 921-dot display on the back.
+But there are a few notable changes here. For one, the new model has built-in Wi-Fi, which'll make it easier to get photos off the camera. It also jumps up to a 24.24-megapixel sensor without an antialiasing filter; its predecessor, the K-50, had a 16.49-megapixel sensor with an antialiasing filter.
+Ricoh sees photographers using the K-70 for nature shoots
+More megapixels isn't always better, but Ricoh seems to be working off the increasingly popular idea that somewhere around 24 megapixels you hit a point where moiré is no longer a major concern due to pixel density, which lets the antialiasing filter be removed to improve the sharpness of photos.
+That could still hurt low-light photography due to the smaller pixel size, but Ricoh doesn't seem too concerned. It's bumped up max ISO to 102400 and includes built-in shake reduction to keep the sensor stable. The camera will go on sale next month for $649.95.

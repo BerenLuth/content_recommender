@@ -1,0 +1,5 @@
+http://www.theverge.com/2016/9/1/12746910/microsoft-sunrise-shut-down-delayed
+Microsoft isn't killing the Sunrise calendar app just yet - The Verge
+Tom Warren
+Microsoft revealed earlier this year that it was planning to shut down the popular Sunrise calendar app it acquired last year. The software giant had planned to kill the app on August 31st, and move most of its functionality into the Outlook email app on iOS and Android. A number of Sunrise users have been mourning its demise, and complaining that Microsoft hasn't done enough to integrate Sunrise into Outlook. It appears that Microsoft agrees, as the company is delaying the shutdown of Sunrise.
+"[W]e have chosen to wait a little longer in order to deliver a few more Sunrise-inspired features in Outlook," says a Microsoft spokesperson in a statement to PCWorld. "Once those features are released, the Sunrise app will officially be shut down." It's not clear how long it will take Microsoft to move the additional features over to Outlook, but this temporary reprieve means the sun isn't setting on Sunrise just yet.

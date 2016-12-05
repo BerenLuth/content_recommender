@@ -1,0 +1,7 @@
+http://www.theverge.com/2016/5/23/11743590/oculus-piracy-revive-drm-update
+Oculus Rift update accidentally makes piracy easier - The Verge
+James Vincent
+Last Friday, Oculus released a software update blocking Revive — a piece of software that allowed users to port Rift games they'd bought from the Oculus store onto HTC's Vive headset. However, it seems Oculus's intervention may have backfired, with an update to Revive not only allowing users to port titles again, but also bypass the Rift's DRM in the process, opening the door to easier VR piracy.
+"I really didn't want to go down this path"
+In posts on Reddit and GitHub spotted by Motherboard, Revive developer LibreVR said their intention was not for users to steal games. "I really didn't want to go down this path, but I feel there is no other way," wrote LibreVR. "I still do not support piracy, do not use this library for pirated copies." They add that the software currently works for VR games using the Unreal Engine, and that support will be extended to those using the Unity Engine in the next update.
+LibreVR told Motherboard that if they could find a way to port Rift games without bypassing its DRM they would do so. Oculus founder Palmer Luckey previously said he wouldn't mind if users tinkered with the Rift's games so that they "run on whatever [platform] they want," but perhaps it was the ease of use of the Revive software that changed his mind. Whatever the case, we'll be waiting to see if Oculus blocks the updated Revive in its next update, and if Revive can continue to rise from the dead.

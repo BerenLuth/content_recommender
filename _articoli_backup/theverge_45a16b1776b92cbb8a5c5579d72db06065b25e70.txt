@@ -1,0 +1,5 @@
+http://www.theverge.com/2016/8/2/12350844/tilt-brush-virtual-reality-painting-music-visualization-audio-reactor
+Tilt Brush’s awesome VR paintings can now respond to music - The Verge
+Adi Robertson
+The Tilt Brush virtual reality painting tool is now also a trippy music visualization tool. An update today will add what the developers call an "audio reactive" mode, which makes brush strokes pulse to the beat of any music that’s played on your computer. While it doesn’t seem hugely complex on its face, the video above shows some fairly amazing possibilities for Tilt Brush pros.
+This new feature is one more thing that separates virtual painting from its physical counterpart, and one more reason to experience art in the HTC Vive instead of as a flat screenshot. That’s still not easy for many people, but since Tilt Brush is owned by Google, we can always hope that the feature might make it into an app for Android’s upcoming Daydream virtual reality platform. And if you weren’t sold on VR music visualizers before today, maybe being able to make your own will win you over.

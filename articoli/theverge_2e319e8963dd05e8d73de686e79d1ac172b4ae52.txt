@@ -1,0 +1,24 @@
+http://www.theverge.com/2016/9/1/12737874/lenovo-yoga-910-ifa-2016-hands-on
+Lenovo's Yoga 910 edge-to-edge display is impressive and flawed - The Verge
+Tom Warren
+Lenovo just introduced its latest Yoga 910 laptop at IFA yesterday, and I got a chance to get a closer look at the new edge-to-edge display. It's the biggest addition on the Yoga 910, and it's just as impressive as when Dell added a similar panel to its XPS 13 last year. Every laptop should have thin bezels like this, and it's encouraging to see Lenovo opt to shrink the bezels around the Yoga 910's display.
+Unfortunately, Lenovo hasn't fully removed or even trimmed down the bottom bezel, so it leaves the overall design looking a little odd when you stare at the Yoga 910. Lenovo is known for having a slightly enlarged bottom bezel on its Yoga range, but it's usually offset by the bezels on either side and above the display. The screen change makes the bottom bezel stick out like a sore thumb now, and it's disappointing Lenovo didn't try to match Dell's slimmer bezels.
+Grid View
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lenovo Yoga 910 hands-on photos
+Screen aside, the Yoga 910 feels very similar to the Yoga 900. There's a new fingerprint reader which is impressively fast, and it supports Windows Hello so you can log into Windows 10 or use it in apps and websites. Lenovo has also added USB Type-C ports to the Yoga 910, and switched to Intel's new 7th generation (Kaby Lake) Core i processors. The Yoga 910 felt as responsive as you'd expect, and the trackpad and keyboard didn't seem to be altered from the previous Yoga 900 model.
+The bezel change means the camera has been moved to below the display, and I tested it briefly and it's safe to say the angle is awkward. It's not as bad as Dell's XPS 13 placement, but you're still going to get unsightly nostril shots if you're dialing into a conference call. The webcam doesn't support Windows Hello, though, so you won't be able to log into Windows 10 with just your face. Lenovo is planning to release the Yoga 910 in October, priced from $1,299 onwards.

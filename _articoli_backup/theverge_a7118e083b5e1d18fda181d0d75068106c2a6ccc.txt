@@ -1,0 +1,6 @@
+http://www.theverge.com/2016/4/26/11512820/sparselight-ar-vr-led-hack-microsoft-hololens
+SparseLightAR / VR hack might make Microsoft's HoloLens less disappointing - The Verge
+Paul Miller
+"What if you stuff a bunch of LEDs around the eyeballs?" asked scientists. And then they answered their own question. Microsoft Research just presented a new paper, titled "Augmenting the Field-of-View of Head-Mounted Displays with Sparse Peripheral Displays" at a human-computer interaction conference. The paper studied the effect of extending a VR or AR display into the wearer's peripheral vision by simply using ultra-low-res LED lights to "extend" a scene. Humans have a lower "resolution" in their peripheral vision, and the LEDs can let you fake a 190 degree field of view — drastically better than Microsoft's much-derided HoloLens, or even the Oculus Rift.
+The researchers discovered all good things about their sparse peripheral displays:
+Unfortunately, "Make HoloLens as magical and buzz-worthy as Magic Leap" wasn't on their list. Still, stuffing LEDs into a headset might make some virtual experiences a bit more immersive — if Microsoft can get this out of the lab and into some hardware.

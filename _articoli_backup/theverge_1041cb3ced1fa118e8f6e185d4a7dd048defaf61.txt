@@ -1,0 +1,7 @@
+http://www.theverge.com/2016/9/6/12818868/microsoft-skype-teams-slack-competitor
+Microsoft is reportedly working on a Slack competitor - The Verge
+Kwame Opam
+Microsoft is taking Slack head on, and reportedly doing it under the Skype umbrella. According to MSPowerUser, the software giant is developing new messaging software that closely mirrors Slack functionality. The new effort is called Skype Teams, and it promises to cater to the the same large teams and newsrooms that already use Slack every day, while also leveraging Skype’s core feature set.
+Skype Teams, per MSPowerUser, looks very much like Slack, in that it features both channels and private messaging for groups, as well as file-sharing and fun things like emojis and GIFs:
+In addition, the new service will feature Threaded Conversations, where users can respond directly to a comment a la Facebook threads. Users will also be able to start video chats both within channels and in private messages.
+Microsoft has already released a Slack competitor in its overhauled SharePoint app, which launched this past spring. That app brought the 15-year-old service into the mobile era, allowing users to manage content and documents on the go. But with Slack  currently at a $3.8 billion valuation, Microsoft is wise to push hard to stay relevant when it comes to team productivity.

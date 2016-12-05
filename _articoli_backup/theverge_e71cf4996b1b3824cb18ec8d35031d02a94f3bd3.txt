@@ -1,0 +1,6 @@
+http://www.theverge.com/2016/8/31/12732122/qualcomm-snapdragon-821-vr-daydream-phones
+Qualcomm’s Snapdragon 821 will support Google’s Daydream VR platform - The Verge
+Ashley Carman
+We know a little bit about Qualcomm’s new Snapdragon 821 processor. We know it’s supposed to be 10 percent faster than the 820, that its quad-core CPU runs at 2.4GHz, and that it’ll first appear in Asus’ Zenfone 3 Deluxe. Today at IFA, Qualcomm gave us a better idea of what we can expect from the SoC, including the fact that maybe it’ll be the key hardware component for getting phones to run Google’s Daydream VR platform.
+Qualcomm says the new chip will include support for the Snapdragon VR SDK, which supports Daydream. So thanks to transitivity, the 821 will support Daydream, and through double transitivity, the Zenfone 3 Deluxe will support Daydream. Asus is, after all, one of Google's eight hardware partners for Daydream. It all makes sense! We do know that some older phones will work with Daydream, too, because ZTE said its Axon 7 is compatible with the platform.
+The 821 also reportedly has five percent better battery life and five percent better GPU speed. We don’t have confirmation on other devices that'll use the new chip, but wow the upcoming Android flagship phones are going to be tempting.

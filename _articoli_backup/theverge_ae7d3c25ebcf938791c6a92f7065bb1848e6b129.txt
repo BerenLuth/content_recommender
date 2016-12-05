@@ -1,0 +1,7 @@
+http://www.theverge.com/2016/9/17/12951996/skype-london-office-closing-layoffs
+Microsoft closing Skype office in London, laying off employees - The Verge
+Jacob Kastrenakes
+Microsoft plans to close Skype's London office and lay off just over half of the nearly 400 people employed there, according to the Financial Times and ZDNet. Microsoft confirmed the layoffs to an extent, telling the Times that it has "made the decision to unify some engineering positions, potentially putting at risk a number of globally focused Skype and Yammer roles." ZDNet followed up with a report putting the cuts at 220 jobs. Microsoft announced earlier this year that it would cut 2,850 positions across the company.
+Skype will still maintain offices throughout the world, including in Redmond, Palo Alto, Vancouver, and several locations in Europe. But the layoffs still indicate a shift in priorities, with anonymous former employees telling the Times that Microsoft has increasingly been taking control of Skype, replacing Skype's employees with its own.
+Skype was one of the first big voice chatting apps, but it's increasingly come under threat from basically all sides. WhatsApp and Facebook Messenger, among others, offer the same features and have enormous user bases. Meanwhile, business tools like Slack are beginning to build in the features, like video chatting, that people have traditionally gone to Skype for.
+Update September 19th, 10:25AM ET: This story has been updated to include ZDNet's figure for cut jobs at Skype and Yammer.

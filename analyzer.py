@@ -125,7 +125,11 @@ def content_recommender(texts, clean_texts):
     #print "\t",lexicon
 
     corpus = [lexicon.doc2bow(text) for text in clean_texts]
-    index = gensim.similarities.MatrixSimilarity(corpus, num_features=len(lexicon))
+
+    tfidf = gensim.models.TfidfModel(corpus)
+    corpus_tfidf = tfidf[corpus]
+
+    index = gensim.similarities.MatrixSimilarity(corpus_tfidf, num_features=len(lexicon))
 
     s = raw_input('\tVuoi vedere gli articoli presenti? (y/n) ')
     if s == 'y':
@@ -133,7 +137,7 @@ def content_recommender(texts, clean_texts):
 
     selected = eval(raw_input('\n\tScegli da quale articolo vuoi partire (0-999) '))
 
-    scores = index[corpus[selected]]
+    scores = index[corpus_tfidf[selected]]
 
     top = sorted(enumerate(scores), key=lambda (k, v): v, reverse=True)
 
@@ -146,7 +150,7 @@ def content_recommender(texts, clean_texts):
 
     print "\n\n\tArticoli suggeriti\n"
     c=1
-    for a,b in top[1:10]:
+    for a,b in top[0:10]:
         b = ("%.2f" % round(b*100,2))
-        print "\t",c,texts[a][1],"\t> simile al ",b,"%"
+        print "\t",c,"\tsimilarita\':",b,"%\t> ",texts[a][1]
         c +=1

@@ -1,0 +1,5 @@
+http://www.theverge.com/2016/4/27/11520356/samsung-dedicated-vr-headset
+Samsung working on dedicated and untethered VR headset - The Verge
+Paul Miller
+At Samsung's developer conference today, the company's head of R&D, Injong Rhee, confirmed the company is working on a standalone VR headset, Variety reports. Samsung is incorporating positional tracking — the primary drawback of phone-based VR systems like Samsung's Gear VR — and also exploring hand and gesture tracking, though not necessarily for the near-term.
+The eventual goal is a "holodeck," and Rhee announced that Samsung is working on all the requisite parts: motion tracking, an untethered VR headset, and touch controls. The best part of Gear VR is its lack of cables snaking down the back of your neck that hardwire you to a PC. If Samsung can figure out how to make a fully positionally tracked VR headset wire-free before Valve or Oculus, it would be a huge win. (Samsung, obviously, worked with Oculus on the Gear VR, but Rhee didn't mention Oculus in his future roadmap.)

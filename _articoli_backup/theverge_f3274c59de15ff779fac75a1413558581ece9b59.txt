@@ -1,0 +1,7 @@
+http://www.theverge.com/2016/10/31/13472920/apple-macbook-pro-chime-gone
+Apple is ditching its iconic startup chime with the new MacBook Pro - The Verge
+Andrew Liptak
+While the Apple product line has changed drastically since 1998, there’s one thing that has remained the same: the chime that signals that your computer is booting up. But with the new MacBook Pro, the distinctive, F-sharp major startup chime is no more.
+The change was first noticed by Pingie.com, which spotted that a specific FAQ page for the updated MacBook Pro no longer mentioned the sound, and confirmed its disappearance on a working version of the laptop.
+The startup chime has been a fixture on Macs since the late 1990s, and has been used to tell the user that there were no issues with their device when starting up. Its removal may make diagnosing technical problems with the new MacBook Pro models a little trickier, but it should also stop people from inadvertently making loud noises in classrooms, meeting rooms, and other public places — especially as Apple has tweaked the new MacBook Pros so that they turn on whenever they’re opened, even if they were fully shut down.
+The chime has changed over the years, and it wasn’t until the iMac G3 that the present chime was used. Apple eventually registered a trademark for the sound in 2012, which described the sound as "a synthesizer playing a slightly flat, by approximately 30 cents, G Flat / F Sharp major chord."

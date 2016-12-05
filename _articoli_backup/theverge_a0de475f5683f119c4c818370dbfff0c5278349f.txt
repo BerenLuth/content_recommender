@@ -1,0 +1,7 @@
+http://www.theverge.com/circuitbreaker/2016/8/8/12403236/haptic-vr-gun-striker
+This VR gun uses haptic feedback to simulate real gunfire - The Verge
+Micah Singleton
+Two years ago, Striker VR demoed an early version of its haptic recoil system designed to make fake guns feel like they're being fired while in virtual reality, a project that was initially designed for military training. Now the company is back with the Infinity v1, a working prototype of a haptic VR gun that can simulate a number of different weapons being fired.
+Striker VR gave Road to VR a demo of its new Infinity v1 prototype:
+The Infinity v1 features single, burst, and auto firing modes, as well as modes for futuristic weapons like a railgun that you'll come across in first-person shooters. Striker VR used an affixed tracker for the demo, but the company told Road to VR that it will support a number of tracking systems alongside PhaseSpace and Sixense STEM tracking, which are already supported. The big three consumer VR platforms — PlayStation’s Move, Oculus’ Constellation, and Valve’s Lighthouse — are next in line to receive support, according to Striker VR.
+Although the gun is only a prototype, Striker VR says it's planning on releasing an SDK to select partners before the end of the year, and hinted that a consumer version may not be far behind.

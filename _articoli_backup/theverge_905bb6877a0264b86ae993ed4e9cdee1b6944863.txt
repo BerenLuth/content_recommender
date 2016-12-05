@@ -1,0 +1,8 @@
+http://www.theverge.com/2016/9/20/12990898/google-now-name-is-disappearing
+The Google Now name appears to be going away - The Verge
+Jacob Kastrenakes
+Google seems to be stripping Google Now of its name and breaking it into more generic parts. According to 9to5Google, the latest beta for Google's Android search app refers to Google Now as "Feed" and refers Now on Tap as "Screen search." Their actual names are (almost) nowhere to be seen.
+There are a few reasons why Google might want to do away with the Now branding. For one, it was pretty confusing in the case of Now on Tap. While the name was clever, it wasn't at all descriptive; "screen search" is, boring as it may be.
+It's all just "Google" now
+The other, likely bigger component is that Google wants its own name — Google — to be associated with giving you information, no matter what way you receive. So it makes sense that Now is turning into the Google feed and the Google screen search, just as the upcoming Google voice assistant will be called the Google assistant.
+Google's assistant seemed to be the harbinger of these changes. It's still not clear how assistant will live alongside the feed (FKA Now), but we'll likely find out soon. Google is announcing its next smartphones on October 4th, and it'll certainly want the features out by then.

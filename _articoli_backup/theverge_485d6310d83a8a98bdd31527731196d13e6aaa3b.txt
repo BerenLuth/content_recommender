@@ -1,0 +1,38 @@
+http://www.theverge.com/circuitbreaker/2016/9/19/12982316/gopro-karma-drone-hands-on-first-fly
+GoPro's Karma drone is easy to fly, but I still broke it - The Verge
+Sean O'Kane
+I’ve never flown a drone before, so of course I crashed the GoPro Karma. Okay, "crashed" might be a strong word for it — I broke a rotor when I landed the quadcopter too close to a rock. Other than that, my first flight was a blast.
+GoPro’s been teasing Karma since May of 2015, and the no-longer-just-an-action-camera company finally unveiled the drone this morning during an event at Squaw Valley Ski Resort in California. After the event ended, I headed up to the top of one of the mountains here to test the thing out.
+GoPro’s biggest selling point with Karma is how easy it is to use. And for the most part, it’s right. The drone has auto-takeoff and landing modes, an "easy" flight mode, and some semi-autonomous modes. (There’s a cable-cam mode, where you can set two points and have Karma travel in a line between them. There’s a version of that where Karma will tilt the camera up as it travels. There’s a "dronie" mode, where the camera will start on you and zoom up into the sky. And there’s an "orbital" mode, where the camera will stay locked on you while Karma loops around you.) Unfortunately, Karma does not offer a "follow" mode that locks onto you as you pedal down a mountain, kite across a lake, or snowboard down a slope — and that's surprising from a company that's become synonymous with self-recording adventure.
+Since I only had a few minutes to fly it, I decided to go full manual.
+Karma isn't foolproof, and I'm a fool
+There’s a GPS unit in the drone itself, as well as in the clamshell controller, so Karma does a really good job of hovering in place when you’re not sending it flight commands. This was no easy feat — we were 10,000 feet up, and there were wind gusts of at least 10–20 miles per hour.
+Flying it was easy, too, and that’s in large part due to the controller. To me, a rookie, it’s severely uncomplicated in the best way. On the bottom half you have the two standard joysticks you’d expect on a drone — the left controls altitude and yaw, or the direction the drone faces, and the right controls pitch and roll, the movements that tilt the drone so it can fly in different directions.
+Grid View
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GoPro Karma and stabilizer grip in photos
+Between the two joysticks are two buttons: one to start and stop Karma’s motors, and one for the automatic landing. And on the shoulders of the controller — think where the triggers would be on a gamepad — are a button for recording and a wheel that lets you tilt the drone’s camera.
+On the top half of the controller is a touchscreen LCD, where you can manage settings, change modes, and watch a live view of what the drone is seeing. I had Karma about 300 feet above me and at least 500 feet away from me and the video never cut out. The image looks great, and the screen was bright enough for me to see, even at high noon. (The controller has about two hours of battery life, by the way, and in a pinch you can charge the controller from a spare Karma battery.)
+The controller is dead simple and fun
+Of course, Karma’s battery only lasts about 20 minutes (extra batteries will run about $100–$150) and this is displayed in a bar that stretches across the top of the LCD. As it shrinks, it goes from green to orange to red, and Karma will start to return to its takeoff spot once you’re under about four minutes of remaining flight time. (You can cancel this and take control back, but inevitably the drone will land itself if it is too close to running out of battery.)
+My flight was going smoothly, even with all the wind. I zoomed Karma out over the ravine in front of me, and even tried to pull off some cinematic tilts and pans while I was flying. So by the time the drone’s battery had four minutes left, I felt confident enough to try to land the thing myself. I got it back within about 50 feet from me, but I was lowering it too fast. Before I could tap the auto-landing button, the drone set itself on the ground right next to a rock. Karma only stands about three inches off the ground, so the rotor clipped the rock. Oops.
+So I got a little cocky. I won’t be the last. With Karma, GoPro is getting into a product category that is inherently more dangerous than a camera, one that’s even regulated by the government. There are going to be accidents with Karma, especially because it doesn’t have any sense-and-avoid capabilities.
+Otherwise, it really did feel easy to use. And I’ve spent the rest of the day wanting to get my hands on that controller again.
+The other big part of Karma’s approachability is the size and modularity — Karma even comes with a backpack carrying case. The four arms fold against the side, and the landing gear underneath folds up as well. When everything is compacted it only takes up about a foot and a half of space. GoPro says those arms can be swapped out pretty easily if you break one, and — take it from me — the same is true for the rotors, which snap and spin on in just a few seconds. (You get a set of spares when you buy Karma.)
+Karma's not just one product
+The coolest thing about Karma other than the actual flying is that the three-axis gimbal that stabilizes the camera can be removed and attached to a handheld mount. This turns your GoPro into something like the DJI Osmo, and save for Karma, it was the thing I had the most fun playing with today. The handheld mount has a battery in it that powers the gimbal and also charges your GoPro, too.
+Karma will cost $799 when it goes on sale in late October, but the real killer selling point for GoPro will probably be the bundles. You can get a Karma and a Hero 5 Black for $1,099, or a Karma and a Hero 5 Session for $999 — a $100 savings in either case. That’s a drone, a handheld stabilizer, and a camera all in one bundle. It’s too early to say just how well Karma stacks up against the likes of drones like the DJI Phantom 4, or how far GoPro’s "easy to use" claims really stretch. But when you consider GoPro’s massive retail presence, and the apparent value of those bundles, it’s easy to see how they’ll compete.

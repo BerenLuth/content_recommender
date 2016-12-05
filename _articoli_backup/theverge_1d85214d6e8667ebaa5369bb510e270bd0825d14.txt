@@ -1,0 +1,8 @@
+http://www.theverge.com/2016/10/4/13156384/google-4k-chromecast-ultra-photos-hands-on
+The Chromecast Ultra has a clever fix for massive 4K video streams - The Verge
+Dieter Bohn
+What can you say about a Chromecast — specifically the new Chromecast Ultra? Like the one that came before it, it’s a circular disc with a tiny HDMI cable sticking out of it. Like all Chromecasts, it streams video directly from the internet, but you choose what video to stream using your phone (or maybe the new Google Home speaker, if you have one). It is, in short, just a Chromecast. I held one: it felt like a Chromecast.
+The “Ultra” part of this Chromecast is that it supports both 4K and HDR, and therefore costs double a normal Chromecast at $69. There’s precious little streamable 4K and HDR content and not a ton of consumers have 4K and HDR-capable TVs in the first place, so maybe by the time both are more widespread, the price will come down.
+Developing, stay tuned for hands-on video!
+I haven’t had a chance to watch video streamed through a Chromecast Ultra, but as soon as I do I’ll update this post. But Google does claim that it can be up to 1.8x faster at starting streams and is also better with Wi-Fi reception.
+There is one clever bit about the Ultra, though. Like all Chromecasts, it’s powered by microUSB (sorry USB-C). You can charge it off some TVs (if they provide enough power over USB) or via the included AC adapter. That adapter has a clever, simple trick for dealing with the high-bandwidth 4K video uses: an Ethernet adapter. If your home’s Wi-Fi is subpar (and you don’t want to spring for Google’s new Wifi routers to fix it), you can deal with it the old-fashioned way: with a big, fat wire.

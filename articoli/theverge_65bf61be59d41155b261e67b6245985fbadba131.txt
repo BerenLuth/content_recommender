@@ -1,0 +1,5 @@
+http://www.theverge.com/2016/9/27/13071286/ios-10-video-image-lock-screen-notifications
+MLB's app now delivers video highlights straight to your lock screen - The Verge
+James Vincent
+iOS 10 is all about the lock screen, delivering extra functionality via both widgets and more powerful notifications. You might not have noticed, though, that some apps can even send you images and video this way, including MLB's At Bat. An update for the app released yesterday allows users to watch baseball highlights straight from the lock screen. Just 3D Touch a notification and the video will be accessible, although you do have to unlock the phone first.
+At Bat isn't the first app to use these sorts of alerts (which Apple calls "Advanced Notifications") but it's probably the most useful we've seen to date. Other examples include Netatmo's app for its home security system. When unexpected motion is detected by the company's Wi-Fi-enabled webcam, users get sent a snapshot of the event sent straight to their lock screen. That's quicker than opening up an email or the company's app, although it'd be even better if you could get live video, too.

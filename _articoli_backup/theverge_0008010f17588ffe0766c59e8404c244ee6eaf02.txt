@@ -1,0 +1,10 @@
+http://www.theverge.com/circuitbreaker/2016/10/4/13100592/google-wifi-router-announced-multi-point-features
+Google's new Wifi routers are here to take on Eero - The Verge
+Dan Seifert
+It's been an exciting year for home wireless networks, with the launch of Eero and the many similar systems that have followed it. Now Google's getting in the game of multi-point routers with the simply-named Google Wifi. It's not Google's first foray into routers — last year's OnHub system is Google's platform for other router makers to follow — but it's the first in-house product of this type for Google. And if you know anything about Eero, Google Wifi is going to sound very familiar.
+The Wifi router can be purchased two ways: as a single unit or in a multipack, just like Eero. A single unit is $129, while the three-pack will cost $299. That's significantly cheaper than Eero, which sells for $199 for one or $499 for three. Google says Wifi will be available for preorder in the US in November and will ship to customers in December. There was no mention of international availability.
+Google says it has developed a number of technologies to make the Wifi system work, including intelligent routing of traffic from your phone or device to the nearest Wifi unit in your home. It supports AC1200 wireless speeds, as well as simultaneous dual-band 2.4GHz and 5GHz networks. It also has beamforming technology and support for Bluetooth Smart. Google says the system will handle channel management and other traffic routing automatically.
+The system will be manageable via a smartphone app — much like OnHub is already — which will allow for set up and parental controls.
+Vjeran Pavic / The Verge
+Aesthetically, Google Wifi looks like white hockey pucks, which isn't terribly different from Eero. This new wave of routers, which trade high power for multiple units, has transformed Wi-Fi in many homes. Now that Google's jumped in the fray, it will be interesting to see how well its version competes.
+Developing. Check out our Google Pixel live blog for the latest updates and our Google hub page for all the news!

@@ -1,0 +1,6 @@
+http://www.theverge.com/2016/8/30/12713444/snapchat-custom-geofilter-creator-app-updates
+Snapchat releases a new web tool for making custom geofilters - The Verge
+Casey Newton
+Snapchat has let you create custom geofilters for events since February, but until now you've needed image editing software to make one. Today the company rolled out a tool for creating on-demand geofilters on the web, using templates for weddings, birthdays, and other celebrations. The filters, which can cost as little as $5 for a party in a small geographic area, will appear alongside the other geofilters inside the app when your guests post snaps during your event. Snapchat's tool lets you customize the filter's color palate and the text, and offers preview images to show you what your guests' snaps will look like once the filter is live.
+The tool gives Snapchat a new way to make money beyond its traditional advertising business. It rolled out alongside a nice update to the app that makes a handful of things a bit easier:
+You can also now preview a person's public stories before adding them as a friend — something that could help users discover new accounts a little more easily. The update is live in the iTunes App Store; it wasn't yet live on Android when we checked.

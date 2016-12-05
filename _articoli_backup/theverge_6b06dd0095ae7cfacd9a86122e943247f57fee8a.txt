@@ -1,0 +1,6 @@
+http://www.theverge.com/circuitbreaker/2016/5/13/11672820/android-vr-android-developer-console-google-io
+Android VR option glimpsed in Android Developer Console - The Verge
+Paul Miller
+It now seems obvious: Google is going to launch some sort of Android VR product at Google I/O next week. What exactly that means — added support in Android N, a VR-specific version of Android, and maybe even a Gear VR-style headset — remains to be seen.
+Yesterday Android Police spotted an "Android VR" option in the Android Developer Console, alongside the usual distribution options like Android Wear, Android Auto, and Android TV. Support for Android VR has also shown up in a recent changelog for Unreal Engine.
+Basically, Android VR is a thing now. The little blip in the Developer Console is gone now, but not forgotten. This may change everything. Or, like, maybe not very much at all. We'll find out in five days.

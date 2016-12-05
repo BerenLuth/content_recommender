@@ -1,0 +1,5 @@
+http://www.theverge.com/circuitbreaker/2016/6/7/11876982/tomtom-bandit-action-cam-underwater-mode
+TomTom's action camera now automatically color-corrects your underwater footage - The Verge
+Sean O'Kane
+I went snorkeling for the first time ever back in April while on vacation in Belize, and the whole time I had a GoPro strapped to my wrist. I got a few great shots, but everything had a blueish-green cast to it — a problem I anticipated but didn't do anything to prevent, because it usually involves buying separate filters that go over your camera's lens, and also because I was more focused on staying afloat.
+Thanks to a software update being issued today, TomTom's action camera — the Bandit — is going to start correcting for this automatically, removing the need for extra equipment. That's great, especially because we really like the Bandit here at The Verge. It doesn't shoot the same great footage you'd get from a GoPro, and Sony's Action Cams have been doing this for a while, but this is the latest example of TomTom trying to use software in order to make the Bandit stand out from the crowd.

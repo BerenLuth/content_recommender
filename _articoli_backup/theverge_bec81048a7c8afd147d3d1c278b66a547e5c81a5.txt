@@ -1,0 +1,7 @@
+http://www.theverge.com/circuitbreaker/2016/11/29/13779582/tiny-ts-synthesizer-jan-ostman-wallet
+You can fit this miniature synthesizer in your wallet - The Verge
+Chaim Gartenberg
+The Tiny TS, the first standalone synthesizer from Jan Ostman, can do just that. Measuring in at a — as the name suggests — tiny 3.94 x 2.56 inches, it's roughly the size of a credit card.
+The synth offers audio, CV, and gate outputs, and works well with Ostman's other synth chips if you don't like the way they sound. Despite the small size, it manages to fit in a full one-octave capacitive touch keyboard and six parameter knobs for controlling things like pitch and amplitude.
+We’ve seen some tiny synthesizers before, like Teenage Engineering's $60 Pocket Operators, which shrunk the music-making tools down to about the size of a calculator. But the the Tiny TS goes even further with its super-diminutive form factor, albeit with less functionality than Teenage Engineering’s comparatively larger offerings.
+Ostman is selling the Tiny TS in a few versions, ranging from just a basic PCB circuit board for $20 to a completely prebuilt model for $60. The Tiny TS is also open source, with the complete code and hardware specs available on Ostman's website. While stock of the first December batch is said to be limited, Ostman plans to sell more in an Indiegogo campaign, and those are expected to begin shipping in February 2017.

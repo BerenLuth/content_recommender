@@ -1,0 +1,8 @@
+http://www.theverge.com/circuitbreaker/2016/5/12/11665810/vr-robot-tank-quotes-schwarzenegger
+Check out this VR robot tank that makes fart noises - The Verge
+Alex Brokaw
+Finally, everything that I've ever wanted out of DIY engineering culture, virtual reality, and the internet have been delivered with the VR Robot Tank, which makes fart noises and quotes the classic Arnold Schwarzenegger vehicle Kindergarten Cop.
+"I feel like my body is inside the ground."
+Freddy Kilo breaks down how he built his VR Robot Tank in a recent YouTube post. It's assembled on top of a gold chassis with tank treads, powered by two Raspberry Pi 2s, and controlled with an Xbox 360 controller. Two cameras are mounted onto a dual servo rig that can move up and down and left and right. Video from those cameras is streamed to an Android phone, where the feeds are played side-by-side in browser windows. Slip the phone into a Google Cardboard, and Kilo has his VR Robot Tank.
+He demos how it works in the video, giving some commentary on the strangeness of piloting his device. "Everything is really big," Kilo says. "I feel like my body is inside of the ground. It's kind of weird."
+Later on, he demonstrates what I see as the crowning achievement of his DIY project. He presses one button and triggers a series of random fart noises to play out of speaker strapped to the VR Robot Tank's chassis. Another button, and Schwarzenegger is sternly delivering the line "Who is your daddy, and what does he do?"
