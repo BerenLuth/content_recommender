@@ -26,13 +26,6 @@ def base_file_reader(filename):
     return [link, title, author, content]
 
 def file_reader(filename):
-    '''
-    f = io.open(ARTICLE_FOLDER.format(filename), 'r', encoding='utf8')
-    link = f.readline()
-    title = text_cleaner(f.readline())
-    author = text_cleaner(f.readline())
-    content = text_cleaner(f.read())
-    '''
     f = base_file_reader(filename)
     link = f[0]
     title = text_cleaner(f[1])

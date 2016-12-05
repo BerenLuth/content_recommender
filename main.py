@@ -10,10 +10,12 @@ if __name__ == '__main__':
     texts = ir.start()
 
     # B.1 - stampa dei dati cosi' come sono stati letti
-    an.start_dirty(texts)
+    an.start_base(texts)
 
     # B.2 - stampa dei dati dopo la rimozione delle stopwords e di lemmatize
-    clean_text = an.start_clean(texts)
+    clean_text = an.start_advanced(texts)
 
     # B.3 - suggerimento articoli
     an.content_recommender(texts, clean_text)
+
+    print "\n"

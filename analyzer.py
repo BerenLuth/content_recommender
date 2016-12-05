@@ -16,8 +16,13 @@ def print_graph_coordinates(rank_list, occurrence, filename):
         c +=1
     print "\tCreato file ", filename
 
+def show_choices(texts):
+    c=0
+    for article in texts:
+        print c,article[1]
+        c += 1
 
-def start_dirty(texts):
+def start_base(texts):
     print "\n### analyzer.py ###\tBase analyzer\n"
     filename = rank_list_filename.format("dirty")
 
@@ -27,6 +32,10 @@ def start_dirty(texts):
             frequency[token] += 1
 
     dict_ordered = sorted(frequency, key=frequency.get)
+
+    for word in dict_ordered[::-1][:10]:
+        print word, frequency[word]
+
     print_graph_coordinates(dict_ordered, frequency, filename)
     plot.windows_gnuplot_command(filename, "dirty data")
 
@@ -53,8 +62,8 @@ def remove_single_occurrence(my_dictionary):
         del my_dictionary[element]
 
 
-def start_clean(texts):
-    print "\n### analyzer.py ###\tComplex analyzer\n"
+def start_advanced(texts):
+    print "\n### analyzer.py ###\tAdvanced analyzer\n"
     filename = rank_list_filename.format("clean")
 
     stopwords = read_stopwords()
@@ -92,16 +101,16 @@ def start_clean(texts):
 
         clean_text.append(text)
         c += 1
-        if c % 50 == 0:
+        if c % 100 == 0:
             print "\t",c/10, "%"
     print ""
 
     dict_ordered = sorted(frequency, key=frequency.get)
 
-
+    '''
     for x in dict_ordered[::-1][:100]:
         print x, frequency[x]
-
+    '''
 
     print_graph_coordinates(dict_ordered, frequency, filename)
     plot.windows_gnuplot_command(filename, "clean data")
@@ -113,12 +122,16 @@ def content_recommender(texts, clean_texts):
     print "\n### analyzer.py ###\tcontent_recommender\n"
 
     lexicon = gensim.corpora.Dictionary(clean_texts)
-    print "\t",lexicon
+    #print "\t",lexicon
 
     corpus = [lexicon.doc2bow(text) for text in clean_texts]
     index = gensim.similarities.MatrixSimilarity(corpus, num_features=len(lexicon))
 
-    selected = eval(raw_input('Scegli da quale articolo vuoi partire '))
+    s = raw_input('\tVuoi vedere gli articoli presenti? (y/n) ')
+    if s == 'y':
+        show_choices(texts)
+
+    selected = eval(raw_input('\n\tScegli da quale articolo vuoi partire (0-999) '))
 
     scores = index[corpus[selected]]
 
