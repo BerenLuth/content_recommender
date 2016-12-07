@@ -1,11 +1,15 @@
 from collections import defaultdict
 import gnuplot as plot
 import io
-import gensim
+from gensim import models, similarities, utils, corpora
 import item_reader as ir
+import logging
 
 rank_list_filename = "rank_list_{}.dat"
 SELECTED_ARTICLE = 100
+MY_ARTICLES = [20,50,100,150,200,250,300,350,400,450,500,550,600,650,700,750,800,850,900,950]
+N_SELECTED = len(MY_ARTICLES)
+#logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
 def print_graph_coordinates(rank_list, occurrence, filename):
     f = io.open(filename, 'w')
@@ -89,15 +93,7 @@ def start_advanced(texts):
             if word not in stopwords and frequency[word]>1:
                 content += word + " "
 
-        '''
-        #TODO ripristinare il lemmatize
-        title = title.split()
-        content = content.split()
-        text = title + content
-        print "## RICORDATI DI TOGLIERE IL COMMENTO AL LEMMATIZE ##"
-        '''
-
-        text = gensim.utils.lemmatize(title+ " " +content)
+        text = utils.lemmatize(title+ " " +content)
 
         clean_text.append(text)
         c += 1
@@ -117,40 +113,70 @@ def start_advanced(texts):
 
     return clean_text
 
+#Crea un articolo che corrisponde alla media degli articoli dati
+def avg_article_from_articles(selected_articles, corpus):
+    # creo un dizionario contentente le occorrenze totali delle parole nei testi dati
+    avg_dict = defaultdict(int)
+    for article in selected_articles:
+        for x,y in corpus[article]:
+            avg_dict[x] += y
+
+    # costruisco una lista che andra' inserita in corpus
+    # contentente la media delle occorrenze delle parole
+    avg_article = []
+    for x,y in avg_dict.items():
+        avg_article.append((x,y/float(N_SELECTED))) #divido il n totale delle occorrenze per il n di articoli
+    return avg_article
+
+def similarity_printer(texts, result_list):
+    print "\n\tArticoli di partenza\n"
+    for x in MY_ARTICLES:
+        title = ir.get_original_title(texts[x][0])
+        print "\t",title
+
+    print "\n\n\tArticoli suggeriti\n"
+    c=1
+    result = [(a,b) for (a,b) in result_list if a not in MY_ARTICLES]   #faccio in modo che non vengano stampati gli articoli di partenza
+    for a,b in result[1:21]:   #salto il primo elemento perche' ovviamente essendo l'articolo medio calcolato, non sara' presente in texts
+        b = ("%.2f" % round(b*100,2))
+        title = ir.get_original_title(texts[a][0])  #recupero il titolo originale (con identazione e punteggiatura)
+        print "\t",c,"\tsimilarita\':",b,"%\t> ",title
+        c +=1
+
+# Prende in input un il dizionario e il corpus
+# Calcola la matrice di similarita' e successivamente ritorna la lista dei risultati
+# calcolari sull'ulrimo elemento (quello aggiunto a mano)
+def similarity_calculator(dictionary, corpus):
+    index = similarities.MatrixSimilarity(corpus, num_features=len(dictionary))
+    scores = index[corpus[-1]]
+    return sorted(enumerate(scores), key=lambda (k, v): v, reverse=True) #ordino i risultati e li metto in una lista
+
+def topic_finder(k, corpus_tfidf, dictionary, texts):
+    print "\n\n### Individuo i topic ###\tk = ", k
+    lsi = models.LsiModel(corpus_tfidf, id2word=dictionary, num_topics=k) # initialize an LSI transformation
+    corpus_lsi = lsi[corpus_tfidf] # create a double wrapper over the original corpus: bow->tfidf->fold-in-lsi
+
+    for i in range(0, lsi.num_topics-1):
+        print "Topic #", i, ": ", lsi.print_topic(i)
+
+    top = similarity_calculator(dictionary, corpus_lsi)
+    similarity_printer(texts, top)
 
 def content_recommender(texts, clean_texts):
     print "\n### analyzer.py ###\tcontent_recommender\n"
 
-    lexicon = gensim.corpora.Dictionary(clean_texts)
-    #print "\t",lexicon
-
+    lexicon = corpora.Dictionary(clean_texts)
     corpus = [lexicon.doc2bow(text) for text in clean_texts]
 
-    tfidf = gensim.models.TfidfModel(corpus)
+    avg_article = avg_article_from_articles(MY_ARTICLES, corpus) # calcolo l'articolo che rappresenta la media degli articoli scelti
+    corpus.append(avg_article)   # aggiungo l'articolo a corpus
+
+    tfidf = models.TfidfModel(corpus)
     corpus_tfidf = tfidf[corpus]
 
-    index = gensim.similarities.MatrixSimilarity(corpus_tfidf, num_features=len(lexicon))
+    top = similarity_calculator(lexicon, corpus_tfidf)
+    similarity_printer(texts, top)
 
-    s = raw_input('\tVuoi vedere gli articoli presenti? (y/n) ')
-    if s == 'y':
-        show_choices(texts)
-
-    selected = eval(raw_input('\n\tScegli da quale articolo vuoi partire (0-999) '))
-
-    scores = index[corpus_tfidf[selected]]
-
-    top = sorted(enumerate(scores), key=lambda (k, v): v, reverse=True)
-
-
-
-    #print "\t",top[:10]
-    print "\n\n\tArticolo di partenza\n"
-
-    print "\t",texts[selected][1]
-
-    print "\n\n\tArticoli suggeriti\n"
-    c=1
-    for a,b in top[0:10]:
-        b = ("%.2f" % round(b*100,2))
-        print "\t",c,"\tsimilarita\':",b,"%\t> ",texts[a][1]
-        c +=1
+    topics = [2,950]
+    for k in topics:
+        topic_finder(k, corpus_tfidf, lexicon, texts)

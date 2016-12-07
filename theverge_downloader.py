@@ -24,28 +24,29 @@ def get_links_from_archive_page(url):
 
 	return links
 
+# si occupa di controllare se esiste il file contentente la lista contentente i link agli articoli e in caso di crearlo
 def get_links():
 	linklist = []
-	if not os.path.exists(LIST_FILE_NAME):
-		# per ogni categoria recuper i link dall'archivio
-		for category in CATEGORIES:
-			print "\tRecupero i link della categoria " + category + "..."
-			c = 1
-			# valore ideale: 12 cicli +- 1000 articoli
-			while c<14:
-				page_number = THEVERGE_URL.format(category, c)
-				x = get_links_from_archive_page(page_number)
-				#print category, len(x)
-				linklist.extend(x)
-				c += 1
 
-		f = io.open(LIST_FILE_NAME, 'w')
-		for link in linklist:
-			f.write(link+"\n")
-	else:
+	if os.path.exists(LIST_FILE_NAME):
 		f = io.open(LIST_FILE_NAME, 'r', encoding='utf8')
 		linklist = f.read().splitlines()
-		print linklist
+		if len(linklist)<ITEMS_NUMBER:	#se la lista e' comunque troppo corta, la riscarico
+			# per ogni categoria recuper i link dall'archivio
+			for category in CATEGORIES:
+				print "\tRecupero i link della categoria " + category + "..."
+				c = 1
+				# valore ideale: 12 cicli +- 1000 articoli
+				while c<14:
+					page_number = THEVERGE_URL.format(category, c)
+					x = get_links_from_archive_page(page_number)
+					#print category, len(x)
+					linklist.extend(x)
+					c += 1
+
+			f = io.open(LIST_FILE_NAME, 'w')
+			for link in linklist:
+				f.write(link+"\n")
 	return linklist
 
 

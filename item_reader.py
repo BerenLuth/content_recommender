@@ -10,9 +10,9 @@ ARTICLE_NAME = "theverge_{}.txt"
 # Prende in input una cartella e restituisce una lista contentente i nomi dei files
 def listfiles(files_path):
 
-    onlyfiles = [f for f in listdir(files_path) if isfile(join(files_path, f))]
+    onlyfiles = [f for f in listdir(files_path) if isfile(join(files_path, f)) and f != '_link_list.txt']
     #for file in onlyfiles:
-    #    print file
+
     print "\tFiles letti: " + str(len(onlyfiles))
     return onlyfiles
 
@@ -41,9 +41,9 @@ def text_cleaner(article):
     return x.lower()
 
 def get_original_title(link):
-    filename = ARTICLE_NAME.format(sha.new(link[:-1]).hexdigest())
+    filename = ARTICLE_NAME.format(sha.new(link[:-1]).hexdigest())  #ricostruisco il nome del file dal link(senza lo \n finale)
     article = base_file_reader(filename)
-    print "\t", article[1]
+    return article[1][:-1]  #ritorno il titolo senza lo '\n' finale
 
 def get_original_complete(link):
     filename = ARTICLE_NAME.format(sha.new(link[:-1]).hexdigest())
