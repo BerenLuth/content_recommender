@@ -1,7 +1,0 @@
-http://www.theverge.com/2016/10/4/13098314/google-android-update-7-1-nougat-new-features
-Google's new Pixel phones come with Android 7.1 Nougat - The Verge
-Dan Seifert
-Google has announced Android 7.1 Nougat, which adds a number of features to Android 7.0 that launched earlier this year. Android 7.1 brings new features to all devices, but it also includes a number of special things that are exclusive to Google's new lineup of Pixel phones.
-The Pixel phones will have Google's new launcher, Google Assistant, a phone and chat tech support service, unlimited, original-quality backup for photo and video to Google Photos, and a new Smart Storage feature that automatically removes backed up photos and video when the phone's storage is full. They also have a few cosmetic updates, including more system theming options, unique navbar icons, and a dynamic calendar date icon.
-The rest of the Android world will get a new Night Light option (similar to Apple's NIght Shift), touch and display improvements, Daydream VR support, gestures for the fingerprint scanner, and a number of developer-focused enhancements.
-Google did not say when Android 7.1 would be available for non-Pixel devices, but the new Pixel phones will be available later this month.

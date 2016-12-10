@@ -1,5 +1,0 @@
-http://www.theverge.com/circuitbreaker/2016/6/6/11866892/geforce-gtx-1070-motherboard-intel-diy-pc
-Here's what a GTX 1070 looks like as part of a motherboard - The Verge
-Ashley Carman
-Colorful, a graphic cards manufacturer, has created a proof-of-concept motherboard that puts Intel's B150 chipset alongside an integrated GTX 1070 GPU. It's really small, too, even with all that power. That B150 chipset makes it compatible with Skylake CPUs, including the Intel Core i7-6700K. Although Colorful merely made its motherboard to prove it could do it, we're excited about what this idea could eventually lead to, or really, VR BACKPACKS.
-Digital Storm already mounted a GTX 1080 inside a curved screen, but we still haven't seen the "official" way Nvidia plans to get its new graphics chips inside smaller form factors. Colorful's motherboard mashup certainly isn't it, but it's a delightful frankenstein.The future of consolidated computing is on its way. Weeeeee.

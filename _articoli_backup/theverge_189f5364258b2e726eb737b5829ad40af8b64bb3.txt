@@ -1,5 +1,0 @@
-http://www.theverge.com/circuitbreaker/2016/9/9/12865796/valve-steam-htc-vive-wi-fi-headset
-Valve is teaming up with Quark VR to launch a Vive that runs over Wi-Fi - The Verge
-Ashley Carman
-A Bulgarian company called Quark VR just announced that it’s working with Valve to create an HTC Vive that streams over Wi-Fi. Given that wireless connections are often unreliable and slower, Quark relies on a special pocket-sized Wi-Fi transmitter that would help stream VR footage. The transmitter communicates between the headset and the PC, but isn't totally wire-free; there would still be a wire running from your pocket to the headset. Still, there wouldn’t be any cables around your feet or computer.
-Quark says it struggled to maintain a strong enough connection to prevent lag, but that it’s "getting extremely close" to being able to show off a prototype. One wire’s not so bad, right?

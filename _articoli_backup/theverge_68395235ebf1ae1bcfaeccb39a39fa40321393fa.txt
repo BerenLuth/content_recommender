@@ -1,8 +1,0 @@
-http://www.theverge.com/circuitbreaker/2016/11/21/13697058/macbook-touchbar-doom-hack-sure-why-not
-Running Doom on the MacBook Pro's Touch Bar shows innovation isn't dead - The Verge
-James Vincent
-The Touch Bar on Apple's new MacBook has been pretty controversial, but there's one thing fans and haters alike can agree on: this thing was definitely made to run Doom. Putting the classic shooter on any given piece of hardware has become something of a minimum viable hack in the tech community, and as the Touch Bar is essentially a mini Apple Watch jammed above the laptop's keyboard, there's no reason it too can't get involved. iOS developer Adam Bell stepped up to the plate for this one, uploading the video above to YouTube.
-As you might expect, the Touch Bar's 2170 x 60 resolution doesn't exactly make this an easy way to play Doom, although the game's sound effects are so evocative you could presumably navigate levels based on audio alone. In a more useful iteration, Bell also dropped Doom's HUD onto the Touch Bar, which certainly fits a lot better, but would be a bit of a pain to use (who wants to look down at the keyboard when they need to check their health?):
-Side note, as ridiculous (ly amazing) as Doom is running on the Touch Bar is… the HUD is equally great pic.twitter.com/RFwq7nJ7ae
-We can definitely expect to see more hacks like this in the future (here's one for Nyan Cat, for example), and hey, maybe even some functional applications, too — image editor Pixelmator added Touch Bar support just last week. That's certainly useful, but not as fun as killing Cacodemons without even looking at your screen.
-(Thanks to @sdierauf on Twitter for the tip.)

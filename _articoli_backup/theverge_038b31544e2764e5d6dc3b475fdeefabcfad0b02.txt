@@ -1,6 +1,0 @@
-http://www.theverge.com/2016/11/23/13730380/microsoft-solitaire-ios-android-game
-Microsoft brings Solitaire to iOS and Android - The Verge
-Tom Warren
-Microsoft is bringing its popular version of Solitaire to iOS and Android today. While the game as existed on Windows for more than 25 years, the modern Solitaire Collection will now be available outside of Windows for the first time. Microsoft is offering its Solitaire Collection on iOS and Android free of charge, as the company hopes to gain more players to add to the 119 million who have played the game on Windows 8 and Windows 10.
-The Microsoft Solitaire Collection for iOS and Android includes Klondike, Spider, FreeCell, Pyramid,and Tripeaks game types, alongside daily challenges for players. Microsoft is integrating Xbox Live into the game so you can sign into Solitaire and play with friends or earn achievements. Microsoft is also offering a “Premium Edition” for $1.99 per month without ads, and which includes double coin rewards for daily challenges and game boosts.
-While there are lots of Solitaire games already available on iOS and Android, Microsoft counts its version as the “world’s number 1 Solitaire game” thanks to its loyal following on Windows. You can download the iOS version from Apple’s App Store, or the Android equivalent over at Google’s Play Store.

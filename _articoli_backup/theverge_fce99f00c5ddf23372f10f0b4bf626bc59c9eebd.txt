@@ -1,7 +1,0 @@
-http://www.theverge.com/2016/9/22/13015292/macarthur-genius-grant-microsoft-bill-thies
-Microsoft researcher behind TB treatment-monitoring program wins ‘genius’ grant - The Verge
-Colin Lecher
-The annual MacArthur Foundation fellows have been announced, and among them is Bill Thies, a researcher for Microsoft who works on communications programs in the developing world.
-In a statement, the foundation, which awards the grants sometimes referred to as the "genius" awards, praised Thies' work on the 99DOTS program. The initiative provides a low-cost way for people in India to receive monitored treatment for tuberculosis. By making a free call after taking a dose of medication in special packaging, doctors are able to track patients' health progress.
-"This is not about making things 100 times faster, 100 times bigger, 100 times more futuristic," Thies said in a video accompanying the announcement. "This is about things 100 times simpler, 100 times cheaper, 100 times more inclusive."
-The $625,000 grant was also awarded to 22 other fellows, including poet Claudia Rankine, graphic novelist Gene Luen Yang, microbiologist Dianne Newman, and computer scientist Subhash Khot.

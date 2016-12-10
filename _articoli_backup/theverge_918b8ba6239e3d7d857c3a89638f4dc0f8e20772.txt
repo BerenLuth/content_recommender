@@ -1,8 +1,0 @@
-http://www.theverge.com/2016/5/19/11713864/daydream-android-vr-gets-unity-unreal-gaming-engines-support
-Unity and Unreal engines will support Android's Daydream VR - The Verge
-Jacob Kastrenakes
-Google's new virtual reality program is getting some huge support from the gaming world. It was announced today that Unreal and Unity — two of the biggest names in game engines — will be adding support for Daydream, Android's new VR initiative.
-Their support will make it much easier for developers to create new games (and port existing ones) for Daydream. Developers are already familiar with (and quite possibly actively working on) both of these platforms, so that's going to make it far less of a hassle to start working with Daydream.
-Developers can start working with Daydream in both engines today
-Unreal Engine 4 and Unity already support the biggest VR platforms out there — including the Oculus Rift, HTC Vive, Gear VR, and PlayStation VR — so support for Daydream doesn't come as a huge surprise. It's a critical inclusion, though, and means that Google was likely working with both engine's creators ahead of time to ensure speedy support.
-It's likely still going to be more than a few months before Daydream comes to phones through Android N. But today's announcement means that game developers will be able to start working on things for everyone to play come day one. Google says that developers will be able to start developing for Daydream on both platforms today.

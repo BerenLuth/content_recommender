@@ -1,8 +1,0 @@
-http://www.theverge.com/2016/5/19/11713794/google-daydream-vr-apps-play-store-curation
-Google will carefully curate Daydream VR apps for the Play Store - The Verge
-Ross Miller
-Compared with its more laissez-faire attitude towards Android apps, Google is being demonstrably more precious with everything around its Daydream VR platform. On the hardware side, there's Daydream-ready device certification, reference designs for headsets and controllers, and a specific set of hardware partners. But Google is also doing something it's shied away from: carefully curating its VR-centric Play Store.
-Speaking with The Verge, Google's head of VR Clay Bavor says the company will "take a very, very strong stance" on things like performance, framerate, image latency, and quality:
-So on Daydream apps, on VR apps, we're going to take a very, very strong stance on quality, on performance, sustained framerate, latency, all that, we want to make sure that we're representing good VR to our users. And so I think that one of our goals in this announcement next week is to put this out in front of developers, and we have some pretty good instincts in how and where and in what ways we'll be curating. Performance is a non-starter, it needs to be performant, because if it's not it won't be comfortable.
-But we're going to be seeking feedback from developers on how to go about this, but I think at a high level the quality bar is super super important to that and we'll be maintaining that.
-All of which makes sense — a bad VR experience is way less forgiving than, say, a crummy phone app. How that works in practice, which is to say how much strict Google actually keeps these policies, is still vague and to be seen.

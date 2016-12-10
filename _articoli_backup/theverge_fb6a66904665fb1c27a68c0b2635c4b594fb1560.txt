@@ -1,6 +1,0 @@
-http://www.theverge.com/2016/11/3/13507278/microsoft-hololens-military-helmet-concept
-Microsoft's HoloLens could power tanks on a battlefield - The Verge
-Tom Warren
-Microsoft might not have envisioned its HoloLens headset as a war helmet, but that's not stopping Ukrainian company LimpidArmor from experimenting. Defence Blog reports that LimpidArmor has started testing military equipment that includes a helmet with Microsoft's HoloLens headset integrated into it.
-The helmet is designed for tank commanders to use alongside a Circular Review System (CRS) of cameras located on the sides of armored vehicles. Microsoft's HoloLens gathers feeds from the cameras outside to display them in the headset as a full 360-degree view. The system even includes automatic target tracking, and the ability to highlight enemy and allied soldiers and positions.
-LimpidArmor demonstrated its headset at the Arms and Security show in Kiev last month, where Ukrainian military officials were in attendance. The system is only in the concept phase yet, but it's a hint that the future might include HoloLens on the battlefield, in space, and in regular retail stores.

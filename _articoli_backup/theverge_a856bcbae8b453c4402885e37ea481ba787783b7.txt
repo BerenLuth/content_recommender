@@ -1,7 +1,0 @@
-http://www.theverge.com/2016/10/4/13164670/google-pixel-iphone-switch-instructions-page
-Google will walk you through switching from an iPhone to a Pixel - The Verge
-Kwame Opam
-Google is deadly serious about its new Pixel smartphones being able to take on the iPhone in every respect possible. And in a move that also mirrors Apple’s own past efforts, the company is now providing instructions for anyone looking to switch from their current iPhone to a brand-new Pixel.
-Google’s instructions involve connecting an iPhone or iPad running at least iOS 8 to the new Pixel using Google’s Quick Switch Adapter. The search company advises that you turn off iMessage in Settings first, but also links out to Apple’s deregister tool in case you jump the gun and start losing texts. From there, you just need to sign into your Google account and decide what you want to move over to your new phone.
-Google really wants people to switch
-It's clear that Google really wants people to switch to its new family of phones. Still, it's one thing to build a device following the Apple script, but something else getting people to adopt it. And considering how Nexus phones have traditionally sold, that's no easy task. At any rate, it’s an easy set of instructions, so anyone using an iPhone who feels tempted to jump on Google’s new flagship bandwagon should have no trouble with the shift.

@@ -1,6 +1,0 @@
-http://www.theverge.com/circuitbreaker/2016/10/6/13176264/oculus-connect-3-touch-vr-price-release-date
-Oculus Touch will be available on December 6th for $199 - The Verge
-Ashley Carman
-The Oculus Touch will be available for the Rift on December 6th for $199, the company announced at its Oculus Connect keynote today. Preorders open on October 10th. The controller bundle will come with two titles — VR Sports Challenge and The Unspoken — as well as a second camera users can put in their play area.  A third sensor that'll allow the Touch controllers to room-scale will also be released on December 6th for $79. Other games, including apocalyptic sci-fi shooter Arktika and Lone Echo from Ready at Dawn, will be released for Touch, too. For comparison, the Vive costs $800 for room-scale. The Rift costs about $880.
-Oculus's Input API works with three different devices, including Touch, so developers can create one game while players have a choice for what they want to use to play. Oculus Avatars in VR are also launching along with Touch. These Avatars can be customized to create "billions" of character permutations, which Oculus says will become the "foundation of your identity in VR."
-Oculus also previewed a standalone VR headset that won't require an external tracking camera and a new VR web browser called Carmel. The browser will run on any VR device.

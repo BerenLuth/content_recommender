@@ -1,6 +1,0 @@
-http://www.theverge.com/circuitbreaker/2016/10/1/13124916/android-pixel-action-launcher
-You can try Android 7.1’s launcher features right now through Action Launcher - The Verge
-Ashley Carman
-Android 7.1 is expected to come with some new Launcher features, including Launcher Shortcuts and a sliding All Apps drawer as soon as next week. If you don’t want to wait until then, or you don’t have a device that will get a quick update to the latest version of Android, you can check them out now through a third-party app called Action Launcher. Chris Lacy, the developer of Action Launcher, was inspired by Android Police’s breakdown of the Launcher update and integrated the features the website previewed into his own app.
-In addition to a new Google search and date widget, Action Launcher 3 has "Launcher Shortcuts", which function similarly to the 3D touch shortcuts in iOS. It also has the circular icon design Google is rumored to introduce with the new Pixel phones.
-We’ll definitely be learning more about the update, as well as the rumored Pixel phones next week at Google’s event. Exciting! Action Launcher's free in the Play Store and all its features can be unlocked for $4.99 in-app purchase.

@@ -28,10 +28,11 @@ def get_links_from_archive_page(url):
 def get_links():
 	linklist = []
 
-	if os.path.exists(LIST_FILE_NAME):
+	if os.path.exists(LIST_FILE_NAME):	#controllo se esiste il file contenente i link agli articoli
 		f = io.open(LIST_FILE_NAME, 'r', encoding='utf8')
 		linklist = f.read().splitlines()
 		if len(linklist)<ITEMS_NUMBER:	#se la lista e' comunque troppo corta, la riscarico
+			linklist = []
 			# per ogni categoria recuper i link dall'archivio
 			for category in CATEGORIES:
 				print "\tRecupero i link della categoria " + category + "..."
@@ -46,7 +47,7 @@ def get_links():
 
 			f = io.open(LIST_FILE_NAME, 'w')
 			for link in linklist:
-				f.write(link+"\n")
+				f.write(link+"\n")	#salvo i link in un file
 	return linklist
 
 
@@ -56,8 +57,8 @@ def get_content_from_article_page(url):
 	page = urllib2.urlopen(url)
 	soup = bs(page, 'html.parser')
 	try:
-		title = soup.title.get_text()
-		name = soup.find('span', {'class':'c-byline__item'}).a.get_text()
+		title = soup.title.get_text()	#recupero il titolo
+		name = soup.find('span', {'class':'c-byline__item'}).a.get_text()	#trovo la sezione dove sono contenuti gli articoli
 		text = "\n".join([x.get_text().strip() for x in soup.find('div', {'class':'c-entry-content'}).find_all('p') if x.get_text().strip()])
 	except AttributeError as ae:
 		#print "\terrore nella lettura dell'articolo " + url
@@ -71,7 +72,7 @@ def save_articles(linklist):
 	# per ogni link costruisco il nome del file
 	# se il file non esiste, scarico l'articolo
 	for link in linklist:
-		filename = ARTICLE_NAME.format(sha.new(link).hexdigest())
+		filename = ARTICLE_NAME.format(sha.new(link).hexdigest())	#creo il nome dell'articolo unico in base all'hash
 		if not file_exist(filename):
 			time.sleep(1)
 			content = get_content_from_article_page(link)	#recupero il contenuto dell'articolo
@@ -90,9 +91,9 @@ def save_articles(linklist):
 		# se la quantita' e' inferiore a 1000, stampo la percentuale, altrimenti concludo
 		c += 1
 		if c%10 == 0:
-			tmp = downloaded_articles()
+			tmp = downloaded_articles()	#controllo quanti sono gli articoli effettivamente scaricati
 			if tmp < 1000:
-				if (tmp/10) > last_percentage:
+				if (tmp/10) > last_percentage:	#stampo la percentuale solo se e' cambiata
 					print "\t",str(tmp/10) + "%"
 					last_percentage = tmp/10
 			else:

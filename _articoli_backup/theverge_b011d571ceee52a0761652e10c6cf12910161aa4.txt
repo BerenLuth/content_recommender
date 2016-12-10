@@ -1,8 +1,0 @@
-http://www.theverge.com/circuitbreaker/2016/10/5/13173824/lenovo-phab-2-pro-google-tango-phone
-The first Google Tango phone will be released next month - The Verge
-Micah Singleton
-The Lenovo Phab 2 Pro is set to be released in November, according to CNET. The smartphone is more widely known as the first device to run Tango, Google's augmented reality technology. Google's head of VR Clay Bavor confirmed the release of the device, which was supposed to be released during the summer, to the publication.
-The most important thing about the Phab 2 Pro is the Tango wide-angle and depth-sensing camera that's included above the standard 16MP sensor. Tango will let users map physical spaces and overlay it with virtual effects, track objects, and map indoor spaces. Those abilities allow for new types of apps and experiments that previously couldn't be carried out on a smartphone.
-Lenovo
-As for the rest of the phone, the Phab Pro 2 is a decent device for 2016: it features a massive 6.4-inch QHD display, Snapdragon 652 processor, 4GB of RAM, 4,000mAh battery, and a fingerprint sensor. It's nothing special, but it will get the job done.
-The Phab 2 Pro will retail for $499 unlocked when it goes on sale next month. It's unlikely that the Phab 2 will be a huge seller, but it is important for Google to get Tango out into the real-world and in the hands of consumers to keep pushing the technology forward.

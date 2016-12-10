@@ -1,5 +1,0 @@
-http://www.theverge.com/2016/10/26/13430466/microsoft-paint-3d-app-download-preview
-Microsoft’s new Paint 3D app is now available to download and test - The Verge
-Tom Warren
-Microsoft unveiled its revamped and modernized Paint app for Windows 10 earlier today. It's designed to make 3D object creation easy across devices with a regular mouse and keyboard, touchscreens, and stylus input. Microsoft is now letting Windows Insiders test out an early version of Paint 3D.
-Microsoft has also launched an online community, alongside the Paint 3D app. It allows Paint users to export their creations and share them with the community, or download 3D objects that others have created. Microsoft has published Paint 3D in the Windows Store to download and install, but it will require the Windows 10 Creators Update, which is available to insiders.

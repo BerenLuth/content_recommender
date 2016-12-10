@@ -1,7 +1,0 @@
-http://www.theverge.com/2016/11/28/13764484/sling-tv-cloud-dvr-beta-december
-Sling TV is launching a cloud DVR next month - The Verge
-Micah Singleton
-Dish’s Sling TV is gearing up to take on PlayStation Vue and AT&T’s upcoming DirecTV Now service with the launch of a new cloud DVR service. The new service, which will launch in an invite-only beta for Roku users next month, will allow users to record up to 100 hours of live TV with the ability to record multiple shows simultaneously.
-The move is a direct shot at PlayStation Vue, which also has a cloud DVR but only allows users to keep content for 28 days. In its announcement, Sling specifically noted that users will be able to keep their content for longer than 28 days. To keep space available, the cloud DVR will delete the oldest, viewed content when you run out of space.
-While the beta will be free for users, Sling TV did note that the 100 hours of cloud DVR storage comes “at no charge,” leaving room for the service to add a fee when it rolls out to all users. The company noted that the service will evolve through the beta period to include more storage and the ability to “protect recordings.”
-Sling users interested in getting into the invitation-only beta can sign up at sling.com/dvr. The company says the beta will eventually expand to other platforms over the next few months.

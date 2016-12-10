@@ -1,7 +1,0 @@
-http://www.theverge.com/2016/9/22/13015180/facebook-messenger-chat-pay-poll-group
-Facebook Messenger is using machine learning to prompt you to pay back your friends - The Verge
-Ashley Carman
-Facebook is testing a new feature on its Messenger app starting today that’ll use machine learning to prompt you to pay back your friends. It relies on a new service called "chat assist" that recognizes certain words and the actions they reference when they come up in conversation. If you type "IOU" into Messenger, for instance, chat assist will drop a link asking if you want to pay whatever amount you owe. Facebook says the service is automated and optional. Chat assist follows the launching of Facebook’s Messenger payment service earlier this year and the creation of Facebook’s personal assistant M last year.
-Facebook is also introducing group chat polls to Messenger today, so you can ask your friends where you should go to dinner or where to take a day trip. At least that’s how Facebook envisions you using polls. To start a poll, tap the Polls icon in the composer or tap "More" and select "Poll." From there, you can add the question and answers for your friends to vote on, and press submit.
-Facebook
-Both these features are currently only available in the US.

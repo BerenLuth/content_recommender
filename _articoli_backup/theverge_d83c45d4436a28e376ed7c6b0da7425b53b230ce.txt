@@ -1,9 +1,0 @@
-http://www.theverge.com/2016/9/12/12890032/techcrunch-disrupt-david-marcus-bots-facebook-messenger
-Bots are overhyped and underpowered, says the man who runs Facebook Messenger - The Verge
-Casey Newton
-The introduction of bots to Facebook and other platforms has been overhyped — and the bots themselves often aren't very good, Facebook Messenger chief David Marcus said today. Speaking at the TechCrunch Disrupt conference in San Francisco, Marcus made some of his first public comments about bots since Facebook launched the platform in April. "It got really overhyped really, really quickly," Marcus said. What's more, he said, many of the first bots to hit the platform weren't nearly as good as the native apps they were designed to replace.
-There are now more than 30,000 bots on the platform, Marcus said, up from 11,000 in July. But bots have suffered from a perception that they are not nearly as useful as they were advertised to be earlier this year by tech giants including Facebook, Google, and Microsoft.
-Bots suffer from a perception that they are not as useful as advertised
-Marcus acknowledged that the two weeks Facebook gave developers to build bots before its F8 developer conference this year was "probably not" enough time for them to create great experiences. But he said he was satisfied with their progress to date. "This is a long journey, and you have to start somewhere," he said.
-Marcus made his comments during a talk in which he also announced to an update to the bot platform which lets users pay bots using credit card information stored with Facebook for the first time. The update also allows developers to insert web views into their bots so they can bring web content into the bot. That might include lists of flights, new media types, or even games, according to TechCrunch, which interviewed Marcus before the event.
-The app also has more than 300 million people using its audio and video calling features every month, Marcus said.

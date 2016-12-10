@@ -1,7 +1,0 @@
-http://www.theverge.com/2016/10/15/13294686/apple-iphone7-home-button-workaround-ios10
-Apple has a software workaround for the iPhone 7's home button if it malfunctions - The Verge
-Andrew Liptak
-After the removal of the headphone jack, one of the biggest changes to Apple’s iPhone 7 is the new home button: it’s no longer a mechanical button, but a force-sensitive static button. It seems that the company has introduced an additional workaround time when the new button might not work as expected.
-According to a MacRumors forum user, the iPhone 7 displays a home button in the phone’s screen when it detects that there might be a problem with it.
-The user noted that the phone displayed the message after it turned off while charging. When he restarted the device, "it worked at first then started spazzing out. The Haptic engine kept firing [three to four] times in a row for every 'press'. I restarted [the phone] again and it's back to not working."
-It is rumored that Apple is considering removing the button entirely with its next model of the iPhone, and 9to5Mac speculates that this software button could be a precursor its replacement.

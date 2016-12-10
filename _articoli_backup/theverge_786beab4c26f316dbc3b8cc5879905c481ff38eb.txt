@@ -1,5 +1,0 @@
-http://www.theverge.com/circuitbreaker/2016/5/12/11662772/manus-vr-arm-tracking-htc-vive
-Manus VR tests out arm tracking for the HTC Vive - The Verge
-Micah Singleton
-Earlier this year Manus VR showed off their virtual reality gloves for the HTC Vive, but apparently the company has no intention of stopping at the wrist. The startup has released a video of what it calls full arm tracking on the HTC Vive, which it claims is a first for the VR system.
-The experimental video shows a Manus employee with two Vive controllers attached to his forearms, but one would assume there would be a sleeve or some sort of hardware accessory if the product makes it onto shelves. Or maybe a company like Leap Motion could push their software to include arm tracking in the near future for a hardware-free solution. Theoretically, arm tracking could be interesting for games — it could allow you to block attacks with your forearms for instance, but it seems like Manus VR has a long way to go before it's ready for the public.

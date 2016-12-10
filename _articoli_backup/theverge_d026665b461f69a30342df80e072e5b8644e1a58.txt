@@ -1,7 +1,0 @@
-http://www.theverge.com/2016/11/10/13582630/paypal-send-money-siri
-You can now send people money on PayPal by shouting at Siri - The Verge
-James Vincent
-PayPal has introduced Siri support, letting users send and request money using voice commands on iOS. The new feature is available in 30 countries (see a list of supported markets here), and works just like you’d expect. Just access Siri in the normal way and say something like: "Hey Siri, send Bill $50 using PayPal."
-This isn’t the first time Siri has been used for transferring money though. Apple added support for this feature earlier this year, and vendors like Square Cash, Venmo, and Monzo (a UK bank) have already integrated it into their apps as well.
-Using voice commands to make payments sounds like a bit of a security risk, especially considering Siri doesn’t distinguish in any meaningful way between difference voices. But, you do have to unlock your phone to use the feature (you can access Siri from the lock screen but you can’t confirm a payment or request money without unlocking), so it’s no more unsafe than any other app that needs a PIN or Touch ID access to use.
-Still, wait until Amazon follows all this voice-support, and adds direct payments to Alexa — then you can worry about security. Children in years gone by might have stolen money from parents’ wallets or purses on the odd occasion, but it’ll be much easier if Alexa can do the dirty work.

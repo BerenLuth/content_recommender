@@ -1,6 +1,0 @@
-http://www.theverge.com/2016/9/14/12916268/oculus-home-rift-gear-vr-gaming-achievements
-Oculus is adding achievements for Rift and Gear VR games - The Verge
-Adi Robertson
-Oculus has added a vital component of gaming to its Rift and Gear VR headsets: achievements. An update featuring the change will be rolling out to all Oculus Home users between now and the next few weeks; they’ll see achievements from Minecraft, Anshar Wars 2, and Hitman Go right away, with more developers adding them in the future. By default, users will be able to see what achievements their friends have unlocked, although new privacy settings will let people opt out of sharing that information.
-Oculus Home is still pretty bare-bones compared to gaming platforms like Steam, Xbox Live, or the PlayStation Network. In the case of the Rift, a number of players will be launching games through Steam instead of Oculus Home, so this won’t make much of a difference to them. And many people probably don’t care much about achievements at all. But while there are certainly bad implementations — like, maybe don’t ruin your romance subplot with a trophy — I happen to personally love them. Here are some great things you can do with achievements:
-So go forth, VR players and developers, and embrace this new world.

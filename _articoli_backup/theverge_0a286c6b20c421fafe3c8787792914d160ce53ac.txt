@@ -1,6 +1,0 @@
-http://www.theverge.com/2016/8/9/12412516/google-vr-daydream-troll-harassment
-Google used virtual poker dogs to find a way to stop VR trolls - The Verge
-Ashley Carman
-Online harassment is nothing new, but it is new when it comes to VR environments. Users can get extremely close to one another, and that can lead to an uncomfortable infringement of space and a bad experience that drives people away from VR. Google’s Daydream Labs is experimenting with ways to combat abuse in VR and one successful test involved the creation of virtual poker dogs. The dogs demonstrate that one way to deter users from harassing fellow players is by creating personal space. (We’ve seen this from Altspace before, too.)
-When players left the poker table in Google’s experiment, their screens turned to black and white, and their avatar disappeared from their opponent’s view. A glowing blue personal space bubble then guided them back to their seat. You can see a demo in the embedded video above. Google says these changes were enough to encourage players to not steal chips or invade personal space.
-The company also experimented with rewards for positive behavior. If players high-fived each other, they’d then see a fireworks animation and hear a loud slapping sound.  Aggressive actions didn’t come with any fun bonus features, so people tended to stick with those positive interactions.

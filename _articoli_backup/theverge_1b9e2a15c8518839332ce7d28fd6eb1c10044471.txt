@@ -1,9 +1,0 @@
-http://www.theverge.com/2016/10/12/13255858/google-facebook-submarine-cable-trans-pacific
-Google and Facebook building super high-speed cable between LA and Hong Kong - The Verge
-Jacob Kastrenakes
-Google and Facebook are working together to lay a nearly 8,000-mile cable between Los Angeles and Hong Kong.
-The fiber-optic cable will have a bandwidth of 120 terabits per second, which Google says makes it the highest-capacity route between the US and Asia. It’ll double the current record, which is held by a cable that Google is also a partner on.
-The new cable should allow Google and Facebook to offer faster and more reliable service to visitors on the other side of the Pacific. The companies will likely each get a certain chunk of the cable’s total capacity and lease out the remaining space to others; but so far, they haven’t announced the specifics.
-These undersea cables are increasingly being built in partnership with big tech companies as those big tech companies come to represent more and more of the internet’s traffic. Facebook and Google both have plenty of data to send just between their own servers, so there’s reason they’d want to have a stake in the connections, rather than being forced to lease everything they need.
-Facebook, for instance, recently partnered with Microsoft to build an even faster cable across the Atlantic. And for Google, this’ll be the sixth cable it’s taken an ownership stake in.
-The cable is being called the Pacific Light Cable Network and is expected to be completed and running sometime in 2018.

@@ -1,5 +1,0 @@
-http://www.theverge.com/circuitbreaker/2016/9/1/12760012/acer-chromebook-r13-google-chrome-os-android-apps
-Acer’s convertible Chromebook R13 is built for Android apps - The Verge
-Nick Statt
-Those itching to run Android software on ChromeOS should check out the new 2-and-1 device from Acer. The convertible $399 Chromebook R13 laptop has a 13.3-inch 1080p touchscreen that makes it suitable to run all variety of mobile apps. Google announced back in May it would begin letting Android developers support ChromeOS starting in the fall, and Acer is one the first device makers to produce a laptop-tablet hybrid that fits the bill.
-With regards to specs, the R13 comes with 4GB of memory in 16GB, 32GB, or 64GB varieties with about 12 hours of battery life. It packs a MediaTek quad-core processor and also supports USB-C as well. It’ll be available starting in October, when Google plans to have already rolled out full support for Android apps on ChromeOS.

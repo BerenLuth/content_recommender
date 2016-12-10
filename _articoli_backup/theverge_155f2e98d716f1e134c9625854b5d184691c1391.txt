@@ -1,7 +1,0 @@
-http://www.theverge.com/circuitbreaker/2016/5/9/11644822/vridge-pc-vr-games-google-cardboard-phone
-VRidge puts PC VR games on your Google Cardboard phone - The Verge
-Paul Miller
-Have a decent PC, but don't have $1,500 to spend on a secondhand Oculus Rift from eBay? VRidge is a new app from RiftCat which turns your phone into a headset for PC games. You download the VRidge desktop app, pair it wirelessly with the VRidge Android app (they're working on an iOS version), and blast some of the same VR-specific experiences your Rift and Vive-owning friends have been bragging about into a less-than-ideal Google Cardboard setup.
-There's already one company doing this, Trinus VR, but VRidge claims to have a "complete runtime replacement" for VR titles, "with low level hooks that emulate Oculus." Right now VRidge can only do rotational tracking, not positional (basically, the same limitations as Google Cardboard and Gear VR), but these "low level hooks" should give VRidge a theoretical way to do positional tracking with a phone, and to squeeze out a bit more performance.
-The downside to VRidge's custom solution is that it won't work with all titles. There's a helpful list on the site to show which VR apps are working so far.
-And, of course, there's the question of latency. VRidge claims they're only one to two frames behind a traditional experience, which could be painful or could be totally fine — it probably depends on your PC and your stomach. VRidge is available in beta now.

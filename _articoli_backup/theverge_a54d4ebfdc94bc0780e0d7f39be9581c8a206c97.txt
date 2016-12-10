@@ -1,9 +1,0 @@
-http://www.theverge.com/2016/9/27/13070804/youtube-go-announced-india-offline
-YouTube Go is a new app for offline viewing and sharing - The Verge
-Sam Byford
-Google has announced YouTube Go, a new app designed to broaden the accessibility of the behemoth video-sharing service. Designed and developed with Indian users in mind, who will be able to test the app first before a broader rollout, YouTube Go is intended to work more effectively in areas where connectivity is more limited.
-YouTube Go allows users to save videos for offline viewing, giving options over quality and file size so it's clear how much data a download will use. The app also allows for local sharing with nearby users without using any data. YouTube Go builds upon the Smart Offline feature that YouTube launched first in India earlier this year.
-Share videos without using any data
-"YouTube Go is a brand new app to help the next generation of users share and enjoy videos," YouTube product management VP Johanna Wright says in a statement. "YouTube Go was designed and built from the ground up with insights from India, in order to bring the power of video to mobile users in a way that is more conscious of their data and connectivity, while still being locally relevant and social."
-YouTube Go was announced at a Google event in Delhi where the company revealed several new products aimed at the Indian market; many of these will later make it around the world. "In an increasingly mobile-first world, India gives us early insights into the future of the Internet," Google CEO Sundar Pichai wrote in an op-ed for The Economic Times today. "Moreover, we learned the issues Indians may have with connectivity and data constraints can be universal."
-Indian users can sign up now to test YouTube Go, but there's no word on when the app will formally launch in the country or elsewhere.

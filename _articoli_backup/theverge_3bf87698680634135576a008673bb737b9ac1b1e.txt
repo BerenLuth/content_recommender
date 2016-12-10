@@ -1,5 +1,0 @@
-http://www.theverge.com/2016/9/28/13099566/skypes-iphone-app-siri-calls-ios10
-Skype's latest iOS app update lets you make calls with Siri - The Verge
-Chris Welch
-Microsoft is fast taking advantage of a key new feature in Apple's iOS 10 update. Today the company released a new version of Skype for iPhone and iPad, and deeper Siri integration is its biggest new addition. You can now ask Siri to place a Skype call to any of your contacts without launching the Skype app first. This is limited to the regular consumer version of Skype for now; Microsoft says it will be available in the company's Skype for Business iOS apps in October.
-iOS 10 lets you store Skype details for your family, friends, and coworkers right inside the contacts app. And incoming Skype calls will now appear on screen with an interface nearly identical to that of regular phone calls, making the whole experience feel a bit more seamless and native.

@@ -1,9 +1,0 @@
-http://www.theverge.com/circuitbreaker/2016/7/25/12277578/vr-robot-haptic-feedback-htc-vive
-This $25,000 robot will let you knock over some wooden blocks in VR - The Verge
-Chaim Gartenberg
-There’s a lot that today’s VR systems can do to really make you feel like the virtual world you’re in is as close as possible to the world you inhabit. Together, the high-resolution screens, head tracking, room-mapping cameras, and motion controllers on high-end systems such as the HTC Vive and Oculus Rift really can make the digital world look real.
-But the holy grail of virtual reality isn’t just seeing these fantastic worlds and experiences — it’s feeling them. Researchers at Queen’s University Belfast have taken a step forward toward that end with their HapticVive system, which uses an HTC Vive headset and controller along with a Baxter robot to help simulate physical resistance.
-It's far cheaper to simply buy some wooden blocks and push them over in the real world
-But even this limited attempt to join the physical and virtual worlds comes at a steep cost. Not even considering the cost of an HTC Vive and a high-end, VR capable computer, the Baxter robot used in the project alone goes for a hefty $25,000, making it a far cheaper and viable option to simply buy some wooden blocks and push them over in the real world, for now.
-As the demo shows, the Baxter robot tracks the positioning of the user’s hand, and pushes back to simulate the weight of the wooden blocks. The more weight the "blocks" are programmed to have, the more the Baxter pushes back, giving the user the physical impression of actually pushing down the digital objects.
-Despite the fact that the current demo is extremely basic in the physical feedback it can provide, the HapticVive system is a good early step toward one day having true physical feedback in virtual reality. That is, if you can afford it.

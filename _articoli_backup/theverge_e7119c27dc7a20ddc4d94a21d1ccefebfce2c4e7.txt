@@ -1,8 +1,0 @@
-http://www.theverge.com/2016/4/19/11462988/pico-neo-vr-virtual-reality-specs
-Pico keeps its VR headset light by putting the processor in a gamepad - The Verge
-Ross Miller
-This early in VR, everyone is still trying to figure out the best way to design the headset — up to and including the basics like where to put the processing. With premium devices like the HTC Vive and Oculus Rift, that's being handled by a separate gaming PC. Less-powerful devices like Samsung Gear VR and Google Cardboard are self-contained by merit of being a glorified head-mounted case for your smartphone of choice.
-Chinese hardware maker Pico VR is trying something in between: by putting the major components in a connected gamepad, thus making the headset itself lighter.
-The Pico Neo features a Snapdragon 820 processor, 4GB of RAM, 32GB storage (with a microSD slot you can use for more), and reportedly runs a custom version of Android. In addition to the usual button configuration, the controller also has a touchpad and motion sensors. (There are additional motion controllers that look very similar to PlayStation Move, as well as a pair of tracking cameras.)
-The headset, meanwhile, offers 1200 x 1080 resolution per eye, 90Hz refresh rate, and 102-degree field of view. At 320 grams, it's lighter than the either the Rift or the Vive
-What isn't clear here is compatibility — what will the headset and motion controllers ultimately support, and whether or not they'll be able to plug into existing ecosystems. The full Pico Neo heads-and-controller set is expected to come out late June for about $550; the headset can reportedly be purchased separately for about $300 and can run off of a PC.

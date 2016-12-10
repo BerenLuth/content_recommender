@@ -1,6 +1,0 @@
-http://www.theverge.com/2016/5/26/11784158/zte-vr-virtual-reality-headset-axon-7
-ZTE launches VR headset for its new Axon 7 smartphone - The Verge
-Jacob Kastrenakes
-It is a law that in 2016 you cannot release a phone without also releasing a complementary VR headset, and ZTE isn't about to break any rules. Alongside the announcement of its new Axon 7 smartphone today, ZTE also unveiled the creatively named ZTE VR. It's basically ZTE's version of the Gear VR: it's a mostly empty headset that you slide the Axon 7 into.
-There are very few details so far on the new headset, despite ZTE's announcement. An image shows that it'll have a few buttons and seemingly a control pad that can be swiped, like on the Gear VR. There's a 9-axis gyroscope built in to enhance motion tracking, but that's about it on details. More than likely, most tech will be left to the phone. ZTE didn't announce a release date or pricing.
-ZTE also notes that the Axon 7 will support Android's Daydream VR. It's not clear if the ZTE VR is a Daydream-compatible headset or if ZTE simply means that its phone will be capable of using Daydream — my reading is the latter. But either way, buyers will have to wait until Daydream rolls out as part of Android N, likely sometime this fall.

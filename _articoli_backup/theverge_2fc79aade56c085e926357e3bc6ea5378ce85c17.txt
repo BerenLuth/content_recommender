@@ -1,5 +1,0 @@
-http://www.theverge.com/circuitbreaker/2016/10/5/13171674/ps4-psvr-hdr-non-compatible
-HDR games won’t work on the PS4 if the PlayStation VR is plugged in - The Verge
-James Vincent
-Here's an annoying little bug you might not have heard about. If you're buying a PlayStation VR headset (out October 13th) and hooking it up to your PlayStation 4, you'll have to disconnect it if you want to take advantage of the console's support for High Dynamic Range. It's not a terrible blow by any account, but it's a little bit inconvenient to have to juggle cables — unplugging the PSVR and then reconnecting your console — when you want those higher contrasts.
-This point was noted in this this handy FAQ for the headset (and spotted by TechnoBuffalo). The PS VR uses a Processor Unit to pass through regular non-VR content to your TV when you have the console and headset plugged in. But, the Processor Unit doesn't support HDR (although it does support 4K). You'd have to be playing a game with HDR support on a HDR-ready TV to notice, of course, but it's a slight annoyance for people who like their home set-up to be perfect and unchanging.

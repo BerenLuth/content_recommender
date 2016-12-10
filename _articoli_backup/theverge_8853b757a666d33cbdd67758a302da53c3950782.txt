@@ -1,8 +1,0 @@
-http://www.theverge.com/2016/11/21/13696992/alexa-echo-recipe-skill-allrecipes
-Amazon's Alexa can now talk you through 60,000 recipes - The Verge
-James Vincent
-Most people I know with an Amazon Echo find that it’s particularly useful in the kitchen, what with hands-free music control and the ability to set timers (although you can’t name timers or set multiple ones; which Amazon really should fix). But, with a new Alexa skill from recipe site Allrecipes, the Echo should become even more useful when cooking. Users can download the skill from the Alexa app on their phone and then use it to query a database of some 60,000 recipes. You can search based on ingredients or dish name, and ask Alexa how to cook the meal step by step.
-It looks kind of useful? I’m not immediately sold, I have to say. Unless I’m familiar with what I’m cooking (and then I often don’t need a recipe at all), I like to read through instructions once or twice before starting, and then refer back to them throughout, hopefully spattering my laptop with flour, grease, or vegetable peelings during the process. Relying on audio instructions just seems a little trickier. Plus, I’m not sure if trust Allrecipes to usefully find the meal I want to cook. The following exchange in the video above didn't exactly fill me with confidence:
-User: Alexa, what can I make with chicken and mushrooms?
-Alexa: My recommendation is chicken with mushrooms.
-What insight.

@@ -1,6 +1,0 @@
-http://www.theverge.com/circuitbreaker/2016/11/1/13494802/seagate-game-drive-xbox-ssd
-Seagate releases external SSD with external Xbox logo - The Verge
-Sam Byford
-Unlike the PlayStation 4, the Xbox One doesn’t let you swap out the hard drive if you want to boost your storage. It does, however, let you attach an external drive, which you may consider more or less convenient depending on your respective feelings about screwdrivers and tidy home entertainment centers.
-In any case, Seagate wants to make the most of the situation by releasing a drive designed for the Xbox. The Game Drive for Xbox SSD is a 512GB solid-state drive that should offer faster install and load performance than the Xbox’s stock 5400rpm hard drive, while coming in a black-and-green enclosure complete with an Xbox logo.
-Here’s the thinking: if you must have an unwieldy hard drive plugged into USB, it might as well match your console. You’ll pay for that privilege, though — the Game Drive will cost $199.99 when it hits stores this month, and it’s pretty easy to find comparable SSDs for around two-thirds the price.

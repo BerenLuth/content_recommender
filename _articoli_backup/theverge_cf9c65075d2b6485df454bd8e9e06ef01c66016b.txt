@@ -1,8 +1,0 @@
-http://www.theverge.com/circuitbreaker/2016/4/27/11517640/amd-radeon-pro-duo-worlds-fastest-graphics-card
-AMD bolted two Radeon R9s together to make the world's 'fastest' graphics card - The Verge
-Paul Miller
-As we wait patiently, ever so patiently, for the next generation of video cards from Nvidia and AMD to arrive, AMD has treated us to one more hurrah for the 28nm era. Its new Radeon Pro Duo is literally two top-end Radeon R9 cards crammed onto a single board, giving it double the stream processors, double the texture units, and double the RAM of AMD's top-end Radeon R9 Fury X. It's also more than double the price at $1,499. All this adds up to what AMD dubs "the fastest gaming card in the world."
-AMD is pitching this 350W monstrosity at "VR content creators" which makes sense, but is including both professional-oriented FirePro drivers and gaming-oriented Radeon drivers. Content creators need to take breaks, after all.
-AMD
-Putting all the GPUs in the world into the same box won't necessarily mean better day-to-day performance. Games have to be able to utilize this strange combo GPU in order to translate the 16 teraflops of power into prettier pixels, and nobody's going to invest much into optimizing for such a specialty card.
-Still: I want.

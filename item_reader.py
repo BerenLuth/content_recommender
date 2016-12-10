@@ -9,13 +9,12 @@ ARTICLE_NAME = "theverge_{}.txt"
 
 # Prende in input una cartella e restituisce una lista contentente i nomi dei files
 def listfiles(files_path):
-
     onlyfiles = [f for f in listdir(files_path) if isfile(join(files_path, f)) and f != '_link_list.txt']
-    #for file in onlyfiles:
 
     print "\tFiles letti: " + str(len(onlyfiles))
     return onlyfiles
 
+# legge i file in base alla struttura: link/titolo/autore/testo
 def base_file_reader(filename):
     f = io.open(ARTICLE_FOLDER.format(filename), 'r', encoding='utf8')
     link = f.readline()
@@ -25,6 +24,7 @@ def base_file_reader(filename):
 
     return [link, title, author, content]
 
+# prende il risultato di base_file_reader e "pulisce" i testi
 def file_reader(filename):
     f = base_file_reader(filename)
     link = f[0]
@@ -34,17 +34,20 @@ def file_reader(filename):
 
     return [link, title, author, content]
 
+# Rimuove i caratteri non utili, come punteggiatura, simboli e parentesi
 def text_cleaner(article):
     x = ""
     for phrase in article.splitlines():
         x += re.sub('[!"#$%&\'()*+,-./:;<=>?@\[\\\\\]^_`{|}~]', ' ', phrase)
     return x.lower()
 
+# dato un link ritorna il titolo originale (quindi con maiuscole/minuscole, simboli e punteggiatura)
 def get_original_title(link):
     filename = ARTICLE_NAME.format(sha.new(link[:-1]).hexdigest())  #ricostruisco il nome del file dal link(senza lo \n finale)
     article = base_file_reader(filename)
     return article[1][:-1]  #ritorno il titolo senza lo '\n' finale
 
+# ritorna tutto il testo originale del file (quindi con maiuscole/minuscole, simboli e punteggiatura)
 def get_original_complete(link):
     filename = ARTICLE_NAME.format(sha.new(link[:-1]).hexdigest())
     article = base_file_reader(filename)

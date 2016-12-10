@@ -1,8 +1,0 @@
-http://www.theverge.com/2016/9/17/12953770/fandango-facebook-selling-movie-tickets
-Facebook partners with Fandango to sell movie tickets - The Verge
-Jacob Kastrenakes
-If a movie catches your eye on Facebook, you might soon be able to buy tickets without ever leaving the app. Facebook has partnered with Fandango to begin selling movie tickets right on a film's Facebook page. It's starting this weekend in the US with just a few titles, including The Magnificent Seven, Storks, and Kevin Hart: What Now?, according to The New York Times. It'll presumably roll out wider if the integration turns out to be something people actually use.
-The entire sale happens inside Facebook's app
-Facebook is giving Fandango prominent placement to sell tickets. When you visit a supported movie's page, a large blue button reading "Buy tickets" appears at the top of the screen. Tapping it on mobile lets you look up nearby theaters and showtimes and go through the full checkout process, all while remaining inside Facebook and using a Facebook account. On the desktop, clicking it just kicks you over to Fandango's website (which is what the existing "Book now" buttons on some movie pages already do).
-The goal for Fandango is to make ticket purchasing easier for younger audiences, as theaters continue to come under threat of everything from YouTube on mobile to Netflix on TV. As the Times points out, Facebook isn't the only place Fandango is going in its attempts to reach customers. It's also tried selling tickets through Snapchat, and it just launched an iMessage app for iOS 10. Fandango says it plans to open up Facebook purchasing to more films and locations in "the near future."
-Here's what the ticketing page looks like:

@@ -1,5 +1,0 @@
-http://www.theverge.com/circuitbreaker/2016/11/7/13559408/lg-g5-android-7-nougat-update-rollout
-LG starts rolling out Android 7.0 Nougat to the G5 - The Verge
-Sam Byford
-LG has started delivering Android 7.0 to owners of its modular G5 handset in South Korea, in the process claiming to be the first company to roll Nougat out to an existing Marshmallow phone. LG’s recent V20 was also the first phone to launch with Nougat on board, ahead of Google’s own Pixel devices in most countries.
-There’s a catch, though — only Korean users are getting the update today. LG says customers in the Americas, Asia, and elsewhere will have to wait for theirs to drop “in the weeks to come,” which as ever will be subject to the usual carrier-approval dance. Still, the Korea rollout suggests that LG hasn’t run into any technical issues with the G5, so hopefully a US release won’t be too far off.

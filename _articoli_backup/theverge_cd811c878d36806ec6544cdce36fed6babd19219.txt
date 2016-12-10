@@ -1,7 +1,0 @@
-http://www.theverge.com/circuitbreaker/2016/10/20/13344388/verizon-lg-stylo-2-mediatek-processor
-Verizon’s new LG Stylo 2 V is its first phone with a MediaTek processor - The Verge
-Dan Seifert
-This week, Verizon announced a new budget phone, the LG Stylo 2 V. The Stylo 2 V is wholly unremarkable as phones go: it’s a budget phablet with a 5.7-inch display, 13-megapixel camera, 3,000mAh battery, a generation-old Android Marshmallow OS, and 16GB of storage. It does come with a stylus, however, and sells for a scant $240.
-The most interesting part of the device is likely its processor. Like last month’s LG X Power for Sprint, the Stylo 2 V has a MediaTek chip inside, instead of a more common Qualcomm processor. Specifically, it’s a 1.8GHz octacore Helio P10 processor, with MediaTek’s world-mode modem (meaning it can roam on international networks). This is the first phone for Verizon with a MediaTek processor inside of it.
-MediaTek has made headway getting its chips into a handful of US devices, including the aforementioned Sprint and Verizon phones, but it still lags far behind Qualcomm in this part of the world. The company is confident that it will continue its growth, however, and that by next year it will have a more respectable piece of the market.
-Hopefully that will include some higher-end, more interesting phones than what we’ve seen thus far.

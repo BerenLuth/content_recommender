@@ -1,6 +1,0 @@
-http://www.theverge.com/2016/10/25/13405200/microsoft-teams-slack-competitor-launch
-Microsoft to launch its Slack competitor as Microsoft Teams - The Verge
-Tom Warren
-Microsoft is planning to unveil its Slack competitor at an Office event in New York City next week. Originally dubbed Skype Teams internally, Microsoft will launch the service as Microsoft Teams once it's broadly available for businesses and schools to make use of. Just like Slack, it's a web-powered chat service that's designed for teams of colleagues or school classes to collaborate.
-Thanks to leaked screenshots, we already know it looks a lot like Slack. There are channels for groups, alongside private messages and the ability to embed emoji, giphy images, meme photos, and more. It also appears to integrate with Skype for video and audio chats, and Office 365 for access to Word, Excel, and PowerPoint files.
-Microsoft has not yet publicly acknowledged it's working on a Slack competitor, but the service is already accessible at teams.microsoft.com for Microsoft employees who have been testing the service over the past few months. Microsoft is hosting its Office event in New York City on November 2nd, and we'll be covering all the announcements live.

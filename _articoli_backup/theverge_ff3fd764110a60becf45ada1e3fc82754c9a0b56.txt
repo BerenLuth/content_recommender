@@ -1,6 +1,0 @@
-http://www.theverge.com/circuitbreaker/2016/10/7/13197252/sharp-vr-4k-display-1000-ppi
-Now I know what a tiny 1,000-ppi 4K display looks like - The Verge
-Sam Byford
-At this year's CEATEC, Sharp is showing off a bunch of hot new displays that might actually have some practical use. If you thought the pixel density wars ended once we reached the point where the naked eye can no longer tell the difference between ever-sharper smartphone screens, VR may make you think again — the technology involves you placing the screen super close to your eyes and focusing on it with special lenses, which is unforgiving even to the sharpest display.
-That's why Sharp made this head-turning new 4K IGZO screen with over 1,000 pixels per inch. I don't know the exact size of the display, but to hit that ppi at 3840 x 2160 it'd need to be smaller than 4.4 inches across. How does it look? Well... sharp.
-Even through the magnifier, which doesn't replicate a VR headset entirely but comes close enough, this screen looks really good. It might not be enough to get most VR companies to switch away from OLED, which is currently preferred for its low latency, and very few people will own hardware that could actually power VR software on this screen for a while. But it's nice to know where things could go in the future.

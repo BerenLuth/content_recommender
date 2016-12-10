@@ -1,8 +1,0 @@
-http://www.theverge.com/2016/9/8/12847282/uber-spotify-pandora-integration-music-playlists
-Uber's new Spotify and Pandora features make carpool karaoke even easier - The Verge
-Andrew J . Hawkins
-Uber is a pretty simple app to use: press a button, hail a ride. But now things are getting a little funkier, thanks to an integration with Pandora and Spotify that allows you to seamlessly play your music during your next trip.
-Passengers will be notified when their driver has connected music, allowing them to pick the song or album they want to hear before even getting in the car. And if they want to keep listening to whatever is booming out of their home system, the Uber app will allow them to seamlessly transfer their music into the car without missing a note. The music will automatically start playing once you get in the car.
-It’s an expansion of Uber’s two-year-old partnership with Spotify, which integrated the music streaming service into the ride-hail app to allow riders to listen to their favorite playlists during their trip. Now they can also play Pandora, and if a driver is listening to that streaming service, riders can preview what song or channel comes next on the Uber app.
-Another new feature is the ability to stream songs in the car over a Bluetooth connection, whereas before it required the driver to connect devices using an auxiliary cord.
-But what about the driver? Uber claims that its research shows that drivers don’t mind it when passengers play their music, so long as they control the volume. And it’s important to remember that drivers get to rate passengers, too, so keep that in mind before you start blasting Norwegian speed metal or Taylor Swift during your next Uber ride.

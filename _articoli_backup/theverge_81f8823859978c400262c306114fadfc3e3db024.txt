@@ -1,8 +1,0 @@
-http://www.theverge.com/2016/9/27/13070912/google-assistant-second-language-hindi-india
-Google Assistant is learning a second language with upcoming Hindi support - The Verge
-Sam Byford
-Google Assistant, the company's voice-controlled AI tool, got its first public release to the English-speaking world last week inside the new messaging app Allo. Today Google is announcing the second language it'll work with: Hindi, the fourth most-spoken first language in the world and one of India's official languages.
-Google's other new communications effort, the video-calling app Duo, has seen "amazing uptake" in India, according to VP for the next billion users Caesar Sengupta, who tells The Verge that it's well-optimized for the country's 2G and 3G networks. In fact, together with the US, it's one of the top two markets for the app. Google is bullish on the prospects of Allo in India, then, with countless users who'd be more comfortable speaking to Assistant in Hindi than English.
-India is one of the top two markets for Google Duo
-The addition of Hindi support, or any extra languages at all, is significant because of Assistant's heavy focus on artificial intelligence and machine learning. On stage at an event in Delhi today, Assistant was shown switching between English and Hindi to help retrieve information about a Bollywood movie.
-A Hindi "preview" of Google Assistant will be launched inside Allo by the end of the year; the app is already available in India. The news comes alongside multiple India-focused announcements from Google today, including a new data-saving version of Chrome for Android as well as a new public Wi-Fi initiative called Google Station. Many of these products will be launched worldwide after an initial release in India.

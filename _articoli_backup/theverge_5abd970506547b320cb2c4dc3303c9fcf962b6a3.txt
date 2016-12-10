@@ -1,6 +1,0 @@
-http://www.theverge.com/circuitbreaker/2016/11/22/13717634/lenovo-miix-520-leak-intel-kaby-lake
-More details on Lenovo’s newest Surface lookalike have leaked - The Verge
-Nick Statt
-Lenovo’s Miix line of Microsoft Surface-like 2-in-1s just added the Miix 510, which went on sale last month. Yet rumors of an upcoming successor, the Miix 520, are making the rounds today. According to a report and leaked product images from WinFuture, the device won’t look much different than the 510. Yet it will come with Intel’s new Kaby Lake processor, a bump in RAM from 8GB to 16GB over the 510, a fingerprint sensor, and an increase in battery life to 10 hours on a single charge.
-Of course, the Kaby Lake addition is the big selling point here. The Miix 510 is shipping now starting at $599 with Intel’s 6th generation Core i7 chip. For those looking for a boost in performance, it could be worth waiting for a new round of 2-in-1s with Intel’s latest chip. Because Kaby Lake is just an incremental, mid-generation upgrade to Skylake, it’s not going to offer a groundbreaking jump in speed. It will, however, offer some modest gains in power efficiency and double-digit percentage jumps in app and web performance.
-Update 2:52PM ET, 11/22: Clarified that the original report is from WinFuture, not Ubergizmo.

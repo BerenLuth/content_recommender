@@ -1,9 +1,0 @@
-http://www.theverge.com/circuitbreaker/2016/7/14/12190402/camera-tethering-cable-tetherboost-usb-power
-Finally, a reliable 65-foot USB connection - The Verge
-Chaim Gartenberg
-Everyone, at some point or another, has wished that they could have a longer USB cable: whether it's a few more inches to reach the plug under your desk, a 5-foot long cord to plug a phone in on your nightstand, or a 65-foot long USB cable that stretches across your implausibly-large-yet-poorly-wired house. Or, far more realistically, you’re a professional photographer who needs to tether a camera with a fast USB 3.0 connection to a distant workstation for a shoot.
-The TetherBoost Pro, a USB pass-through device that serves as a power regulator between your computer and camera, hopes to help make long, reliable cable distances a reality. Tether Tools notes that a common cause of problems with tethered photography is poor power management from USB ports on computers, and that in an effort to save energy, computers don’t supply enough power to connected devices, causing signal issues.
-Connect distances up to 65 feet
-TetherBoost is supposed to alleviate this problem by regulating the power supply to the camera, ensuring that full data speeds are maintained even over long distances, with the ability to connect multiple units for distances up to 65 feet. It also allows for additional power sources (like a wall outlet or battery pack) to be added to the line with a USB-D/C cable, to allow distant devices to charge while transferring data.
-TetherBoost Pro is available now for $64.95 (USB 3.0 cables not included), and comes in either black or high-visibility orange.
-If you’re looking for a solution for your 82-foot long USB cable, however, you’re still out of luck for now.

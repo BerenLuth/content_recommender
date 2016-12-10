@@ -1,7 +1,0 @@
-http://www.theverge.com/2016/9/8/12851806/twitter-dm-read-receipts-typing-indicator
-You can now see when someone has read your Twitter DM - The Verge
-Russell Brandom
-Twitter is currently rolling out read receipts in Direct Messaging, showing a blue check mark next to a message's timestamp when it has been read. That check mark can currently only be seen Twitter's mobile apps on Android and iOS, but will also be generated when messages are viewed from Twitter.com.
-If you don't want other users to know when you've seen a message, you can disable receipts from Twitter's security page. Disabling receipts will also keep you from seeing the check mark on your own sent messages.
-New! Direct Messages are more dynamic than ever with read receipts, typing indicators, and web link previews. pic.twitter.com/VEU92V5Gqj
-Alongside read receipts, Twitter is adding a typing indicator and expanded previews for links, similar to the previews that already appear in tweets. Those features are familiar from existing chat apps like iMessage and WhatsApp, but Twitter's decision to add them suggests the Direct Messaging service is inching even closer to the capabilities of a standalone app.

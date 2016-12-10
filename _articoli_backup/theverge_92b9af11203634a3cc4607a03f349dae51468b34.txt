@@ -1,5 +1,0 @@
-http://www.theverge.com/2016/11/8/13561008/microsoft-xbox-insider-program
-Microsoft opens its Xbox feedback program to everyone - The Verge
-Tom Warren
-Microsoft is expanding its Xbox Preview Program to all Xbox owners in the next few weeks. The software maker is rebranding the Preview Program as the "Xbox Insider Program," to better align with Microsoft's Windows Insider Program. The changes will start rolling out over the next few weeks, and they'll mean that any Xbox owner will be able to provide feedback.
-"The Xbox Insider Program will soon be open to all Xbox users," says Larry Hryb, Microsoft's director of programming for Xbox Live. "More fans will have the ability to provide feedback directly from their Xbox One consoles." This feedback will help Microsoft shape future dashboard updates for the Xbox One, but beta versions of the system updates will still be restricted to Preview members. Microsoft is not opening up its system updates to new members of the Xbox Insider Program just yet.

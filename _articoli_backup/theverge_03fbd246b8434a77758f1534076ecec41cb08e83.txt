@@ -1,6 +1,0 @@
-http://www.theverge.com/2016/9/12/12887514/instagram-comments-abusive-words-filter-section
-Instagram is now letting everyone filter abusive words out of their comments - The Verge
-Ashley Carman
-Instagram started allowing certain high-profile users to filter specific words out of their comments section earlier this summer, and today, the company is rolling that feature out to everyone.
-Users can specify which custom words they want hidden from their comments and also turn on the "hide inappropriate comments" feature, which hides comments containing words that are typically flagged as inappropriate. This can all be accessed by clicking the gear icon. Instagram is also updating the way it displays comments: they’ll be ranked algorithmically to show the most relevant comments first, as opposed to the two most recent.
-This update was first rumored by The Washington Post in July, along with the idea that Instagram could eventually let users turn off their comments section entirely. We haven’t seen that feature yet. But still, although Instagram was accused of ripping off Snapchat with its Stories feature, the company is at least learning from the failures of its fellow social media sites like Twitter that routinely struggle to protect users from abuse.

@@ -1,7 +1,0 @@
-http://www.theverge.com/circuitbreaker/2016/8/3/12370328/intel-depth-sensor-htc-vive-prototype
-Intel is working on a depth sensor for the HTC Vive - The Verge
-Micah Singleton
-It's looking like virtual reality will take center stage at Intel's Developer Conference in a couple weeks. Dimitri Diakopoulos, an engineer on Intel's VR team tweeted out an image of an HTC Vive with an attachment featuring six camera holes that could be used for a hand-tracking system or something similar.
-Industrial design team nailed it. pic.twitter.com/V3cMY0GBFu
-On Twitter, Diakopoulos said the depth-sensing modification was a prototype, and in a conversation with UploadVR, hinted that the setup could be used to detect the environment around you, which could help you avoid stepping on your cat while you play Fallout 4. (Cat detection is key for the future of VR.) Theoretically, the cameras could also be used as an improved version of the front-facing camera currently on the HTC Vive.
-We should find out more about Intel's plan for the HTC Vive, and VR in general on August 16th when the Intel Developer Conference kicks off.

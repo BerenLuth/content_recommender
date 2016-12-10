@@ -1,5 +1,0 @@
-http://www.theverge.com/2016/7/26/12284552/lightroom-apple-tv-app-announced-adobe
-Adobe launches Lightroom for Apple TV - The Verge
-Jacob Kastrenakes
-Adobe is launching Lightroom on the Apple TV today, giving photographers an easy way to display their edited photos up on a big screen. That's really all this app is: a photo viewer. Any photo in Lightroom that you've synced to mobile or Lightroom's web gallery will be available inside the Apple TV app. From there, you can view them individually, start a slideshow, or stop to zoom in and pan around.
-There are no editing features, so Lightroom on the Apple TV is really just meant as a convenient way to display your photos. The app requires a Creative Cloud subscription and is available today.

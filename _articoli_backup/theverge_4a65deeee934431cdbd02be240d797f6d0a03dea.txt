@@ -1,7 +1,0 @@
-http://www.theverge.com/circuitbreaker/2016/11/11/13596426/htc-vive-wireless-accessory-preorder-price
-HTC opens preorders for wireless Vive upgrade kit - The Verge
-Sam Byford
-A new accessory that enables HTC’s Vive VR headset to be used wirelessly is available for preorder on the company’s Chinese site. TPCast, a startup inside HTC’s Vive X accelerator program, has created a clip-on device that essentially upgrades the Vive into a wireless headset; right now the Vive has to be tethered to a PC with a cumbersome cable.
-HTC’s Vive chief in China, Alvin W. Graylin, tells UploadVR that there is “no noticeable difference” in latency when using the TPCast peripheral, which is something we’d have to see for ourselves. Battery life is also a concern — Graylin says the regular battery can deliver about an hour and a half of power, with a bigger battery designed to be placed in users’ pockets coming later.
-You can see the product being used by Graylin above, though the video is low-res and it’s hard to tell how much latency there is.
-The device is available for order now for 1,499 yuan from HTC China’s Vive site, and is set to ship sometime in the first quarter of next year. No word yet on when or whether it’ll make its way around the world, but apparently you can get it delivered if you can navigate the Chinese site and pay for shipping, and Graylin says he does “imagine technologies like this will become an option for future products.” Depending on how well TPCast’s technology works in practice, a Vive with integrated wireless support may not be far away.

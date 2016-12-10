@@ -1,9 +1,0 @@
-http://www.theverge.com/2016/10/28/13462144/1password-touch-bar-touch-id-design-mockups-agilebits-macbook-pro
-1Password will put the MacBook Pro’s fingerprint scanner to good use - The Verge
-Jacob Kastrenakes
-All the hype around the new MacBook Pro has been about what its flashy new Touch Bar can do, but there’s good reason to be excited about its Touch ID sensor, too.
-One early example: the maker of 1Password, AgileBits, is already showing off its planned support for the laptop’s fingerprint sensor. It plans to allow users to log into 1Password without typing in their (quite possibly complicated) master password.
-Basically, the change would take the app from 1 to (mostly) 0Password, since you’d only occasionally need to type it in. For users of the app, that’s a big convenience.
-AgileBits is already starting to imagine what it’ll do with the MacBook Pro’s Touch Bar, too. There’s nothing necessarily crazy here compared to what Apple showed on stage yesterday, but it’s good to see that some of the Mac’s staples are already thinking about Apple’s new hardware.
-The mockups place some of 1Password’s key options, like the ability to create different types of entries and to change the length of a new password, right on the Touch Bar. These aren’t supposed to be final designs, but they suggest that AgileBits — and other interested app developers — will be able to launch custom Touch Bar layouts pretty quickly.
-There’s no timeline on when 1Password will get these new features. But, you know, no one actually has this computer yet so it doesn’t really matter for a few more weeks.

@@ -1,9 +1,0 @@
-http://www.theverge.com/2016/10/12/13264950/valve-vive-vr-controllers-new-prototype
-Valve shows off new VR controller prototypes - The Verge
-Sam Byford
-Valve's Steam Dev Days conference is going on right now in Seattle, and the company is sharing details of upcoming hardware in typically low-key fashion. While there aren't any official announcements yet, attendees have been posting about new virtual reality controller prototypes that go far beyond what the current wand-style Vive solution can do.
-The biggest difference is that the new controllers are able to detect when you open and close your hand, allowing you to grip and drop objects in game. Right now the Vive controllers tend to handle actions like this with a simple trigger on the back, which is functionally fine but not especially immersive. Oculus' upcoming Touch controllers for the Rift headset are similarly able to simulate natural hand movement.
-Important thing here- you can close your hand halfway. #SteamDevDays pic.twitter.com/5z64vTvf6j
-From photos, it looks like the prototype controllers are designed to be used while strapped to the palm of the hand, which could address another advantage that Oculus Touch has over the Vive — the latter system's large controllers need to be firmly gripped at all times, while Touch's ergonomic design lets you "let go" to a certain extent. The prototypes are covered in sensors that are presumably of the same type that work with the current Vive's lighthouse tracking system, and there are also some colored lights of unknown function.
-Valve being Valve, there's no word on when these controllers will see release — the company tends to iterate in semi-public, gathering feedback from developers before settling on a final product. We'll let you know when we hear more.
-More photos of the new Vive controllers! #SteamDevDays #Vive #VR pic.twitter.com/o99QHPZvvD

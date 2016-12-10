@@ -1,7 +1,0 @@
-http://www.theverge.com/2016/5/26/11790900/htc-vive-vr-game-front-defense-computex-2016
-HTC is developing its own virtual reality game for the Vive - The Verge
-Nick Statt
-HTC is working on a virtual reality game for its Vive headset called Front Defense, and the company plans on demoing it at the Computex conference in Taipei, Taiwan next week. Little is known about the game, as translated marketing material simply describes it as a wartime shooter game.
-It's an unusual move for the Taiwanese phone maker, which has not traditionally been involved in game development, let alone creating titles made for VR. And in this case, it's technically not making the game, although it's a somewhat fine distinction. An HTC spokesperson says Front Defense is being developed by what the company is calling an independent "internal startup" called Fantahorn Studio, which is sponsored by HTC and includes current company employees.
-Since partnering with Valve to produce the Vive, HTC has also set aside money to help foster emerging VR game studios and creators in order to bring more content to its platform. Last month, HTC announced Vive X, a $100 million accelerator program starting in Beijing, Taipei, and San Francisco for startups who want to use its technology to create VR experiences.
-Clarification: Front Defense is being developed by an independent group with close ties to HTC, not the company itself.

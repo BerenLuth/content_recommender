@@ -1,9 +1,0 @@
-http://www.theverge.com/2016/10/26/13417028/microsoft-surface-dial-announced-surface-event
-The Surface Dial is a crazy puck that controls Microsoft's new PC - The Verge
-Jacob Kastrenakes
-Microsoft just announced an all-in-one PC called Surface Studio and alongside it a strange new accessory called the Surface Dial.
-The Surface Dial is big puck that's sort of like a modern twist on a paint palette. When the Dial is placed on the Studio's screen, a radial menu pops up all around it. Different color or brush options might pop up, for example, when a painting app is on screen — presumably, other apps can create custom menus as well. It can also be used to navigate and pan around an image.
-The dial is rotated to control what's on screen, and it uses haptic feedback to register the click of different options along the way. The idea is to get artists and designers using both of their hands at once for a much more natural experience.
-There'll also be some simpler uses of the Surface Dial. Microsoft says that in Pandora or Spotify, the Dial can be used to adjust the computer's volume. That's not quite as exciting, but it illustrates how Microsoft is hoping other apps will take advantage of it in one way or another. The device doesn't have to be placed on the computer's screen for that kind of input — it can still function from off to the side.
-Though Microsoft is demoing the device on the Surface Studio, it's also supposed to work on the Surface Pro 3, Surface Pro 4, and the Surface Book.
-The Surface Dial will be out November 10th for $99. It'll be included for free with preorders of the Surface Studio, which itself starts at $2,999.

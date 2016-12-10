@@ -1,7 +1,0 @@
-http://www.theverge.com/2016/4/12/11415980/livestream-mevo-facebook-live-camera-stream
-The Livestream Mevo is the first camera that works with Facebook Live - The Verge
-Sean O'Kane
-Facebook just announced at its F8 developer conference that it's opening up access to Facebook Live, and the first standalone camera that can directly integrate with the streaming service is Livestream's Mevo.
-Livestream announced the Mevo, its first consumer camera, back at CES. (It was called Movi then; the company presumably had to change it on account of Freefly's Movi line of camera stabilizers.) It's a small cylindrical camera with a wide angle that can shoot 4K video, but the power really comes from its software. The Mevo can split the 4K image into multiple (and separate) 1080p video feeds, and the accompanying app allows users to live edit between those feeds. It is essentially a low-budget replacement of a multi-camera live-streaming setup that fits in your pocket.
-Mevo users can also pan and zoom around the full 4K image, or even employ facial tracking and automatic editing. All this should make for a much more dynamic setup than what's been available to Facebook Live users so far: the front and back cameras of an iPhone.
-The Mevo will be available for purchase this summer for $399, but Livestream is offering $100 off if you preorder it now on the camera's website.
