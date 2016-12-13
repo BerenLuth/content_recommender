@@ -5,3 +5,5 @@ Essentially this is a content-based recommender, that downloads 1000 news from w
 For the analysis i have used Gensim libraries such as lemmatize, gensim dictionary, tf-idf and more.
 
 With few changes it can be used for more general analysis (at the moment it is strongly related to the data structure that i've downloaded from theverge).
+
+You may find a report in the folder named "Relazione" with some helpful comments and graphics (sorry but it is in italian... also the comments in the code).
