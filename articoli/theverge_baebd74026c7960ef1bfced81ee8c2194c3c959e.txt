@@ -1,0 +1,5 @@
+http://www.theverge.com/2016/12/6/13856140/dropbox-pro-business-offline-folders-save-files-no-internet
+Dropbox Pro and Business users can now save entire folders for offline viewing - The Verge
+Ashley Carman
+While Dropbox has let users save individual files for offline viewing for years, the company is now building in the ability to save entire folders. The company announced today that Dropbox Pro and Business users will be able to select folders that will then automatically sync to a phone or tablet locally. For now, however, the feature will only be available through the Android app. It’s coming to iOS early next year, Dropbox says.
+Dropbox has introduced multiple mobile features this year, including a scanner tool in its iOS app and the ability to create Microsoft Word, PowerPoint, and Excel files from the app. The company also launched its Google Docs competitor, Dropbox Paper, on iOS and Android this year. Now I just hope you have enough storage for all these folders.

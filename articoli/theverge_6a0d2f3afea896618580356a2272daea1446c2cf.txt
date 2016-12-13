@@ -1,0 +1,5 @@
+http://www.theverge.com/2016/11/21/13699164/google-popular-times-real-time-data-restaurant-hours
+Google will tell you how crowded your favorite bar is in real time - The Verge
+Ashley Carman
+Google’s popular times feature gives you an idea of how crowded a place typically gets throughout the day. It’s not complex given that you can probably assume a restaurant is busy during peak dinner hours and is quieter around 4PM. That makes sense. Now the company is launching a similar feature that will tell you how crowded a place is in real time. The company relies on aggregated, anonymized location history data, just like it does for popular times.
+Along with that real-time feature, Google will also clarify how long people typically stay in one place, so you can plan your day around that. It’ll also update retail hours to reflect holiday adjustments. All this information is available in Maps and search. Now I’m wondering if Google will tell me how long the Snapchat Spectacles line is in New York because really that’s the only information I want right now.

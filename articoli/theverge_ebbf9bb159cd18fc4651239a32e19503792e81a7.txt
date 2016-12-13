@@ -1,7 +1,0 @@
-http://www.theverge.com/2016/11/27/13735624/google-home-fireplace-remote-program
-Here’s a cool but insanely complicated way to make Google Home turn on your fireplace - The Verge
-Natt Garun
-Just like Amazon Echo when it launched, the Google Home can do a bunch of stuff for your smart home — but not everything. Some people are patient enough to wait for updates. Others, like Reddit user Hovee, decided to create their own solution for the most sexy of smart homes.
-With the voice command “Turn on my fireplace,” Hovee was able to get Google Home to respond with “Okay, let’s get lit” then ignite the flames like it ain’t no thang.
-Except of course, the steps to making the magic happen are quite involved. Hovee’s detailed instructions on how to make your own setup is insanely complicated, requiring a Raspberry Pi, a relay switch, and hella wiring. You’ll also need an IFTTT account to get it all running. Other Reddit users say you might not need to do all of this if your fireplace supports remote switches, in which case you can just use WeMo, Wink, or other simplified home automation tools.
-So if you have some down time need a little project to busy yourself with during the holidays, here’s a little something to impress the family (or the ladies) with.

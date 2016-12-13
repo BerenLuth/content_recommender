@@ -1,0 +1,8 @@
+http://www.theverge.com/2016/12/8/13881800/microsoft-demonstrates-full-windows-10-with-photoshop-on-arm-chips
+Microsoft demonstrates full Windows 10 with Photoshop on ARM chips - The Verge
+Tom Warren
+A full version of Windows 10 will be available for ARM-powered laptops next year. Microsoft revealed today that it plans to support existing desktop apps on ARM chipsets through a new emulation layer. The version of Windows 10 that will power this looks exactly like the desktop we’re familiar with for Intel-powered machines, and Microsoft demonstrated the new functionality by showing off video playback, Adobe Photoshop, and Microsoft Office support all on a Qualcomm Snapdragon 820 processor.
+While Microsoft has detailed its plans to The Verge in an interview, many questions still remain around its new support of ARM. Microsoft previously supported ARM chips with Windows RT, but the company didn’t emulate apps so ARM tablets were never popular as a result. Microsoft’s demonstration appears to show good performance in these basic tasks, and the company is promising a range of laptops with great battery life and good cellular connectivity as a result.
+Read more
+Four years ago, Microsoft wanted to ditch its traditional desktop apps in favor of new touch-based apps for tablets with ARM processors. Windows RT was the official name for the Windows on ARM...
+True performance and battery life will be the greatest test of whether these ARM chipsets will be good enough for the day-to-day computing needs of most laptop users. We’re not expecting to see any ARM-powered laptops on the market until later next year, so Microsoft has plenty of time to get things right this time and avoid the initial performance issues that Windows RT experienced.

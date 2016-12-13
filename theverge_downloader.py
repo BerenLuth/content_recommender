@@ -24,30 +24,35 @@ def get_links_from_archive_page(url):
 
 	return links
 
-# si occupa di controllare se esiste il file contentente la lista contentente i link agli articoli e in caso di crearlo
-def get_links():
+def get_link():
 	linklist = []
+	# per ogni categoria recuper i link dall'archivio
+	for category in CATEGORIES:
+		print "\tRecupero i link della categoria " + category + "..."
+		c = 1
+		# valore ideale: 12 cicli +- 1000 articoli
+		while c<14:
+			page_number = THEVERGE_URL.format(category, c)
+			x = get_links_from_archive_page(page_number)
+			#print category, len(x)
+			linklist.extend(x)
+			c += 1
 
-	if os.path.exists(LIST_FILE_NAME):	#controllo se esiste il file contenente i link agli articoli
+	f = io.open(LIST_FILE_NAME, 'w')
+	for link in linklist:
+		f.write(link+"\n")	#salvo i link in un file
+	return linklist
+
+# si occupa di controllare se esiste il file contentente la lista contentente i link agli articoli e in caso di crearlo
+def archive_links():
+	linklist = []
+	if os.path.exists(LIST_FILE_NAME):	#controllo se esiste il file contenente i link agli articolis
 		f = io.open(LIST_FILE_NAME, 'r', encoding='utf8')
 		linklist = f.read().splitlines()
 		if len(linklist)<ITEMS_NUMBER:	#se la lista e' comunque troppo corta, la riscarico
-			linklist = []
-			# per ogni categoria recuper i link dall'archivio
-			for category in CATEGORIES:
-				print "\tRecupero i link della categoria " + category + "..."
-				c = 1
-				# valore ideale: 12 cicli +- 1000 articoli
-				while c<14:
-					page_number = THEVERGE_URL.format(category, c)
-					x = get_links_from_archive_page(page_number)
-					#print category, len(x)
-					linklist.extend(x)
-					c += 1
-
-			f = io.open(LIST_FILE_NAME, 'w')
-			for link in linklist:
-				f.write(link+"\n")	#salvo i link in un file
+			linklist = get_link()
+	else:
+		linklist = get_link()
 	return linklist
 
 
@@ -91,7 +96,7 @@ def save_articles(linklist):
 		# se la quantita' e' inferiore a 1000, stampo la percentuale, altrimenti concludo
 		c += 1
 		if c%10 == 0:
-			tmp = downloaded_articles()	#controllo quanti sono gli articoli effettivamente scaricati
+			tmp = downloaded_articles()-1	#controllo quanti sono gli articoli effettivamente scaricati
 			if tmp < 1000:
 				if (tmp/10) > last_percentage:	#stampo la percentuale solo se e' cambiata
 					print "\t",str(tmp/10) + "%"
@@ -119,7 +124,7 @@ def start():
 	if downloaded_articles() < ITEMS_NUMBER:
 		print "\tSono necessari almeno 1000 articoli: avvio il download..."
 
-		linklist = get_links()
+		linklist = archive_links()
 
 		print len(linklist)
 

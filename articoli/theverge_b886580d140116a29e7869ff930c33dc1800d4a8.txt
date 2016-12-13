@@ -1,0 +1,345 @@
+http://www.theverge.com/2016/4/6/11377202/huawei-p9-dual-camera-system-how-it-works
+Here's how the Huawei P9's dual-camera system works - The Verge
+Jacob Kastrenakes
+Huawei unveiled its latest flagship smartphone this morning, the P9, and the big story here is its camera — or really, its camera system, since there are two of them. In the past, dual-camera systems have been used for 3D or focus-changing gimmicks, but Huawei has taken a different approach: the P9's two cameras only take one photo, but it's supposed to be of a much higher quality. Here's how that works.
+What's the second camera for?
+The P9's two cameras do two different things. One camera has a traditional RGB sensor, meaning it takes color photos; the other has a monochrome sensor, meaning it only captures scenes in black and white. That isn't so you can take black-and-white photos (although you can do that, if you want to), it's so the P9 has more information to work with when processing what the camera sees.
+Okay, but why is black and white helpful?
+It may sound counterintuitive, but a monochrome sensor can capture more detail from a scene than a color sensor (aside from, you know, the actual color). That's because a monochrome sensor is only interested in how much light is coming in at any given point and doesn't have to concern itself with what color the light is. RGB sensors have to filter out light in order to determine which colors go where. In doing so, they lose detail that could otherwise be used to make a sharper image. Huawei claims that using two sensors lets the P9 capture 270 percent more light than an iPhone 6S, and 70 percent more light than a Galaxy S7.
+So how do the two cameras work together?
+The two cameras capture a photo simultaneously, and then the P9 uses the strengths from both to create a single image that's better than either could make on its own. The color camera is critical for producing the standard color photo that everyone wants. But by combining its color information with the richer detail and sharpness of the monochrome image, you get a result that, theoretically, looks a lot better than a single camera of its size and quality should be able to produce. That should be particularly noticeable in bright highlights and dark shadows, where detail can easily get washed out or missed by smaller sensors.
+Why not just use one really good camera?
+Because that's hard to do on a smartphone. If you want better photos, that typically means using a bigger camera sensor, which can capture more light and therefore add more detail. But smartphones are getting smaller and smaller, so the choice increasingly looks like: add a camera bump, or find a clever workaround. Huawei went with the latter.
+I heard Huawei is partnering with Leica, whose cameras sell for ~$7,000 just for the body. Shouldn't that help?
+Leica may be involved, but don't expect the P9 to have lenses meeting Leica's legendary quality. Instead, the P9 has lenses that are being called "Leica certified," which is supposed to mean that Leica had a hand in their development. But Leica has a habit of slapping its name on other companies' cameras more or less just to make them look better than they are, and that's probably what's happening here. Leica's involvement may well have been helpful, but don't put too much stock in it.
+Will having two cameras slow things down?
+There's no real reason to think this would happen, and Huawei is even trying to speed things up by adding a dedicated "depth processor" to the phone. Huawei says this processor can calculate focus 200 percent faster than a camera that's relying on software. What this essentially means it that the P9 should be able to bring a scene into focus fairly quickly so that you're ready to shoot.
+Why are there multiple focus modes?
+Depending on what you're shooting, the P9 uses a mode better suited to the scene. For subjects up close, the P9 uses laser focusing. This is a pretty standard technique that we've seen roll out to a lot of other smartphones recently, including the Huawei-made Nexus 6P — it involves measuring how long it takes for a laser to reach its target and bounce back, letting the camera know how far away its subject is. For shooting objects off in the distance, the P9 is able to figure out what to focus on essentially the same way the human eye can, triangulating its subject using two points of view. If neither of those are working, the phone can also use contrast detection, which is typically slower.
+The Art of the Perfect Shot: stunningly sharp close-ups #HuaweiP9 #OO pic.twitter.com/fGITdqtZKY
+How come the camera's live previews look so good?
+Huawei isn't just relying on what the P9's camera captures — it's also improving it in software by simulating bokeh, the out-of-focus blooms of light you often see in the back of photographs. The goal is to give the P9's photos a look closer to what you'd get out of a larger, nicer camera. The effect is adjustable, so you aren't stuck with whatever the software decides on. In fact, the entire camera can be operated in manual mode.
+Does it actually take good photos?
+That's the most important question of all! Huawei has released a handful of sample photos from the P9, and for the most part, they look really impressive. But so do most carefully selected sample photos, whether they come from the Moto X, Xiaomi Mi 5, Lumia 950, or any other smartphone. Here's a gallery of what Huawei has published so far, but take them with a grain of salt.
+Grid View
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Huawei P9 sample photos
+
+
+
+
+
+
+
+
+
+
+
+
+              Alexander Köpke
+            
+
+
+
+
+
+
+
+
+              Alexander Köpke
+            
+
+
+
+
+
+
+
+
+              Alexander Köpke
+            
+
+
+
+
+
+
+
+
+              Alexander Köpke
+            
+
+
+
+
+
+
+
+
+              Alexander Köpke
+            
+
+
+
+
+
+
+
+
+              Lamarr Golding
+            
+
+
+
+
+
+
+
+
+              Lamarr Golding
+            
+
+
+
+
+
+
+
+
+              Lamarr Golding
+            
+
+
+
+
+
+
+
+
+              Lamarr Golding
+            
+
+
+
+
+
+
+
+
+              Lamarr Golding
+            
+
+
+
+
+
+
+
+
+              David Gutiérrez
+            
+
+
+
+
+
+
+
+
+              David Gutiérrez
+            
+
+
+
+
+
+
+
+
+              David Gutiérrez
+            
+
+
+
+
+
+
+
+
+              David Gutiérrez
+            
+
+
+
+
+
+
+
+
+              Céline Auffret
+            
+
+
+
+
+
+
+
+
+              Céline Auffret
+            
+
+
+
+
+
+
+
+
+              Céline Auffret
+            
+
+
+
+
+
+
+
+
+              Céline Auffret
+            
+
+
+
+
+
+
+
+
+              Céline Auffret
+            
+
+
+
+
+
+
+
+
+              Céline Auffret
+            
+
+
+
+
+
+
+
+
+              Céline Auffret
+            
+
+
+
+
+
+
+
+
+              Céline Auffret
+            
+
+
+
+
+
+
+
+
+              Céline Auffret
+            
+
+
+
+
+
+
+
+
+              Céline Auffret
+            
+
+
+
+
+
+
+
+
+              Enrica Brescia
+            
+
+
+
+
+
+
+
+
+              Enrica Brescia
+            
+
+
+
+
+
+
+
+
+              Enrica Brescia
+            
+
+
+
+
+
+
+
+
+              Enrica Brescia
+            
+
+
+
+
+
+
+
+
+              Enrica Brescia
+            
+
+
+
+
+
+
+
+
+              Enrica Brescia
+Photos credit: Huawei and EyeEm, images by Alexander Köpke, Lamarr Golding, David Gutiérrez, Céline Auffret, and Enrica Brescia.
+Vlad Savov contributed to this report.

@@ -1,7 +1,0 @@
-http://www.theverge.com/2016/11/28/13768612/att-users-directv-now-data-free
-AT&T users will be able to stream DirecTV Now without using their data - The Verge
-Micah Singleton
-At an event in New York City today, AT&T has announced that its mobile subscribers will be able to stream its new DirecTV Now service without using their data. The now common industry strategy, known as zero rating, is controversial to say the least, with the FCC telling AT&T earlier this month that it may be violating net neutrality by zero rating the standard DirecTV service.
-Currently, T-Mobile has been offering data-free use of music and video services for years, and Verizon has made its Go90 service free of data charges for all of its subscribers. The difference with AT&T is companies have to pay to be included in its data free program, but DirecTV is owned by AT&T, which means the companies are essentially just moving money around.
-Despite the current concerns from the FCC, the incoming Trump administration may not be convinced about the merits of net neutrality, or share the same opinions about zero rating as the current administration. AT&T is just the latest to challenge the FCC’s ruling, but with a new, and likely more lenient administration — at least on net neutrality — the bet to go against the FCC may just pay off.
-DirecTV Now will be available on November 30th, and will offer over 100 channels starting at $35 a month for a limited time.

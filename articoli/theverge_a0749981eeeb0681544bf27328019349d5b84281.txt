@@ -1,0 +1,10 @@
+http://www.theverge.com/2016/12/7/13859092/ge-made-a-circular-lamp-with-alexa-in-it
+GE made a circular lamp with Alexa in it - The Verge
+Jacob Kastrenakes
+Amazon started allowing other companies to build Alexa into their own products last year, and today GE is unveiling what might be the most compelling example yet. It’s a wild LED lamp that’s kind of like what would happen if you attached a large, glowing ring to the top of an Echo Dot.
+The lamp looks all at once futuristic, kind of goofy, and like it’ll fit terribly in your apartment. But having a thing that looks like a physical re-creation of the Cortana ring at home just seems kind of great.
+GE doesn’t have a fancy name for the product — right now, it’s just being called the LED lamp or LED table lamp. I’m sure the name would be much more absurd if this thing had launched on Kickstarter.
+The lamp functions more or less like any Echo device would. It includes always-on microphones listening for commands and questions, and when it hears one, it’ll react or speak out a response through its built-in speakers. Don’t expect those speakers to be great for music, though; a representative said they would be close in quality to the Echo Dot’s speakers, which we said were just enough to “be used in a pinch to play music.”
+What the lamp does add to the picture is, of course, voice control over its built-in lamp. A big part of Alexa’s appeal is its growing ability to control connected devices throughout a home; that means building Alexa into a product as practical as a lamp makes a lot of sense, even if the design is far from practical.
+GE says that the lamp design we’re seeing today isn’t final, but it’s supposed to be very close to the final product, which should only see tweaks to the dimensions of what’s being presented here.
+The lamp is supposed to ship sometime in the second quarter of 2017.

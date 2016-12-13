@@ -1,0 +1,11 @@
+http://www.theverge.com/2016/11/15/13642286/google-ceo-sundar-pichai-fake-news
+Google CEO says fake news is a problem and should not be distributed - The Verge
+Colin Lecher
+In an interview with the BBC, Google CEO Sundar Pichai made his first comments on the post-election fake news controversy, and admitted the company has made some mistakes.
+"It is important to remember that we get billions of queries every day,” Pichai told the news organization. “There have been a couple of incidences where it has been pointed out and we didn't get it right. And so it is a learning moment for us and we will definitely work to fix it.”
+When the BBC asked Pichai about the potential effects of fake news on the election, he said “there is a lot of discussion” about social media’s role, but added that he was “not fully sure” about the effects.
+"Look, it is important to remember this was a very close election and so, just for me, so looking at it scientifically, one in a hundred voters voting one way or the other swings the election either way,” Pichai said, according to the BBC. "So, when you talk about such narrow margins, obviously there are many, many contributing factors and so I think there is enormous debate because of that — I am not fully sure what caused this."
+This week, Google began surfacing a conspiracy blog in response to the query “who won the popular vote.” The company also announced yesterday that it will remove fake news sources from its ad network. (Facebook quickly made a similar move.)
+Pichai’s comments follow statements from Mark Zuckerberg, who, when faced with a similar question, first said it was “crazy” to think fake news on Facebook had an influence. He later made the claim that "99 percent of what people see is authentic.”
+“Given those tight margins [in the election],” BBC reporter Kamal Ahmed went on to suggest to Pichai in the interview, “fake news could have affected some people’s vote, and maybe enough people’s vote, to affect the outcome.”
+“Sure, I think fake news as a whole could be an issue,” Pichai replied. “From our perspective, there should just be no situation in which fake news gets distributed, so we are all for doing better here.”

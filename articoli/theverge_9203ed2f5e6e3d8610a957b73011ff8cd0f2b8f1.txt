@@ -1,0 +1,6 @@
+http://www.theverge.com/circuitbreaker/2016/11/17/13665258/macbook-pro-speaker-grille-fake-teardown
+The new MacBook Pro's speaker grilles are mostly cosmetic - The Verge
+Chaim Gartenberg
+There are a variety of issues with Apple’s new MacBook Pros, including port selection, Touch Bar utility, and battery life. But despite all of the various controversies, everyone seems to be able to agree that the upgraded speakers are great.
+As iFixit’s teardowns reveal, the new MacBook Pros do have an improved speaker system, the speaker grilles on the top of the computers are largely cosmetic. While there are a few areas of actual through-holes for the speakers and microphones, most of the “grille” is made up of small cosmetic dents in the aluminum that don’t pass all the way through. iFixit hypothesizes that the majority of the sound is actually output through the side vents instead.
+For now, iFixit has only published its teardown of the 13-inch model, so we’ll have to wait until someone disassembles one of the new 15-inch Pros to see if it carries through across the entire product line. But at the end of the day, whether the grilles are real or fake, the important thing is that the new MacBook Pro still sounds good.

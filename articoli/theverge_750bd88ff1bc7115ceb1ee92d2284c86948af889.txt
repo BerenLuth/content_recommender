@@ -1,0 +1,5 @@
+http://www.theverge.com/2016/12/8/13880794/download-web-pages-chrome-android-google
+Chrome for Android now lets you download webpages and read them offline - The Verge
+Sam Byford
+Version 55 of Chrome for Android is rolling out across the Google Play Store, dramatically expanding the browser's downloading functionality. You can now download entire webpages, as well as media like videos or music, and save them for offline usage.
+A new section lets you view these downloads and share them with other users. The features were first announced in September as part of a push by Google focused on the Indian market.

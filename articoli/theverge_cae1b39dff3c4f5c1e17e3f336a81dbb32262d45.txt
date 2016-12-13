@@ -1,0 +1,6 @@
+http://www.theverge.com/circuitbreaker/2016/12/6/13858814/sonos-spotify-connect-speakers-control-app
+You can finally control your Sonos speakers directly from Spotify - The Verge
+Chaim Gartenberg
+After about a month in public beta, Sonos and Spotify are releasing an update today allowing Spotify to directly play to Sonos speakers to all users. The update essentially makes any Sonos device into a Spotify Connect speaker, with the added bonus of Sonos' signature multi-room functionality built in.
+The new feature, which was originally announced in August, allows anyone to control music playing on Sonos speakers directly from the Spotify app, so long as they’re on the same Wi-Fi network. It also allows Spotify users to forgo the Sonos Controller app entirely when it comes to controlling their music. That’ll make it much easier to go from listening to music on your phone or laptop to listening on a Sonos speaker by consolidating all the functionality into the Spotify app (assuming you’re a Spotify user, anyway).
+The Sonos / Spotify integration is available today on both mobile and desktop applications, but it’s limited to Spotify users with a Premium subscription.

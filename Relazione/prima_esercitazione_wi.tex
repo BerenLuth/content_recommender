@@ -56,11 +56,11 @@ Per lo svolgimento della parte A dell'esercitazione, il sito scelto è stato www
 La parte B è stata volta all'interno del file analyzer.py, appoggiandosi a item\_reader.py per la lettura degli articoli (rirotna una lista contentente gli articoli già "puliti" dai caratteri che non ci interessano), e a gnuplot.py per la stampa dei grafici (in caso quest'ultima causare errori, in quanto utilizza gnuplot, basterà quindi commentarla).
 \subsection{B.1 - analyzer.start\_base}
 Questa parte consiste semplicemente nella creaione di un semplice dizionario delle occorrenze globali delle parole.
-Una volta creato questo dizionario, salvo in una lista le occorrenze presenti nel dizionario ordinate in ordine crescente.
+Una volta creato questo dizionario, salvo in una lista le parole presenti nel dizionario, ordinate per occorrenze.
 In base a questa lista creo poi un file \textbf{.dat} utile per stampare poi il grafico tramite gnuplot.
 Dirante questa fase ho selezionato poi alcune parole molto frequenti e di poca rilevanza, e le ho inserite poi nel file \textbf{stopwords.txt}
 \begin{figure}[h]
-	\includegraphics[width=10cm]{plotted_dirty.png}
+	\includegraphics[width=9cm]{plotted_dirty.png}
 	\centering
 \end{figure}
 \subsection{B.2 - analyzer.start\_advanced}

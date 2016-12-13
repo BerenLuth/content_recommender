@@ -1,9 +1,0 @@
-http://www.theverge.com/2016/11/28/13765290/instagram-stories-screenshot-profile-photo-push-notification
-Instagram will notify users if you take a screenshot of their private temporary message - The Verge
-Ashley Carman
-People are deeply worried that Instagram is tattling on them whenever they take a screenshot. See this inflammatory tweet as an example:
-Instagram sends alerts when you take screenshots now: https://t.co/ZGnSEzcPil pic.twitter.com/n13nuc6uSF
-This story is slightly true but also incredibly misleading. As our own Casey Newton noted in his update on Instagram stories, the photography platform will indeed alert users when someone has taken a screenshot but only when the photo or video is part of a temporary direct message sent through Instagram Direct. So if you’re deep into someone’s grid and screenshot a photo of them taking a shot of turkey fat, they won’t know. I promise. If, however, you screenshot a temporary photo your friend sent you directly, then yes, they will know. I promise.
-As a reminder, stories are Instagram’s version of Snapchat. Videos, photos, and Boomerangs can be added to temporary stories that disappear after 24 hours. The app now lets users send private temporary messages that disappear after they’ve been viewed.
-Snapchat also sends screenshot alerts. Both platforms don’t want you capturing what are supposed to be ephemeral moments. Now just resist the urge to double tap on an ancient photo your secret internet obsession posted, and you’re good to go.
-Correction 11/29, 2:53 PM ET: We initially stated that users would be notified of screenshots from stories. In actuality, screenshot alerts only occur from Instagram Direct. We’ve changed our article to reflect this and regret the error.

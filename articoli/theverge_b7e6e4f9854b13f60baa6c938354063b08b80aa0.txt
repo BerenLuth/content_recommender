@@ -1,0 +1,7 @@
+http://www.theverge.com/2016/12/7/13871164/trump-twitter-bots-reply-suspended
+Twitter is banning the bots racing to reply to Trump tweets - The Verge
+Kwame Opam
+The space under Donald Trump’s tweets tends to be a cesspool of not only users arguing over his many wild claims but bots vying to reply first. Now, Twitter seems to be moving in to clean up the mess. According to Motherboard, the social network has suspended a number of accounts that automatically respond to the president-elect’s tweets, many of which having garnered thousands of followers by just appearing under his words.
+The most prominent of these accounts is reportedly Patriotic Pepe, which, before it was suspended, had over 10,000 followers. The account wasn’t entirely automated: rather, the user would use a script to quickly respond to Trump’s tweets while also sharing memes. Those “normal” tweets could be liked and retweeted thousands of times by followers.
+Other, more brazen, accounts like @RichiJMiller would also send automated replies to Trump’s account, but in order to sell merchandise like T-shirts to followers. Those accounts have also been suspended.
+It’s not clear how many reply bots are working to take advantage of Donald Trump’s activity, but Twitter seems to be moving fast. Since bots are against the site’s rules, the conversations don’t appear to be so cluttered by spam and calls to buy mugs. However, it’s possible that more bots will crop up in the future.

@@ -1,7 +1,0 @@
-http://www.theverge.com/2016/11/30/13774998/spark-email-mac-launch
-Spark email arrives for the Mac - The Verge
-Dan Seifert
-Spark, a sleek and customizable email app for iPhones and iPads, is debuting on the Mac today. The free app supports a variety of email services, including Gmail, Outlook, Yahoo, iCloud, Exchange, and other IMAP services. It boasts an intelligent organization system that automatically categorizes emails into different groups and will only notify for emails you actually want to see. It also has integrations with Dropbox, Box, iCloud Drive, and Evernote.
-In addition to intelligence, Spark is highly customizable, letting you choose which features to display or use, depending on your workflow. Emails can be snoozed for later or batch archived or deleted easily. If you use Spark on iOS, customizations and snoozed emails will sync over to the Mac version of the app.
-Spark has plenty of competition on the Mac, including Apple’s default Mail app, Airmail, Polymail, Newton, and just using a web browser to access Gmail or other services. But its clean design, powerful features, and zero cost might make it an attractive option for those looking for something better than the default.
-Spark for Mac can be downloaded from the Mac App Store for free starting today.

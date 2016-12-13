@@ -151,10 +151,8 @@ def topic_finder(k, corpus_tfidf, dictionary, texts):
     corpus_lsi = lsi[corpus_tfidf] # create a double wrapper over the original corpus: bow->tfidf->fold-in-lsi
 
     #stampa i topic
-    '''
     for i in range(0, lsi.num_topics-1):
         print "Topic #", i, ": ", lsi.print_topic(i)
-    '''
 
     top = similarity_calculator(dictionary, corpus_lsi) #lista ordinata in base alla similarita'
     similarity_printer(texts, top)  #stampa la classifica dei piu' simili
@@ -175,6 +173,6 @@ def content_recommender(texts, clean_texts):
     similarity_printer(texts, top) #stampa la classifica
 
     print "\n# C ### analyzer.py ###\triduzione dimensionale\n"
-    topics = [2,10,950] #cambiare qui i valori di k
+    topics = [2,5,20] #cambiare qui i valori di k
     for k in topics:
         topic_finder(k, corpus_tfidf, lexicon, texts)

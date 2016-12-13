@@ -1,0 +1,26 @@
+http://www.theverge.com/2016/11/10/13586658/microsoft-surface-dial-hands-on
+A closer look at Microsoft’s crazy Surface Dial puck - The Verge
+Tom Warren
+Microsoft unveiled its Surface Studio PC last month, alongside a crazy-looking Surface Dial puck. The new accessory is, perhaps, the most surprising and unique part of the Surface Studio. It's a big puck that is designed to be placed on the Studio's screen to produce radial menus and act as another form of input. Microsoft is selling the Surface Dial separately to the Surface Studio, so you can use it with any Windows 10 PC. I got a chance to try one out for a few days, to see whether you'd want to use a Surface Dial on a PC.
+It's worth explaining what the Surface Dial is and what it isn't. Microsoft is marketing it as an accessory you use in one hand while you use the other to sketch with the Surface Pen. That makes it the perfect compliment to the Surface Pen for Surface Pro 4 and Surface Book users. Unfortunately, you can't use the Surface Dial on the screen of either of these devices to generate radial menus around the Dial at the moment. Microsoft is planning to add this with a firmware update early next year, but during my use I'm not convinced you'd want to use it on the small screen of either of these devices regularly.
+Grid View
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Surface Dial hands-on photos
+The Dial isn't a large device, nor is it weighty, and it fits comfortably in the palm of my hand. It also sits unobtrusively on a desk. Its basic function is to provide contextually-relevant shortcuts within apps and Windows 10 itself. These are relatively simple in Windows 10, with the ability to adjust volume, scroll, zoom, undo, and brightness. You can also assign keyboard shortcuts for when you rotate the wheel right or left, and click the top of it. Rotating, clicking, and click and holding are the main ways you interact and control the radial menus the Dial produces.
+The Surface Dial works best alongside a Surface Pen
+I've tested the Dial in a number of apps, including Spotify, OneNote, Photoshop, Sketchable, and Chrome. While the ability to control volume or zoom in-and-out in Photoshop is convenient, the Dial is far more useful when an app is optimized for it. I've found that Sketchable, a drawing app, has one of the best implementations available right now. You can tap and hold the top of the Dial to access radial menus for color controls, brush diameter, zoom, and undo. It really works great when paired with the Pen while you're drawing, and it feels natural to interact like this.
+Outside of Sketchable I haven't found many uses for the Dial just yet. OneNote has a neat feature to rewind when you use the Surface Pen to jot down notes, but Word and other universal Office apps just have the basic zoom or scroll features. Once we get a chance to test the Surface Studio I'd imagine it will make more sense with the bigger display and the combination of touchscreen, pen, and Dial input. By itself, there's not enough apps that make use of the Surface Dial yet to really get a feel for how this would exist next to your regular desktop PC. More than 15 apps currently support the Dial, but that leaves the door open for a lot more, like Sketchable, to demonstrate the potential for a device like the Surface Dial.

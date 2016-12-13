@@ -1,0 +1,6 @@
+http://www.theverge.com/2016/12/7/13876146/apple-single-sign-on-tv-abc-disney
+ABC and Disney add support for Apple’s new single sign-on feature - The Verge
+Chris Welch
+The initial list of companies supporting Apple’s new single sign-on feature for iOS was pretty lacking. But one day after launch, an old and important ally is jumping on board: ABC / Disney. Both the Watch ABC and Watch Disney apps for Apple TV and iOS will now automatically log you in if you’ve entered your cable or satellite credentials into the new settings menu.
+This works on iPhone, iPad, and Apple TV; some apps only support single sign-on with certain devices at the moment. ESPN, another Disney-owned business, still hasn’t enabled single sign-in for its streaming apps.
+Single sign-on will only work if whoever you get TV from is among Apple’s early partners. For now, that list excludes huge providers like Comcast, Verizon Fios, and Charter. Hopefully Apple will add onto that list quickly alongside the effort to expand app support. Other TV Everywhere apps that have yet to embrace the convenient sign-in feature include HBO Go, CBS, NBC, Fox, and more.

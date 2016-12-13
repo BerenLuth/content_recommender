@@ -1,0 +1,5 @@
+http://www.theverge.com/2016/11/17/13665432/microsoft-cortana-lists-feature-wunderlist-support
+Cortana will now help you create lists with Wunderlist support - The Verge
+Tom Warren
+Microsoft is getting ready for the holiday season by prepping Cortana with a new list skill. You can now ask the digital assistant to "create a holiday list" and the new list functionality will generate a list that's available and synced across Cortana for Windows, iOS, and Android. While list functionality is a fairly basic feature, Microsoft is going one step further by integrating Cortana into Wunderlist.
+Wunderlist, the popular to-do list app that Microsoft acquired last year, will now appear as a connection option in Cortana's settings. Existing lists from your Wunderlist can be shared into Cortana, and you'll be able to set due dates on to-dos and create additional shared lists within the Wunderlist app. Microsoft is starting to roll out this new list support in Cortana today.

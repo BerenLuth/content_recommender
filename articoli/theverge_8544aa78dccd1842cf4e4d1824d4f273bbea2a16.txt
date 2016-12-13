@@ -1,0 +1,8 @@
+http://www.theverge.com/2016/3/12/11212152/steam-vr-desktop-theater-mode-beta-announced
+Desktop Theater Mode will let you play any Steam game with your Vive VR headset - The Verge
+Dante D'Orazio
+Like any piece of new technology, virtual reality needs a legacy mode to handle content not designed for VR. Soon, the HTC Vive (and other Steam VR headsets) will have just that, with "Desktop Theater Mode."
+Unfortunately, we don't have any images of the feature yet, but it's safe to assume it will be very similar to the YouTube "Virtual Movie Theater" for Google Cardboard and Oculus Video, designed for the Oculus Rift and Gear VR. Both project a traditional display inside the virtual world, allowing you to view traditional 2D content on a rectangular plane.
+Unlike those software solutions, however, Desktop Theater Mode would also work to play standard, non-VR games (like your entire Steam library) with your VR headset. You'll also likely be able to use the standard Windows desktop if you so desired, though reading text comfortably with such a setup might prove difficult. Third-party software for Oculus and the Vive currently supports this already: it's called Virtual Desktop (video below), but Valve's solution will be built-in.
+Since it's a virtual environment, you'll conceivably be able to load up different "backgrounds," like a living room, and movie theater, or a desk, onto which the "display" will be projected. It has the benefit of cutting out real-world distractions, and loading up the Windows desktop could be useful in a pinch.
+According to a brief press release, the new feature is currently in early beta, and it will be shown off for the first time at GDC in San Francisco next week. We'll be there.

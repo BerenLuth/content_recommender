@@ -1,0 +1,27 @@
+http://www.theverge.com/2016/4/5/11340120/panasonic-gx85-micro-four-thirds-camera
+Panasonic's GX85 is a lite version of last year's GX8 - The Verge
+Sean O'Kane
+Panasonic has announced the GX85, a smaller, cheaper update to the advanced amateur portion of its interchangeable lens camera lineup. The new camera offers better image stabilization, a tweaked design, and lower resolution than its predecessor. The GX85 will be available in black or silver this May for $799 with a 12-32mm kit lens.
+The biggest difference between the GX85 and last year's GX8 is an all-new Micro Four Thirds image sensor. Panasonic has actually taken the resolution down from 20 megapixels to 16 here, but claims that the new sensor can still capture great detail because there is no low pass filter. Camera companies usually employ low pass filters at the expense of some fine detail because it helps get rid of moiré, but Panasonic says that a new version of the Venus image processing chip in the GX85 is able to reduce that effect.
+The sensor can still capture 4K footage at 30 or 24 frames per second, and the camera is also equipped with Panasonic's range of "4K photo" modes. These let users shoot smaller 8-megapixel images at a speed of 30 frames per second, which is useful for when photographers want to make absolutely sure that they don't miss a particular shot.
+Panasonic is also enhancing the "dual image stabilization" that debuted on the GX8. The camera body now has 5-axis image stabilization, which works in tandem with the the 2-axis stabilization in the camera's lenses.
+Grid View
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Panasonic GX85 in photos
+The GX85 is slightly narrower, shorter, and thinner than the GX8, and weighs a few ounces less. That makes it a much less imposing camera, but it lacks the tilting viewfinder and full swivel LCD of last year's camera. Unfortunately the GX85 doesn't improve much on the build quality of the GX8, which was a bit plasticky, though its a little easier to swallow with the 85's lower price tag.
+Panasonic has made some other, smaller tweaks as well. The GX85 has a revamped electromagnetic shutter (the GX8's was spring-driven), which should reduce the rolling shutter effect when shooting at high frame rates. The electronic viewfinder has been bumped up from 2.36 to 2.764 million dots,  And the Wi-Fi function is supposed to be much easier to use, with Panasonic opting for a QR code over password protection.
+With the GX85, Panasonic is bringing some of its more advanced technologies and features down to a more accessible price, while leaving behind some of the things that less experienced photographers might not appreciate. If you've been holding on to an older GX model and couldn't stomach the price tag of the GX8, the GX85 may be just what you've been looking for.

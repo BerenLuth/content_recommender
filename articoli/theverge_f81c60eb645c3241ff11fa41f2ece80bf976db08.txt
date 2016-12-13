@@ -1,0 +1,7 @@
+http://www.theverge.com/2016/11/16/13642836/google-allo-suggested-emoji-button-smart-smiley
+Google Allo is getting a suggested emoji button - The Verge
+Dieter Bohn
+Google is switching up the emoji shortcut button on its Allo chat app. Now, instead of just bringing up the emoji keyboard, the “Smart Smiley” button will bring up a list of suggested emoji and stickers that are relevant to what you’re typing. For now, the feature will only work with English.
+It’s an extension of Allo’s prediction algorithm, which so far has been used to give you suggested one-tap replies to text messages that are based on the way that you actually chat. Those “suggestion chips” will also contain emoji and stickers now, too.
+Google is also taking full advantage of its #brand relationship with the new Harry Potter movie Fantastic Beasts and Where to Find Them with a new sticker pack. There are also new themes for chats if you don’t like the standard bubble background.
+All these features are nice, I suppose, and the emoji suggestions are an example of Google leaning on its AI strengths. But they’re very far from the features that people want most from Allo. Multi-device support probably tops that list for most users, but perhaps a more important feature would be stronger default privacy protections. Allo does have an incognito mode, but the company recently reneged on a promise that it wouldn’t permanently store default conversation logs on its servers.

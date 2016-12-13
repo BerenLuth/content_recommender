@@ -1,0 +1,16 @@
+http://www.polygon.com/2016/3/16/11247288/playstation-vr-processing-unit-ps4
+PlayStation VR's processing unit doesn't add any power to the PS4 - Polygon
+Samit Sarkar
+Sony has kept mum on the capabilities of PlayStation VR's processing unit to this point, but the company finally provided some details on the box during a presentation today at the 2016 Game Developers Conference.
+"It is not extra GPU power [or] CPU power," said Chris Norden, senior staff engineer at Sony. "It is certainly not a PlayStation 4 expansion unit or upgrade."
+Norden added, "Actually, it's not really accessible to the developer in any way," noting that "the PlayStation 4 is perfectly capable of [running games at] 120 Hz."
+Sony's been so secretive about the box, which is officially called the "processor unit," that we weren't even allowed to take photos of it as recently as December. The company provided the dimensions of the box yesterday, following the announcement of the PlayStation VR price and release window: The processor unit is about the size of four CD jewel cases stacked together.
+So what does the processor unit do? A slide in Norden's presentation explained for the first time all of its functions.
+First, the box handles processing of object-based 3D audio. Baked into the device is all the intelligence to feed directional sound to players in real time. Developers don't need to account for where the player is looking; they simply stick an audio source in the virtual space and the processing unit takes care of attuning those sources on the fly.
+"All the major headsets do this," Norden said, "but we've added our own special sauce. [...] You can hear elevation easily. Players can actually point where you think a sound is coming from."
+That directional audio output, he was careful to add, is only available to the 3.5 mm headphone jack on the headset itself.
+The processing unit also handles the display of the "social screen," which is Sony's term for the second screen that you may use with PlayStation VR. The box enables the PS4 to simultaneously output an image to the headset and, say, a television, at the same time.
+The social screen can function in two modes. In "mirror mode," that second screen is fed an "undistorted, cropped and scaled image of the right eye of the display," which allows those in the room, but outside of VR, to share in the experience. The "separate mode" outputs a completely different audio and video stream to the social screen that runs in 720p at 30 frames per second.
+Norden stressed to the developers in the room that they would need to exercise restraint when building experiences for separate mode.
+"You're not going to get Uncharted 4 visuals at 60 hertz, at 1080p [in the headset], and then render out another 1280 by 720 buffer," Norden said. "You're going to have to scale things back [in separate mode]."
+Finally, it's the processing unit that handles the display when the PlayStation VR headset is being used in cinematic mode.

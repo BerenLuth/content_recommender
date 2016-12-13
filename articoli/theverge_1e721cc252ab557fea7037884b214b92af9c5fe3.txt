@@ -1,0 +1,7 @@
+http://www.theverge.com/2016/11/11/13597350/apple-tv-ibooks-story-time-app
+Apple's new iBooks StoryTime app puts children's books on the TV screen - The Verge
+James Vincent
+Without any fanfare, Apple has released a new app for tvOS that’s designed to let children and parents read books together before bedtime. iBooks StoryTime is available to download from the App Store today, and promises to give families a "different way to experience classic kids' books and discover new favorites."
+The read-aloud function includes on-screen narration
+You can use the app to read books on your TV, using the Siri Remote to flip pages, and the app also supports iBooks with the Read-Aloud function. This means there’s pre-recorded narration for the book with automatic page turning. In some cases there are also sound effects and words are highlighted on-screen as they’re read aloud. Users can purchase iBooks wherever they like, and if their Apple TV is connected to their iCloud account, the titles will automatically appear on the app.
+Available Read-Aloud books include Lava, based on the Pixar short, The ABCs of Cookies, The Little Red Hen, Green Eggs and Ham, Meet Tracker, and Goodnight Moon. And anyone who downloads the (free) app will also get a copy of Dora's Big Buddy Race Read-Along Storybook for free to see how the format works on the big screen.
