@@ -1,4 +1,4 @@
-# This project is made entirely by Fabio Rosada for a Web Intelligence class at Ca Foscari University
+# This project is made for a Web Intelligence class at Ca Foscari University
 
 Essentially this is a content-based recommender, that downloads 1000 news from www.theverge.com (only for test) and analyze them in order to provide suggestions.
 
